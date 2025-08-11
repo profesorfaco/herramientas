@@ -42,5 +42,11 @@ IV.2.b Plantea problemas de investigación y mediación desde la especificidad d
 
 IV.3.d Comunica conceptos, ideas y propuestas mediante recursos y lenguajes bi y tri dimensionales.
 
+### Clase a clase
+
+Clase-01 → https://github.com/profesorfaco/herramientas/tree/main/clase-01
+
+
+
 
 
