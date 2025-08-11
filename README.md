@@ -6,7 +6,7 @@ El **propósito formativo de Herramientas Computacionales** (AUD40004) es:
 
 Este propósito de despliega en el IV Semestre, en paralelo a 
 
-- Proyecto VI (9 créditos SCT),
+- Proyecto IV (9 créditos SCT),
 
 - Introducción a la Investigación en Diseño (3 créditos SCT),
 
