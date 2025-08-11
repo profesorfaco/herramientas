@@ -1,2 +1,3 @@
-# herramientas
-Herramientas Computacionales - Diseño
+# AUD40004 → Herramientas Computacionales → Diseño → Universidad de Chile
+
+Pendiente
