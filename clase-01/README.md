@@ -27,7 +27,7 @@ Además, ya se comienza a registrar sus cuentas en GitHub:
 |	N°	| Nombre	|	Cuenta en GitHub	|
 |-------|-------|-------|
 |	1	|	Abarca Gallardo, Claudio Andrés	| https://github.com/Kupaa-0 |
-|	2	|	Aedo Venegas, Anaís Valentina	| Pendiente |
+|	2	|	Aedo Venegas, Anaís Valentina	| https://github.com/anaisvalentina |
 |	3	|	Alvarez Álvarez, Carol Mabel	| Pendiente |
 |	4	|	Araos Figueroa, Martina Alejandra	| Pendiente |
 |	5	|	Ávila Pinochet, Valentina Constanza	| Pendiente |
@@ -52,6 +52,6 @@ Además, ya se comienza a registrar sus cuentas en GitHub:
 |	24	|	Solar Astorga, Antonia Belén	| Pendiente |
 |	25	|	Soto Quezada, Alanis Alexandra	|	Pendiente	|
 |	26	|	Soto Sandoval, Veronica Paulina Monserrat	| https://github.com/ronnistp |
-|	27	|	Troncoso Astudillo, Valentina Constanza	| Pendiente |
+|	27	|	Troncoso Astudillo, Valentina Constanza	| https://github.com/valentinatroncoso |
 |	28	|	Urzúa Bravo, Martina de los Angeles	| Pendiente |
 |	29	|	Vera Díaz, Diego Andrés	| Pendiente |
