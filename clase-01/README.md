@@ -1,4 +1,4 @@
-# Herramientas Computacionales → Diseño → Clase 01 → 11/08/2025
+# Herramientas Computacionales → Clase 01 → 11/08/2025
 
 ### Paso a paso:
 
