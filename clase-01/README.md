@@ -22,7 +22,7 @@ Corresponde recordar que en las modificaciones de p5.js aprovechamos las referen
 
 - https://p5js.org/reference/p5/colorMode/
 
-Además, ya se comienza a registrar sus cuentas en GitHub:
+Además, ya se comienzan a registrar sus cuentas en GitHub, con base en los *follow*
 
 |	N°	| Nombre	|	Cuenta en GitHub	|
 |-------|-------|-------|
