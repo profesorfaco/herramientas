@@ -6,13 +6,15 @@ Vamos a crear una cuenta en [GitHub](https://github.com/).
 
 Luego, con la misma cuenta, vamos a acceder a https://editor.p5js.org/
 
-En tal editor preparemos un *sketch*, siguiendo las instrucciones. 
+En tal editor preparemos un *sketch*, siguiendo las instrucciones para el cambio del `createCanvas()`, `background()`, `ellipse()`, `fill()`.  
 
 Luego, descargaremos todos los documentos generados por el editor de p5.js, y los vamos a subir a un [nuevo repositorio en GitHub](https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository). 
 
 Luego [activaremos GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#about-publishing-sources) en tal repositorio, y veremos el resultado en línea, con una dirección que podrán compartir con cualquier persona. 
 
-Lo que seguirá será comprender y repetir lo que acabamos de hacer para introducirnos, desde la práctica, a la teoría que corresponde a la primera unidad de la asignatura, la que nos permitirá comunicar conceptos, ideas y propuestas mediante recuerdos bi y tri dimensionales en la WWW (World Wide Web).
+Lo que seguirá será comprender y repetir lo que acabamos de hacer para introducirnos, desde la práctica, a la teoría que corresponde a la primera unidad de la asignatura, la que nos permitirá comunicar conceptos, ideas y propuestas mediante recuerdos bi y tri dimensionales **en la WWW (World Wide Web)**.
+
+- - - - 
 
 Les dejo un repositorio donde queda resuelto lo mismo que ustedes pudieron resolver: https://profesorfaco.github.io/clase-01/
 
@@ -22,7 +24,9 @@ Corresponde recordar que en las modificaciones de p5.js aprovechamos las referen
 
 - https://p5js.org/reference/p5/colorMode/
 
-Además, ya se comienzan a registrar sus cuentas en GitHub, con base en los *follow*
+- - - - - 
+
+Además, ya comienzo a registrar sus cuentas en GitHub, con base en los *follow*
 
 |	N°	| Nombre	|	Cuenta en GitHub	|
 |:-------:|:-------|:-------|
