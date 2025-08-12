@@ -25,7 +25,7 @@ Corresponde recordar que en las modificaciones de p5.js aprovechamos las referen
 Además, ya se comienzan a registrar sus cuentas en GitHub, con base en los *follow*
 
 |	N°	| Nombre	|	Cuenta en GitHub	|
-|-------|-------|-------|
+|:-------:|:-------|:-------|
 |	1	|	Abarca Gallardo, Claudio Andrés	| https://github.com/Kupaa-0 |
 |	2	|	Aedo Venegas, Anaís Valentina	| https://github.com/anaisvalentina |
 |	3	|	Alvarez Álvarez, Carol Mabel	| https://github.com/CarolMabel |
