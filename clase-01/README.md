@@ -12,7 +12,11 @@ Luego, descargaremos todos los tres documentos generados por el editor de p5.js,
 
 Luego activaremos GitHub Pages en tal repositorio, y veremos el resultado en línea, con una dirección que podrán compartir con cualquier persona. 
 
-Lo que seguirá será comprender y repetir lo que acabamos de hacer para introducirnos, desde la práctica, a la teoría que corresponde a la primera unidad de la asignatura: La que nos permitirá comunicar conceptos, ideas y propiuestas mediante recuerdos bi y tri dimensionales en web.
+Lo que seguirá será comprender y repetir lo que acabamos de hacer para introducirnos, desde la práctica, a la teoría que corresponde a la primera unidad de la asignatura, la que nos permitirá comunicar conceptos, ideas y propiuestas mediante recuerdos bi y tri dimensionales en la WWW (World Wide Web).
+
+Les dejo un repositorio donde queda resuelto lo mismo que ustedes pudieron resolver: https://profesorfaco.github.io/clase-01/
+
+Además, ya se comienza a registrar sus cuentas en GitHub:
 
 |	N°	| Nombre	|	Cuenta en GitHub	|
 |-------|-------|-------|
