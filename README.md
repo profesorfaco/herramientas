@@ -20,7 +20,7 @@ Detrás de este propósito está el acercamiento a **dos ámbitos de desempeño*
 
 **IV. Sistematizar** experiencias de la disciplina o profesión, produciendo, representando, transfiriendo y preservando conocimientos y vinculándolas con otros saberes, para identificar necesidades y generar soluciones de diseño.
 
-Aportando a **las siguientes competencias**: 
+Este acercamiento se hace aportar a **las siguientes competencias**: 
 
 I.1 Identifica, analiza y determina problemas, demandas y necesidades.
 
@@ -41,6 +41,8 @@ I.2.b Evalúa problemas de mediación en distintos entornos y escalas.
 IV.2.b Plantea problemas de investigación y mediación desde la especificidad del contexto y el marco teórico pertinente.
 
 **IV.3.d Comunica conceptos, ideas y propuestas mediante recursos y lenguajes bi y tri dimensionales**.
+
+- - - - -  - 
 
 ### Clase a clase
 
