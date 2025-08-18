@@ -48,6 +48,8 @@ IV.2.b Plantea problemas de investigación y mediación desde la especificidad d
 
 Clase-01 → https://github.com/profesorfaco/herramientas/tree/main/clase-01
 
+Clase-02 → https://github.com/profesorfaco/herramientas/tree/main/clase-02
+
 
 
 
