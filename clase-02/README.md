@@ -105,7 +105,6 @@ html, body {
   font-family:Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background:silver;
 }
 
 canvas {
@@ -114,12 +113,12 @@ canvas {
 }
 
 div.texto{
-  margin:2rem auto;
+  margin:3rem auto;
   width:min(90vw, 800px);
   padding:1rem;
   text-align: left;
-  background:rgba(255,255,255,.25);
-  box-shadow: 0 0 5px rgba(0,0,0,.25);
+  background:rgba(255,255,255,.4);
+  box-shadow: 0 0 5px rgba(0,0,0,.2);
   border-radius: 10px;
   backdrop-filter: blur(5px);
 }
