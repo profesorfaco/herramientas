@@ -8,30 +8,30 @@ Ya han creado una cuenta en [GitHub](https://github.com/):
 |:-------:|:-------|:-------|:-------|
 |	1	|	Abarca Gallardo, Claudio Andrés	| https://github.com/Kupaa-0 | Pendiente |
 |	2	|	Aedo Venegas, Anaís Valentina	| https://github.com/anaisvalentina | https://anaisvalentina.github.io/cofito/ |
-|	3	|	Alvarez Álvarez, Carol Mabel	| https://github.com/CarolMabel | Pendiente |
+|	3	|	Alvarez Álvarez, Carol Mabel	| https://github.com/CarolMabel | https://carolmabel.github.io/clase1/ |
 |	4	|	Araos Figueroa, Martina Alejandra	| https://github.com/martina-af | Pendiente |
-|	5	|	Ávila Pinochet, Valentina Constanza	| https://github.com/valentinaavila21 | Pendiente |
-|	6	|	Calquín Suárez, Camila Natalia	|	https://github.com/Camila-calquin	| Pendiente |
-|	7	|	Castillo Carrasco, Javier Enrique	|	https://github.com/javvierCC	| Pendiente |
-|	8	|	Caviedes Núñez, Angelina Paz Belén	|	https://github.com/gilicvnz	 | Pendiente |
-|	9	|	Dinamarca Cea, Millaray Belén	| https://github.com/milladincea | Pendiente |
-|	10	|	Dunsmore Gatica, Catalyna Isidora | https://github.com/catadunsmore | Pendiente |
-|	11	|	García Hidalgo, María Fernanda	|	https://github.com/marfghid	| Pendiente |
-|	12	|	Lara Hernández, Antonia Soledad	| https://github.com/antonialarah | Pendiente |
+|	5	|	Ávila Pinochet, Valentina Constanza	| https://github.com/valentinaavila21 | https://valentinaavila21.github.io/miprimeraweb/ |
+|	6	|	Calquín Suárez, Camila Natalia	|	https://github.com/Camila-calquin	| https://camila-calquin.github.io/Primer_trabajo/ |
+|	7	|	Castillo Carrasco, Javier Enrique	|	https://github.com/javvierCC	| https://javviercc.github.io/primera-vez-mish/ |
+|	8	|	Caviedes Núñez, Angelina Paz Belén	|	https://github.com/gilicvnz	 | https://gilicvnz.github.io/primera_vez/ |
+|	9	|	Dinamarca Cea, Millaray Belén	| https://github.com/milladincea | https://milladincea.github.io/primeravezdemillantitos/ |
+|	10	|	Dunsmore Gatica, Catalyna Isidora | https://github.com/catadunsmore | https://catadunsmore.github.io/voten_park_dong_gyu/ |
+|	11	|	García Hidalgo, María Fernanda	|	https://github.com/marfghid	| https://marfghid.github.io/pyp-2-nau/ |
+|	12	|	Lara Hernández, Antonia Soledad	| https://github.com/antonialarah | https://antonialarah.github.io/clase-1/ |
 |	13	|	Mardones Vergara, Antonia Belén	| Pendiente | Pendiente |
-|	14	|	Marín Oliva, Ayline Militza	| https://github.com/aylineoff	| Pendiente |
+|	14	|	Marín Oliva, Ayline Militza	| https://github.com/aylineoff | https://aylineoff.github.io/primer-post-/ |
 |	15	|	Medina Torres, Vicente Emilio	| Pendiente | Pendiente |
 |	16	|	Ortega Venegas, Constanza Ignacia	| https://github.com/shootingstarcony | Pendiente |
-|	17	|	Padilla Ortega, Antonia Sayen	|	https://github.com/evorakie	| Pendiente |
+|	17	|	Padilla Ortega, Antonia Sayen	|	https://github.com/evorakie	| https://evorakie.github.io/herramientas-computacionales/ |
 |	18	|	Parra Luna, Sofia Ignacia	| https://github.com/SofiaParraLunaUCH | Pendiente |
-|	19	|	Pepe Vargas, Giulia Fiore	|	https://github.com/catsgugu	| Pendiente |
-|	20	|	Pereira Osorio, Renata Millaray	| https://github.com/lenapereoso | Pendiente |
+|	19	|	Pepe Vargas, Giulia Fiore	|	https://github.com/catsgugu	| https://catsgugu.github.io/Primer-post-jaja-que-nervios/ |
+|	20	|	Pereira Osorio, Renata Millaray	| https://github.com/lenapereoso | https://lenapereoso.github.io/oli/ |
 |	21	|	Petric Tobar, Bastián Vicente	| Pendiente | Pendiente |
-|	22	|	Pino Álvarez, Francisco Andrés	| https://github.com/FranciscoPinoAUCh | Pendiente |
+|	22	|	Pino Álvarez, Francisco Andrés	| https://github.com/FranciscoPinoAUCh | https://franciscopinoauch.github.io/Clase-1-HC/ |
 |	23	|	Rivas Morales, Benjamín Alfonso	| Pendiente | Pendiente |
 |	24	|	Solar Astorga, Antonia Belén	| Pendiente | Pendiente |
 |	25	|	Soto Quezada, Alanis Alexandra	|	Pendiente	| Pendiente |
-|	26	|	Soto Sandoval, Veronica Paulina Monserrat	| https://github.com/ronnistp | Pendiente |
+|	26	|	Soto Sandoval, Veronica Paulina Monserrat	| https://github.com/ronnistp | https://ronnistp.github.io/clase_1/ |
 |	27	|	Troncoso Astudillo, Valentina Constanza	| https://github.com/valentinatroncoso | Pendiente |
 |	28	|	Urzúa Bravo, Martina de los Angeles	| Pendiente | Pendiente |
 |	29	|	Vera Díaz, Diego Andrés	| Pendiente | Pendiente |
