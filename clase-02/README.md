@@ -26,15 +26,15 @@ Ya han creado una cuenta en [GitHub](https://github.com/):
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/af/af2c63c49d3d9f1fb2966a715c4529c7/perfil/a202b0e4a1cef4ff0e9c12cfd631d5c0.jpg)	|	Sofia Parra	| https://github.com/SofiaParraLunaUCH | Pendiente |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/60/60c3aebd2c1aa5d76e71a1aa964a3294/perfil/aca11ba81e9534085b7c4a2a5bbf2f75.jpg)	|	Giulia Pepe	|	https://github.com/catsgugu	| https://catsgugu.github.io/Primer-post-jaja-que-nervios/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/d4/d4a3b68251cdaeedc8ef9c7c8e529c10/perfil/c7c954009d62454f40da6df8dd0e86ed.jpg)	|	Renata Pereira	| https://github.com/lenapereoso | https://lenapereoso.github.io/oli/ |
-|	![alt text](https://ucampus.uchile.cl/d/r/usuario/40/4080bf7ee9e6f466c65db6b4f30a9b84/perfil/68cb80b12f84cd93d091c0209a161140.jpg)	|	Bastián Petric | Pendiente | Pendiente |
+|	![alt text](https://ucampus.uchile.cl/d/r/usuario/40/4080bf7ee9e6f466c65db6b4f30a9b84/perfil/68cb80b12f84cd93d091c0209a161140.jpg)	|	Bastián Petric | https://github.com/Bastich03 | https://bastich03.github.io/Clase_11_08/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/7e/7e455daee7dd10201682aea3e34f88f2/perfil/f441826da4c92b784654c92e93cf231f.jpg)	|	Francisco Pino | https://github.com/FranciscoPinoAUCh | https://franciscopinoauch.github.io/Clase-1-HC/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/a5/a54de1b5b41bdeb3d7e79edfe3b49149/perfil/6c8f0915892f2c540f3f67be59ef40af.jpg)	|	Benjamín Rivas	| https://github.com/benjaminrivasm | https://benjaminrivasm.github.io/herramientas-computacionales/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/92/92a862945aa492ef4625d338a940ccb8/perfil/a11c7a4cb19a84fc1da7974d3ed254b0.jpg)	|	Antonia Solar	| https://github.com/antoniasolar | https://antoniasolar.github.io/primer-trabajo-sii/ |
-|	![alt text](https://ucampus.uchile.cl/d/r/usuario/df/df589b97234c2615e28e3edf479529e4/perfil/59e7f414895270f123eedb424e5c6365.jpg)	|	Alanis Soto |	Pendiente	| Pendiente |
+|	![alt text](https://ucampus.uchile.cl/d/r/usuario/df/df589b97234c2615e28e3edf479529e4/perfil/59e7f414895270f123eedb424e5c6365.jpg)	|	Alanis Soto |	https://github.com/Alanissq	| https://alanissq.github.io/herramientas-computacionales/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/1f/1f2591f6c8216de20df592c4467c4f40/perfil/2daf0b9215d782859fb4bb2c655dcc2a.jpg)	|	Veronica Soto | https://github.com/ronnistp | https://ronnistp.github.io/clase_1/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/7a/7a339fe48aa3bd2fcee12a945bd6e8a4/perfil/32f89ecf96a8d4a0025fdecb105fb73c.jpg)	|	Valentina Troncoso | https://github.com/valentinatroncoso | Pendiente |
-|	![alt text](https://ucampus.uchile.cl/d/r/usuario/f3/f3010585248916cc90e7dfd21f9183a3/perfil/c84d5d312c2b487c383303c5112f6243.jpg)	|	Martina Urzúa	| Pendiente | Pendiente |
-|	![alt text](https://ucampus.uchile.cl/d/r/usuario/0c/0cc1383f745b3664019554312cfda2a1/perfil/4e1d63de2963fd529c7e61e3c39e18f8.jpg)	|	Diego Vera | Pendiente | Pendiente |
+|	![alt text](https://ucampus.uchile.cl/d/r/usuario/f3/f3010585248916cc90e7dfd21f9183a3/perfil/c84d5d312c2b487c383303c5112f6243.jpg)	|	Martina Urzúa	| https://github.com/martinaurzua | https://martinaurzua.github.io/mi-primera-vez/ |
+|	![alt text](https://ucampus.uchile.cl/d/r/usuario/0c/0cc1383f745b3664019554312cfda2a1/perfil/4e1d63de2963fd529c7e61e3c39e18f8.jpg)	|	Diego Vera | https://github.com/DiegoV29-AST | https://diegov29-ast.github.io/clase-1/ |
 
 El la misma cuenta publicaron un primer trabajo, aprovechancho [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#about-publishing-sources).
 
