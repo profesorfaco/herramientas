@@ -50,4 +50,124 @@ Hoy trabajaremos con un [editor de código fuente en línea](https://phcode.dev/
 
 - - - - - - 
 
+### Con las ediciones que hemos hecho hasta el *break*, quedamos con lo siguiente: 
+
+En el **HTML** (`index.html`):
+
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Herramientas Computacionales</title>
+        <script src="https://cdn.jsdelivr.net/npm/p5@1.11.8/lib/p5.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <main>
+            <div class="texto">
+                <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="currentColor" class="bi bi-globe-americas" viewBox="0 0 16 16">
+                    <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0M2.04 4.326c.325 1.329 2.532 2.54 3.717 3.19.48.263.793.434.743.484q-.121.12-.242.234c-.416.396-.787.749-.758 1.266.035.634.618.824 1.214 1.017.577.188 1.168.38 1.286.983.082.417-.075.988-.22 1.52-.215.782-.406 1.48.22 1.48 1.5-.5 3.798-3.186 4-5 .138-1.243-2-2-3.5-2.5-.478-.16-.755.081-.99.284-.172.15-.322.279-.51.216-.445-.148-2.5-2-1.5-2.5.78-.39.952-.171 1.227.182.078.099.163.208.273.318.609.304.662-.132.723-.633.039-.322.081-.671.277-.867.434-.434 1.265-.791 2.028-1.12.712-.306 1.365-.587 1.579-.88A7 7 0 1 1 2.04 4.327Z"
+                    />
+                </svg>
+
+                <h1>Hola, mi nombre es Anais</h1>
+
+                <p>En Herramientas Computacionales espero aprender ???</p>
+
+                <h2>Mis amiguis esperan aprender otras cosillas:</h2>
+
+                <ol>
+                    <li>
+                        <img src="https://ucampus.uchile.cl/d/r/usuario/99/991a2c1f191ccfcfc0fe2525db45303e/perfil/7d0ca9e947225ce2ad0d5e5f63afa1ee.jpg" />
+                        <a href="https://javviercc.github.io/primera-vez-mish/" target="_blank">javvierCC</a>
+                    </li>
+                    <li>
+                        <img src="https://ucampus.uchile.cl/d/r/usuario/12/121316a7c853c2ba33a02fa8c60f3b90/perfil/38043eca356c4c7a780186c2c9994b18.jpg" />
+                        <a href="https://javviercc.github.io/primera-vez-mish/" target="_blank">javvierCC</a>
+                    </li>
+                    <li>
+                        <img src="https://ucampus.uchile.cl/d/r/usuario/12/121316a7c853c2ba33a02fa8c60f3b90/perfil/38043eca356c4c7a780186c2c9994b18.jpg" />
+                        <a href="https://javviercc.github.io/primera-vez-mish/" target="_blank">javvierCC</a>
+                    </li>
+                </ol>
+            </div>
+        </main>
+        <script src="sketch.js"></script>
+    </body>
+</html>
+```
+
+En el **CSS** (`style.css`):
+
+```
+html, body {
+  font-family:Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background:silver;
+}
+
+canvas {
+  display: block;
+  text-align: center;
+}
+
+div.texto{
+  margin:2rem auto;
+  width:min(90vw, 800px);
+  padding:1rem;
+  text-align: left;
+  background:rgba(255,255,255,.25);
+  box-shadow: 0 0 5px rgba(0,0,0,.25);
+  border-radius: 10px;
+  backdrop-filter: blur(5px);
+}
+
+ol{
+  margin:0;
+  padding:0;
+}
+
+li{
+  list-style: none;
+  line-height: 2rem;
+  border-bottom:1px solid silver;
+  display:flex;
+  padding:0.2rem 0;
+
+}
+
+li img {
+  border-radius: 50% 50%;
+  width:2rem;
+  height:2rem;
+  margin-right:1rem;
+}
+```
+
+Y el **JS** (`sketch.js`) no lo hemos tocado respecto de la clase pasada: 
+
+```
+function setup() {
+  createCanvas(windowWidth, windowHeight).position(0,0).style('z-index','-1');
+   background(255,216,223);
+}
+function draw() {
+  d=random(50,20);
+  colorMode(HSB,360,100,100);
+  fill(random(0,360),100,100);
+  ellipse(mouseX,mouseY,d,d);
+}
+function keyPressed() {
+  if (key === 'p') {
+    save('dibujo.jpg');
+  }
+}
+
+```
+
+
+- - - - - - 
+
 [← Clase 01](https://github.com/profesorfaco/herramientas/tree/main/clase-01) | Clase 03 →
