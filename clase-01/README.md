@@ -59,3 +59,7 @@ Además, ya comienzo a registrar sus cuentas en GitHub, con base en los *follow*
 |	27	|	Troncoso Astudillo, Valentina Constanza	| https://github.com/valentinatroncoso |
 |	28	|	Urzúa Bravo, Martina de los Angeles	| Pendiente |
 |	29	|	Vera Díaz, Diego Andrés	| Pendiente |
+
+- - - - - - - - -
+
+[Clase-02](https://github.com/profesorfaco/herramientas/tree/main/clase-02) →
