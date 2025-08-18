@@ -6,36 +6,35 @@ Ya han creado una cuenta en [GitHub](https://github.com/):
 
 |	N°	| Nombre	|	Cuenta en GitHub	| Trabajo |
 |:-------:|:-------|:-------|:-------|
-|	1	|	Abarca Gallardo, Claudio Andrés	| https://github.com/Kupaa-0 | Pendiente |
-|	2	|	Aedo Venegas, Anaís Valentina	| https://github.com/anaisvalentina | https://anaisvalentina.github.io/cofito/ |
-|	3	|	Alvarez Álvarez, Carol Mabel	| https://github.com/CarolMabel | https://carolmabel.github.io/clase1/ |
-|	4	|	Araos Figueroa, Martina Alejandra	| https://github.com/martina-af | Pendiente |
-|	5	|	Ávila Pinochet, Valentina Constanza	| https://github.com/valentinaavila21 | https://valentinaavila21.github.io/miprimeraweb/ |
-|	6	|	Calquín Suárez, Camila Natalia	|	https://github.com/Camila-calquin	| https://camila-calquin.github.io/Primer_trabajo/ |
-|	7	|	Castillo Carrasco, Javier Enrique	|	https://github.com/javvierCC	| https://javviercc.github.io/primera-vez-mish/ |
-|	8	|	Caviedes Núñez, Angelina Paz Belén	|	https://github.com/gilicvnz	 | https://gilicvnz.github.io/primera_vez/ |
-|	9	|	Dinamarca Cea, Millaray Belén	| https://github.com/milladincea | https://milladincea.github.io/primeravezdemillantitos/ |
-|	10	|	Dunsmore Gatica, Catalyna Isidora | https://github.com/catadunsmore | https://catadunsmore.github.io/voten_park_dong_gyu/ |
-|	11	|	García Hidalgo, María Fernanda	|	https://github.com/marfghid	| https://marfghid.github.io/pyp-2-nau/ |
-|	12	|	Lara Hernández, Antonia Soledad	| https://github.com/antonialarah | https://antonialarah.github.io/clase-1/ |
-|	13	|	Mardones Vergara, Antonia Belén	| Pendiente | Pendiente |
-|	14	|	Marín Oliva, Ayline Militza	| https://github.com/aylineoff | https://aylineoff.github.io/primer-post-/ |
-|	15	|	Medina Torres, Vicente Emilio	| Pendiente | Pendiente |
-|	16	|	Ortega Venegas, Constanza Ignacia	| https://github.com/shootingstarcony | Pendiente |
-|	17	|	Padilla Ortega, Antonia Sayen	|	https://github.com/evorakie	| https://evorakie.github.io/herramientas-computacionales/ |
-|	18	|	Parra Luna, Sofia Ignacia	| https://github.com/SofiaParraLunaUCH | Pendiente |
-|	19	|	Pepe Vargas, Giulia Fiore	|	https://github.com/catsgugu	| https://catsgugu.github.io/Primer-post-jaja-que-nervios/ |
-|	20	|	Pereira Osorio, Renata Millaray	| https://github.com/lenapereoso | https://lenapereoso.github.io/oli/ |
-|	21	|	Petric Tobar, Bastián Vicente	| Pendiente | Pendiente |
-|	22	|	Pino Álvarez, Francisco Andrés	| https://github.com/FranciscoPinoAUCh | https://franciscopinoauch.github.io/Clase-1-HC/ |
-|	23	|	Rivas Morales, Benjamín Alfonso	| Pendiente | Pendiente |
-|	24	|	Solar Astorga, Antonia Belén	| Pendiente | Pendiente |
-|	25	|	Soto Quezada, Alanis Alexandra	|	Pendiente	| Pendiente |
-|	26	|	Soto Sandoval, Veronica Paulina Monserrat	| https://github.com/ronnistp | https://ronnistp.github.io/clase_1/ |
-|	27	|	Troncoso Astudillo, Valentina Constanza	| https://github.com/valentinatroncoso | Pendiente |
-|	28	|	Urzúa Bravo, Martina de los Angeles	| Pendiente | Pendiente |
-|	29	|	Vera Díaz, Diego Andrés	| Pendiente | Pendiente |
-
+|	1	| Claudio Abarca	| https://github.com/Kupaa-0 | Pendiente |
+|	2	|	Anaís Aedo | https://github.com/anaisvalentina | https://anaisvalentina.github.io/cofito/ |
+|	3	|	Carol Álvarez	| https://github.com/CarolMabel | https://carolmabel.github.io/clase1/ |
+|	4	|	Martina Araos | https://github.com/martina-af | Pendiente |
+|	5	|	Valentina Ávila | https://github.com/valentinaavila21 | https://valentinaavila21.github.io/miprimeraweb/ |
+|	6	|	Camila Calquín |	https://github.com/Camila-calquin	| https://camila-calquin.github.io/Primer_trabajo/ |
+|	7	|	Javier Castillo |	https://github.com/javvierCC	| https://javviercc.github.io/primera-vez-mish/ |
+|	8	|	Angelina Caviedes |	https://github.com/gilicvnz	 | https://gilicvnz.github.io/primera_vez/ |
+|	9	|	Millaray Dinamarca	| https://github.com/milladincea | https://milladincea.github.io/primeravezdemillantitos/ |
+|	10	|	Catalyna Dunsmore | https://github.com/catadunsmore | https://catadunsmore.github.io/voten_park_dong_gyu/ |
+|	11	|	Fernanda García	|	https://github.com/marfghid	| https://marfghid.github.io/pyp-2-nau/ |
+|	12	|	Antonia Lara | https://github.com/antonialarah | https://antonialarah.github.io/clase-1/ |
+|	13	|	Antonia Mardones | Pendiente | Pendiente |
+|	14	|	Ayline Marín	| https://github.com/aylineoff | https://aylineoff.github.io/primer-post-/ |
+|	15	|	Vicente Medina | Pendiente | Pendiente |
+|	16	|	Constanza Ortega | https://github.com/shootingstarcony | Pendiente |
+|	17	|	Sayen Padilla	|	https://github.com/evorakie	| https://evorakie.github.io/herramientas-computacionales/ |
+|	18	|	Sofia Parra	| https://github.com/SofiaParraLunaUCH | Pendiente |
+|	19	|	Giulia Pepe	|	https://github.com/catsgugu	| https://catsgugu.github.io/Primer-post-jaja-que-nervios/ |
+|	20	|	Renata Pereira	| https://github.com/lenapereoso | https://lenapereoso.github.io/oli/ |
+|	21	|	Bastián Petric | Pendiente | Pendiente |
+|	22	|	Francisco Pino | https://github.com/FranciscoPinoAUCh | https://franciscopinoauch.github.io/Clase-1-HC/ |
+|	23	|	Benjamín Rivas	| Pendiente | Pendiente |
+|	24	|	Antonia Solar	| Pendiente | Pendiente |
+|	25	|	Alanis Soto |	Pendiente	| Pendiente |
+|	26	|	Veronica Soto | https://github.com/ronnistp | https://ronnistp.github.io/clase_1/ |
+|	27	|	Valentina Troncoso | https://github.com/valentinatroncoso | Pendiente |
+|	28	|	Martina Urzúa	| Pendiente | Pendiente |
+|	29	|	Diego Vera | Pendiente | Pendiente |
 
 El la misma cuenta publicaron un primer trabajo, aprovechancho [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#about-publishing-sources).
 
