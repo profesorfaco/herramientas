@@ -32,7 +32,7 @@ Ya han creado una cuenta en [GitHub](https://github.com/):
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/92/92a862945aa492ef4625d338a940ccb8/perfil/a11c7a4cb19a84fc1da7974d3ed254b0.jpg)	|	Antonia Solar	| https://github.com/antoniasolar | https://antoniasolar.github.io/primer-trabajo-sii/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/df/df589b97234c2615e28e3edf479529e4/perfil/59e7f414895270f123eedb424e5c6365.jpg)	|	Alanis Soto |	https://github.com/Alanissq	| https://alanissq.github.io/herramientas-computacionales/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/1f/1f2591f6c8216de20df592c4467c4f40/perfil/2daf0b9215d782859fb4bb2c655dcc2a.jpg)	|	Veronica Soto | https://github.com/ronnistp | https://ronnistp.github.io/clase_1/ |
-|	![alt text](https://ucampus.uchile.cl/d/r/usuario/7a/7a339fe48aa3bd2fcee12a945bd6e8a4/perfil/32f89ecf96a8d4a0025fdecb105fb73c.jpg)	|	Valentina Troncoso | https://github.com/valentinatroncoso | Pendiente |
+|	![alt text](https://ucampus.uchile.cl/d/r/usuario/7a/7a339fe48aa3bd2fcee12a945bd6e8a4/perfil/32f89ecf96a8d4a0025fdecb105fb73c.jpg)	|	Valentina Troncoso | https://github.com/valentinatroncoso | https://valentinatroncoso.github.io/1-clase/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/f3/f3010585248916cc90e7dfd21f9183a3/perfil/c84d5d312c2b487c383303c5112f6243.jpg)	|	Martina Urzúa	| https://github.com/martinaurzua | https://martinaurzua.github.io/mi-primera-vez/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/0c/0cc1383f745b3664019554312cfda2a1/perfil/4e1d63de2963fd529c7e61e3c39e18f8.jpg)	|	Diego Vera | https://github.com/DiegoV29-AST | https://diegov29-ast.github.io/clase-1/ |
 
