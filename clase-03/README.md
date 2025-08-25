@@ -36,11 +36,7 @@ Ya han creado una cuenta en [GitHub](https://github.com/):
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/f3/f3010585248916cc90e7dfd21f9183a3/perfil/c84d5d312c2b487c383303c5112f6243.jpg)	|	Martina Urzúa	| https://github.com/martinaurzua | https://martinaurzua.github.io/mi-primera-vez/ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/0c/0cc1383f745b3664019554312cfda2a1/perfil/4e1d63de2963fd529c7e61e3c39e18f8.jpg)	|	Diego Vera | https://github.com/DiegoV29-AST | https://diegov29-ast.github.io/clase-1/ |
 
-El la misma cuenta publicaron un primer trabajo, aprovechancho [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#about-publishing-sources).
-
-La clase de hoy comienza examinando lo hecho, para poder reconocer los lenguajes de descripción y programación que son claves para el desarollo de sitios web profesionales o prototipos avanzados de aplicaciones web. 
-
-Hoy trabajaremos con un [editor de código fuente en línea](https://phcode.dev/), que nos dará indicaciones para poder describir y/o programar respuesta a la pregunta que le hace todo navegador web a cada página que carga: 
+Avanzamos de la primera publicación en [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#about-publishing-sources), explorando algo de las diferencias entre: 
 
 - **¿Qué es lo que contiene esta página? Se responde con HTML (HyperText Markup Language)**. Lenguaje estándar que describe la estructura de las páginas web. HTML5 es la versión más reciente de este lenguaje. El bloque constructivo más básico del HTML es el elemento. Cada elemento de HTML se escribe, generalmente, entre etiquetas: `<etiqueta>contenido</etiqueta>` → Podemos complementar esta breve introducción a HTML con una revisión de la página: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics
 
@@ -50,123 +46,122 @@ Hoy trabajaremos con un [editor de código fuente en línea](https://phcode.dev/
 
 - - - - - - 
 
-### Con las ediciones que hemos hecho hasta el *break*, quedamos con lo siguiente: 
+### Hoy seguiremos trabajando con HTML, CSS y JavaScript. Pero lo haremos en un mismo documento: 
 
-En el **HTML** (`index.html`):
+Sólo necesitaremos un (`index.html`):
 
 ```
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <title>Herramientas Computacionales</title>
-        <script src="https://cdn.jsdelivr.net/npm/p5@1.11.8/lib/p5.js"></script>
-        <link rel="stylesheet" type="text/css" href="style.css" />
         <meta charset="utf-8" />
+        <title>Herramientas Computacionales</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/2.0.4/p5.min.js" integrity="sha512-rOTpdy9fXlcLeLxPj5H4pof51FAx2lVK8Soexk8yTek9wrenwm56MKT2VddH8GCDd4a2js2i4GwezlUkbGdVQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <style>
+            html,
+            body {
+                margin: 0;
+                padding: 0;
+                background: pink;
+            }
+
+            h1 {
+                text-wrap: balance;
+            }
+
+            canvas {
+                display: block;
+                text-align: center;
+            }
+
+            main {
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                width: min(90vw, 800px);
+                background: rgba(255, 255, 255, 0.25);
+                box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+                border-radius: 10px;
+            }
+
+            main > div {
+                width: 46%;
+                margin: 2%;
+                float: left;
+            }
+
+            @media (orientation: portrait) {
+                main > div {
+                    width: 96%;
+                    margin: 2%;
+                    float: none;
+                }
+            }
+
+            canvas {
+                border-radius: 10px;
+            }
+
+            span {
+                text-decoration: underline;
+            }
+        </style>
     </head>
     <body>
         <main>
-            <div class="texto">
-                <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="currentColor" class="bi bi-globe-americas" viewBox="0 0 16 16">
-                    <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0M2.04 4.326c.325 1.329 2.532 2.54 3.717 3.19.48.263.793.434.743.484q-.121.12-.242.234c-.416.396-.787.749-.758 1.266.035.634.618.824 1.214 1.017.577.188 1.168.38 1.286.983.082.417-.075.988-.22 1.52-.215.782-.406 1.48.22 1.48 1.5-.5 3.798-3.186 4-5 .138-1.243-2-2-3.5-2.5-.478-.16-.755.081-.99.284-.172.15-.322.279-.51.216-.445-.148-2.5-2-1.5-2.5.78-.39.952-.171 1.227.182.078.099.163.208.273.318.609.304.662-.132.723-.633.039-.322.081-.671.277-.867.434-.434 1.265-.791 2.028-1.12.712-.306 1.365-.587 1.579-.88A7 7 0 1 1 2.04 4.327Z"
-                    />
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-gem" viewBox="0 0 16 16">
+                    <path d="M3.1.7a.5.5 0 0 1 .4-.2h9a.5.5 0 0 1 .4.2l2.976 3.974c.149.185.48.45.01.644L8.4 15.3a.5.5 0 0 1-.8 0L.1 5.3a.5.5 0 0 1 0-.6zm11.386 3.785-1.806-2.41-.776 2.413zm-3.633.004.961-2.989H4.186l.963 2.995zM5.47 5.495 8 13.366l2.532-7.876zm-1.371-.999-.78-2.422-1.818 2.425zM1.499 5.5l5.113 6.817-2.192-6.82zm7.889 6.817 5.123-6.83-2.928.002z"/>
                 </svg>
-
-                <h1>Hola, mi nombre es Anais</h1>
-
-                <p>En Herramientas Computacionales espero aprender ???</p>
-
-                <h2>Mis amiguis esperan aprender otras cosillas:</h2>
-
+                <h1>Hola, yo soy <span id="nombre"></span></h1>
+                <p>En la asignatura de Herramientas Computacionales espero aprender <span id="aprendizaje"></span>.</p>
+                <h2>Tengo compañeres que esperan aprender:</h2>
                 <ol>
                     <li>
-                        <img src="https://ucampus.uchile.cl/d/r/usuario/99/991a2c1f191ccfcfc0fe2525db45303e/perfil/7d0ca9e947225ce2ad0d5e5f63afa1ee.jpg" />
-                        <a href="https://javviercc.github.io/primera-vez-mish/" target="_blank">javvierCC</a>
+                        <img src="falta foto" />
+                        <a href="https://…" target="_blank">Amigue</a>
                     </li>
                     <li>
-                        <img src="https://ucampus.uchile.cl/d/r/usuario/12/121316a7c853c2ba33a02fa8c60f3b90/perfil/38043eca356c4c7a780186c2c9994b18.jpg" />
-                        <a href="https://javviercc.github.io/primera-vez-mish/" target="_blank">javvierCC</a>
+                        <img src="falta foto" />
+                        <a href="https://…" target="_blank">Amigue</a>
                     </li>
                     <li>
-                        <img src="https://ucampus.uchile.cl/d/r/usuario/12/121316a7c853c2ba33a02fa8c60f3b90/perfil/38043eca356c4c7a780186c2c9994b18.jpg" />
-                        <a href="https://javviercc.github.io/primera-vez-mish/" target="_blank">javvierCC</a>
+                        <img src="falta foto" />
+                        <a href="https://…" target="_blank">Amigue</a>
                     </li>
                 </ol>
             </div>
+            <div id="pecinco"></div>
         </main>
-        <script src="sketch.js"></script>
+        <script>
+            var valor = document.getElementById("pecinco").offsetWidth;
+
+            window.addEventListener("resize", function () {
+                valor = document.getElementById("pecinco").offsetWidth;
+            });
+
+            function setup() {
+                createCanvas(valor, valor, WEBGL).parent("#pecinco");
+                select("#nombre").html("Nombre Apellido");
+                select("#aprendizaje").html("frase con lo que quiero aprender");
+            }
+            function draw() {
+                background(255, 216, 223);
+                orbitControl();
+                sphere(valor / 3);
+            }
+
+            function windowResized() {
+                resizeCanvas(valor, valor);
+            }
+        </script>
     </body>
 </html>
-```
-
-En el **CSS** (`style.css`):
-
-```
-html, body {
-  font-family:Helvetica, Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-canvas {
-  display: block;
-  text-align: center;
-}
-
-div.texto{
-  margin:3rem auto;
-  width:min(90vw, 800px);
-  padding:1rem;
-  text-align: left;
-  background:rgba(255,255,255,.4);
-  box-shadow: 0 0 5px rgba(0,0,0,.2);
-  border-radius: 10px;
-  backdrop-filter: blur(5px);
-}
-
-ol{
-  margin:0;
-  padding:0;
-}
-
-li{
-  list-style: none;
-  line-height: 2rem;
-  border-bottom:1px solid silver;
-  display:flex;
-  padding:0.2rem 0;
-
-}
-
-li img {
-  border-radius: 50% 50%;
-  width:2rem;
-  height:2rem;
-  margin-right:1rem;
-}
-```
-
-Y el **JS** (`sketch.js`) no lo hemos tocado respecto de la clase pasada: 
-
-```
-function setup() {
-  createCanvas(windowWidth, windowHeight).position(0,0).style('z-index','-1');
-   background(255,216,223);
-}
-function draw() {
-  d=random(50,20);
-  colorMode(HSB,360,100,100);
-  fill(random(0,360),100,100);
-  ellipse(mouseX,mouseY,d,d);
-}
-function keyPressed() {
-  if (key === 'p') {
-    save('dibujo.jpg');
-  }
-}
 
 ```
 
 
 - - - - - - 
 
-[← Clase 01](https://github.com/profesorfaco/herramientas/tree/main/clase-01) | Clase 03 →
+[← Clase 01](https://github.com/profesorfaco/herramientas/tree/main/clase-02) | Clase 04 →
