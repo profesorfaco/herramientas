@@ -46,11 +46,36 @@ IV.2.b Plantea problemas de investigación y mediación desde la especificidad d
 
 ### Clase a clase
 
-Clase-01 → https://github.com/profesorfaco/herramientas/tree/main/clase-01
+Clase-01 → 11/08/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-01
 
-Clase-02 → https://github.com/profesorfaco/herramientas/tree/main/clase-02
+Clase-02 → 18/08/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-02
 
+Clase-03 → 25/08/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-03
 
+Clase-04 → 1/09/2025 → Pendiente
 
+Clase-05 → 8/09/2025 → Trabajo práctico, en sala (20% del promedio final)
+
+Receso → 15/09/2025
+
+Clase-06 → 22/09/2025
+
+Clase-07 → 29/09/2025
+
+Clase-08 → 6/10/2025 → Trabajo práctico, en sala (20% del promedio final
+
+Clase-09 → 13/10/2025
+
+Clase-10 → 20/10/2025
+
+Clase-11 → 27/10/2025 → Trabajo práctico, en sala (20% del promedio final
+
+Clase-12 → 3/11/2025
+
+Clase-13 → 10/11/2025
+
+Clase-14 → 17/11/2025 → Avance de trabajo final, en sala
+
+Clase-15 → 24/11/2025 → Entrega de trabajo final (40% del promedio final)
 
 
