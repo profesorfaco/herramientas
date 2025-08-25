@@ -1,8 +1,6 @@
 # Herramientas Computacionales → Clase 03 → 25/08/2025
 
-### Paso a paso:
-
-Ya han creado una cuenta en [GitHub](https://github.com/):
+### Ya han creado y editado algo en [GitHub](https://github.com/):
 
 |	Foto	| Nombre	|	Cuenta en GitHub	| Trabajo |
 |:-------:|:-------|:-------|:-------|
