@@ -1,4 +1,4 @@
-# Herramientas Computacionales → Clase 02 → 18/08/2025
+# Herramientas Computacionales → Clase 03 → 25/08/2025
 
 ### Paso a paso:
 
