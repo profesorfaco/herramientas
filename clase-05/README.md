@@ -14,6 +14,10 @@ Se indicará una serie de desafíos a resolver mediante el trabajo en un sitio w
 | 6 | Activar GitHub Pages y compartir el vínculo por el medio que se le indique | 1,0 |
 | 7 | Punto base | 1,0 |
 
+En caso de no cumplir con el ítem 6 antes de la hora de término de la asignatura (18:15 hrs.), se pierde el punto base. 
+
+En caso de no cumplir con el ítem 6 antes de que pasen 15 minutos de la hora de términos de la asignatura (18:30 hrs.), se obtiene la calificación mínima (1,0)
+
 - - - - - - - -
 
 [← Clase 04](https://github.com/profesorfaco/herramientas/tree/main/clase-04) | Clase 06 →
