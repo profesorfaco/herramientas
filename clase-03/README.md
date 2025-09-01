@@ -162,4 +162,4 @@ Sólo necesitaremos un (`index.html`):
 
 - - - - - - 
 
-[← Clase 01](https://github.com/profesorfaco/herramientas/tree/main/clase-02) | Clase 04 →
+[← Clase 01](https://github.com/profesorfaco/herramientas/tree/main/clase-02) | [Clase 04 →](https://github.com/profesorfaco/herramientas/tree/main/clase-04)
