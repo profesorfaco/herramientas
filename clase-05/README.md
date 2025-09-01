@@ -13,3 +13,7 @@ Se indicará una serie de desafíos a resolver mediante el trabajo en un sitio w
 | 5 | Subir todo lo necesario a GitHub | 1,0 |
 | 6 | Activar GitHub Pages | 1,0 |
 | 7 | Punto base | 1, 0 |
+
+- - - - - - - -
+
+[← Clase 04](https://github.com/profesorfaco/herramientas/tree/main/clase-04) | Clase 06 →
