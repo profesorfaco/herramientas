@@ -2,7 +2,6 @@
 
 Veamos lo que ya se ha podido avanzar.
 
-
 | Nombre | Cuenta en GitHub | Trabajo de la clase pasada |
 | :--------------- | :--------------- | :--------------- |
 | Claudio Abarca | https://github.com/Kupaa-0 | https://kupaa-0.github.io/Clase-2/ |
@@ -35,8 +34,7 @@ Veamos lo que ya se ha podido avanzar.
 | Martina Urzúa | https://github.com/martinaurzua | https://martinaurzua.github.io/mi-segunda-vez/ |
 | Diego Vera | https://github.com/DiegoV29-AST | https://diegov29-ast.github.io/clase_2_otra_vez_waos/ |
 
-
-En el trabajo de la clase pasada juntamos y luego separamos lo que corresponde a cada lenguaje que debemos reconocer en el código fuente de una página web. 
+En el trabajo de la clase pasada pudimos juntar y luego separar lo que corresponde a cada lenguaje que debemos reconocer en el código fuente de una página web. 
 
 Pudimos ver que dentro de una misma página es posible usar `<etiquetas></etiquetas>` que no demarcan a un elemento de HTML, sino que abren y cierra un espacio para usar otro lenguaje, distinto de HTML.
 
