@@ -60,6 +60,7 @@ Pero si el código es muy largo, o parte del código debe afectar a distintas p�
 
 - - - - - - - -
 
+[← Clase 03](https://github.com/profesorfaco/herramientas/tree/main/clase-03) | [Clase 05 →](https://github.com/profesorfaco/herramientas/tree/main/clase-05)
 
 
 
