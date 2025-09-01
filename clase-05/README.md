@@ -12,7 +12,7 @@ Se indicará una serie de desafíos a resolver mediante el trabajo en un sitio w
 | 4 | JavaScript (con ayuda de p5.js) | 1,0 |
 | 5 | Subir todo lo necesario a GitHub | 1,0 |
 | 6 | Activar GitHub Pages | 1,0 |
-| 7 | Punto base | 1, 0 |
+| 7 | Punto base | 1,0 |
 
 - - - - - - - -
 
