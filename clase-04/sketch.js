@@ -280,16 +280,20 @@ function draw() {
     shininess(50);
     metalness(1);
 
-    // Add shapes.
+    // Ojo con el push()
     push();
     fill("red");
     translate(0, -valor / 4, -valor / 7);
     sphere(valor / 4);
     pop();
+    // Ojo con el pop()
+    // Ojo con el push()
     push();
     fill("blue");
     sphere(valor / 5);
     pop();
+    // Ojo con el pop()
+
 }
 
 function windowResized() {
