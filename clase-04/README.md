@@ -34,9 +34,47 @@ Veamos lo que ya se ha podido avanzar.
 | Martina Urzúa | https://github.com/martinaurzua | https://martinaurzua.github.io/mi-segunda-vez/ |
 | Diego Vera | https://github.com/DiegoV29-AST | https://diegov29-ast.github.io/clase_2_otra_vez_waos/ |
 
-En el trabajo de la clase pasada pudimos juntar y luego separar lo que corresponde a cada lenguaje que debemos reconocer en el código fuente de una página web. 
+Lo primero que corresponde rescatar del trabajo de la semana pasada y de la previa, en un informe breve, formal y organizado encargado de [ChatGP](https://chatgpt.com/s/t_68b5d77b8a688191bb4289aa11198d3a):
 
-Pudimos ver que dentro de una misma página es posible usar `<etiquetas></etiquetas>` que no demarcan a un elemento de HTML, sino que abren y cierra un espacio para usar otro lenguaje, distinto de HTML.
+*Tras el análisis de las intenciones de aprendizaje expresadas por los estudiantes, se identifican las siguientes coincidencias y prioridades temáticas*:
+
+### 1. Programación y Desarrollo Web
+
+* Alta frecuencia de interés en aprender **programación básica y avanzada**.
+* Interés por **desarrollo web** (HTML, JavaScript, creación de páginas).
+* Preferencia por aprender a **usar código como medio de expresión visual**.
+
+### 2. Manejo de Software de Edición y Diseño
+
+* Múltiples menciones a programas como **Illustrator, Photoshop e InDesign**.
+* Interés en **After Effects para edición de video**.
+* Énfasis en **aprovechar mejor las herramientas de diseño digital** ya conocidas.
+
+### 3. Modelado y Herramientas 3D
+
+* Recurrente interés en **modelado en 3D** y uso de programas relacionados (ej. Blender).
+* Deseo de integrar herramientas 3D como complemento al diseño gráfico.
+
+### 4. Exploración de Nuevas Herramientas Digitales
+
+* Apertura a **descubrir nuevos programas y métodos de trabajo**.
+* Búsqueda de **retos creativos y experimentación con software variado**.
+
+### 5. Dimensión Personal y Motivacional
+
+* Expresiones vinculadas a **aprender lo más posible** y **nivelar lagunas de conocimiento**.
+* Menciones al deseo de **no estresarse**, **disfrutar el proceso** y **ser feliz aprendiendo**.
+
+**Conclusión:**
+Las principales coincidencias se concentran en **programación/desarrollo web**, **software de diseño y edición (Adobe Suite)** y **modelado 3D**. Como preferencias complementarias, destacan la exploración de nuevas herramientas digitales y la motivación personal por un aprendizaje significativo, desafiante y disfrutable.
+
+- - - - - 
+
+Ahora, volviendo al asunto de **Programación y Desarrollo Web**, del que ya estamos aprendiendo:
+
+Podríamos juntar y separar lo que corresponde a cada lenguaje que debemos reconocer en el código fuente de una página web. 
+
+En el código fuente de una página podríamos usar `<etiquetas></etiquetas>` que no demarcan a un elemento de HTML, sino que abren y cierra un espacio para usar otro lenguaje, distinto de HTML.
 
 - Si uso las etiquetas `<svg></svg>`: Puedo incluir SVG.
 
@@ -44,9 +82,9 @@ Pudimos ver que dentro de una misma página es posible usar `<etiquetas></etique
 
 - Su uso las etiquetas `<script></script>`: Puedo incluir JavaScript.
 
-Hace sentido tener todo junto, aprovechando las etiquetas recién indicadas, si el código fuente es corto. 
+Hace sentido tener todo junto, aprovechando las etiquetas recién indicadas, si el código fuente es breve. 
 
-Pero si el código es muy largo, o parte del código debe afectar a distintas páginas HTML, lo mejor es separar cada lenguaje en su documento, con su propia extensión. 
+Pero si el código es muy extenso, o parte del código debe afectar a distintas páginas HTML, lo mejor es separar cada lenguaje en su documento, con su propia extensión. 
 
 - HTML en un `*.html`
 
@@ -57,6 +95,9 @@ Pero si el código es muy largo, o parte del código debe afectar a distintas p�
 - JavaScript en un `*.js`
 
 - - - - - - - -
+
+
+
 
 [← Clase 03](https://github.com/profesorfaco/herramientas/tree/main/clase-03) | [Clase 05 →](https://github.com/profesorfaco/herramientas/tree/main/clase-05)
 
