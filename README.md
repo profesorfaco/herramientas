@@ -52,7 +52,7 @@ Clase-02 → 18/08/2025 → https://github.com/profesorfaco/herramientas/tree/ma
 
 Clase-03 → 25/08/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-03
 
-Clase-04 → 1/09/2025 → Pendiente
+Clase-04 → 1/09/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-04
 
 Clase-05 → 8/09/2025 → Trabajo práctico, en sala (20% del promedio final)
 
