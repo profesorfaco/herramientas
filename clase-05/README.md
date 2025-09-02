@@ -1,6 +1,6 @@
 # Herramientas Computacionales → Clase-05 → 8/09/2025
 
-### Registro del trabajo de la clase pasada
+Partamos por el registro del trabajo de la clase pasada
 
 |	Nombre	|	Cuenta en GitHub	|	Previa a la primera_nota	|
 |	:---------------------------	|	:-------------------------------------	|	:-----------------------------------------------	
@@ -36,7 +36,7 @@
 
 [Benjamín Rivas](https://benjaminrivasm.github.io/herramientas-computacionales/clase-04/) y [Martina Urzúa](https://martinaurzua.github.io/mi-tercera-vez/) me mostraron el Ucursitos listo en sus computadores. Pero sólo Benjamín subió el `sketch.js` actualizado a su cuenta de GitHub :-/
 
-### Trabajo práctico, en sala (20% del promedio final)
+#### Trabajo práctico, en sala (20% del promedio final)
 
 Se indicará una serie de desafíos a resolver mediante el trabajo en un sitio web, que incluirá ajustes en: 
 
