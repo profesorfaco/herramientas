@@ -34,7 +34,7 @@
 |	Martina Urzúa	|	https://github.com/martinaurzua	|	https://martinaurzua.github.io/mi-tercera-vez/	|
 |	Diego Vera	|	https://github.com/DiegoV29-AST	|	Pendiente	|
 
-Benjamín Rivas y Martina Urzúa me mostraron el Ucursitos listo. Pero sólo Benjamín subió el sketch.js actualizado a su cuenta de GitHub :-/
+[Benjamín Rivas](https://benjaminrivasm.github.io/herramientas-computacionales/clase-04/) y [Martina Urzúa](https://martinaurzua.github.io/mi-tercera-vez/) me mostraron el Ucursitos listo en sus computadores. Pero sólo Benjamín subió el `sketch.js` actualizado a su cuenta de GitHub :-/
 
 ### Trabajo práctico, en sala (20% del promedio final)
 
