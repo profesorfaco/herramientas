@@ -41,7 +41,7 @@ Partamos por el registro del trabajo de la clase pasada
 Se indicará una serie de desafíos a resolver mediante el trabajo en un sitio web, que incluirá ajustes en: 
 
 | Ítem | Adelanto | Puntaje |
-|:----:|:---------|:--------|
+|:----:|:---------|:-------:|
 | 1 | HTML | 1,0 |
 | 2 | CSS | 1,0|
 | 3 | SVG | 1,0 |
