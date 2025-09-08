@@ -123,7 +123,7 @@ A continuación los detalles de la tabla de arriba:
 |	Fernanda García	|	https://github.com/marfghid	|	https://marfghid.github.io/primera-nota	| ✓ |
 |	Antonia Lara	|	https://github.com/antonialarah	|	https://antonialarah.github.io/primera-nota/	| P |
 |	Antonia Mardones	|	https://github.com/antoniamardones	|	https://antoniamardones.github.io/primera-nota/	| ✓ |
-|	Ayline Marín	|	https://github.com/aylineoff	|	https://github.com/aylineoff/primera-nota	| P |
+|	Ayline Marín	|	https://github.com/aylineoff	|	https://aylineoff.github.io/primera-nota	| P |
 |	Vicente Medina	|	https://github.com/vicentemedinat	|	https://vicentemedinat.github.io/primera-nota/	| P |
 |	Constanza Ortega	|	https://github.com/shootingstarcony	|	https://shootingstarcony.github.io/primera-nota/	| P |
 |	Sayen Padilla	|	https://github.com/evorakie	|	https://evorakie.github.io/primera-nota/	| P |
