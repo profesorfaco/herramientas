@@ -136,7 +136,7 @@ A continuación los detalles de la tabla de arriba:
 |	Antonia Solar	|	https://github.com/antoniasolar	|	https://antoniasolar.github.io/primera-nota/	| ✓ |
 |	Alanis Soto	|	https://github.com/Alanissq	|	https://alanissq.github.io/primera-nota/	| ✓ |
 |	Veronica Soto	|	https://github.com/ronnistp	|	https://ronnistp.github.io/primera-nota/	| P |
-|	Valentina Troncoso	|	https://github.com/valentinatroncoso	|	https://valentinatroncoso.github.io/primera-nota/	| P |
+|	Valentina Troncoso	|	https://github.com/valentinatroncoso	|	https://valentinatroncoso.github.io/primera-nota/	| ✓ |
 |	Martina Urzúa	|	https://github.com/martinaurzua	|	https://martinaurzua.github.io/primera-nota/	| ✓ |
 |	Diego Vera	|	https://github.com/dv29ast	|	https://dv29ast.github.io/primera-nota	| P |
 
