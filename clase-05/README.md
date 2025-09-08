@@ -54,6 +54,58 @@ En caso de no cumplir con el ítem 6 antes de la hora de término de la asignatu
 
 En caso de no cumplir con el ítem 6 antes de que pasen 15 minutos de la hora de términos de la asignatura (18:30 hrs.), se obtiene la calificación mínima (1,0)
 
+A continuación los detalles: 
+
+- - - - - - - - - - 
+
+##### HTML
+
+0,25 → En la cabeza del HTML agregue una [Meta Descripción para su página web](https://es.semrush.com/blog/como-hacer-una-meta-descripcion-perfecta/)
+
+0,25 → Haga que en la división de identidad portafolio se desplieguen 8 trabajos. 
+
+0,25 → En la imagen de todos los trabajos debiera mantenerse un peso bajo los 200kb, buena resolución y una misma proporción (sean todas cuadradas o todas rectangulares con una misma relación de ancho y alto).
+
+0,25 → Haga que su nombre, al final de la página, vincule a su perfil en GitHub.
+
+##### CSS
+
+0,25 → Cambiar la fuente tipográfica por otra “Condensed” ofrecida por Google Fonts
+
+0,25 → Ajustar el tamaño del título de primer nivel y el vínculo que incluye, para que el saludo y su nombre ocupen sólo 2 líneas en los distintos tamaños de pantalla.
+
+0,25 → Cambie el color del título de segundo nivel a rojo-principal
+
+0,25 → Agregue un segundo filtro a los rostros de sus compañerxs, que se anule al momento de poner el mouse encima. 
+
+##### SVG (1 pto.)
+
+0,5 → Seleccione 1 pictograma y agregue sólo 1 elemento que lo complemente, dibujado con la herramienta de “paintbrush” llevando su “fidelity” al máximo de Smooth (como se muestra en [este truco](https://www.instagram.com/reel/DNDrj7wAOIW/?igsh=MTNrem1yMmtjdGszOQ%3D%3D))
+
+0,5 → Guarde el resultado como incial.svg, e inclúyalo en la carpeta (reemplazando el archivo que ya tiene tal nombre). No olvide subir el archivo junto a los demás elementos de su repositorio en GitHub.
+
+##### JavaScript con ayuda de p5.js (1pto.)
+
+0,25 → Aproveche el U-Cursitos hecho por Benjamín Rivas, y ajustado por el Profesor.
+
+0,25 → Póngale una cinta dieciochera al sombrero de U-Cursitos
+
+0,5 → Asegúrese de que todos los vínculos en los “avatares” de sus compañerxs lo lleven a una página web operativa. Este punto depende mucho de seguir la siguiente instrucción
+
+##### Subir todo lo necesario a una cuenta de GitHub, bien organizada (1 pto.)
+
+0,5 → Usar los archivos [index.html](https://github.com/profesorfaco/herramientas/blob/main/clase-05/index.html), [inicial.svg](https://github.com/profesorfaco/herramientas/blob/main/clase-05/inicial.svg), [sketch.js](https://github.com/profesorfaco/herramientas/blob/main/clase-05/sketch.js) y [style.css](https://github.com/profesorfaco/herramientas/blob/main/clase-05/style.css)
+
+0,25 → Crear un repositorio de nombre primera-nota. Note que todas las letras son minúsculas, y que no hay espacio entre letras, sólo hay un guión (-).
+
+0,25 → Subir la carpeta con imágenes de portafolio ya preparadas, con extensión `*.webp`
+
+##### Activar GitHub Pages y compartir el vínculo por el medio que se le indique
+
+0,5 → No olvide activar GitHub Pages. Recuerde que de no hacerlo no funcionarán los vínculos a las imágenes de su portafolio
+
+0,5 → El medio para compartir el vínculo es el buzón de tareas en u-cursos
+
 - - - - - - - -
 
 [← Clase 04](https://github.com/profesorfaco/herramientas/tree/main/clase-04) | Clase 06 →
