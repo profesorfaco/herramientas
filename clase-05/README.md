@@ -114,7 +114,7 @@ A continuación los detalles de la tabla de arriba:
 |	Anaís Aedo	|	https://github.com/anaisvalentina	|	https://anaisvalentina.github.io/primera-nota/	| ✓ |
 |	Carol Álvarez	|	https://github.com/CarolMabel	|	https://carolmabel.github.io/primera-nota/	| ✓ |
 |	Martina Araos	|	https://github.com/martina-af	|	https://martina-af.github.io/primera-nota/	| ✓ |
-|	Valentina Ávila	|	https://github.com/valentinaavila21	|	https://valentinaavila21.github.io/primera-nota/	| P |
+|	Valentina Ávila	|	https://github.com/valentinaavila21	|	https://valentinaavila21.github.io/primera-nota/	| ✓ |
 |	Camila Calquín	|	https://github.com/Camila-calquin	|	https://camila-calquin.github.io/primera-nota/	| ✓ |
 |	Javier Castillo	|	https://github.com/javvierCC	|	https://javviercc.github.io/primera-nota/	| ✓ |
 |	Angelina Caviedes	|	https://github.com/gilicvnz	|	https://gilicvnz.github.io/primera-nota/	| ✓ |
