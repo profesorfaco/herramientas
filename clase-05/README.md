@@ -119,7 +119,7 @@ A continuación los detalles de la tabla de arriba:
 |	Javier Castillo	|	https://github.com/javvierCC	|	https://javviercc.github.io/primera-nota/	| ✓ |
 |	Angelina Caviedes	|	https://github.com/gilicvnz	|	https://gilicvnz.github.io/primera-nota/	| P |
 |	Millaray Dinamarca	|	https://github.com/milladincea	|	https://milladincea.github.io/primera-nota/	| ✓ |
-|	Catalyna Dunsmore	|	https://github.com/catadunsmore	|	https://catadunsmore.github.io/primera-nota/	| P |
+|	Catalyna Dunsmore	|	https://github.com/catadunsmore	|	https://catadunsmore.github.io/primera-nota/	| ✓ |
 |	Fernanda García	|	https://github.com/marfghid	|	https://marfghid.github.io/primera-nota	| ✓ |
 |	Antonia Lara	|	https://github.com/antonialarah	|	https://antonialarah.github.io/primera-nota/	| P |
 |	Antonia Mardones	|	https://github.com/antoniamardones	|	https://antoniamardones.github.io/primera-nota/	| ✓ |
