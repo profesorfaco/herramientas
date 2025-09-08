@@ -58,7 +58,7 @@ En caso de no cumplir con el ítem 6 antes de que pasen 15 minutos de la hora de
 
 A continuación los detalles de la tabla de arriba:
 
-##### HTML
+##### HTML (1 pto.)
 
 0,25 → En la cabeza del HTML agregue una [Meta Descripción para su página web](https://es.semrush.com/blog/como-hacer-una-meta-descripcion-perfecta/)
 
@@ -68,7 +68,7 @@ A continuación los detalles de la tabla de arriba:
 
 0,25 → Haga que su nombre, al final de la página, vincule a su perfil en GitHub.
 
-##### CSS
+##### CSS (1 pto.)
 
 0,25 → Cambiar la fuente tipográfica por otra “Condensed” ofrecida por Google Fonts
 
@@ -100,7 +100,7 @@ A continuación los detalles de la tabla de arriba:
 
 0,25 → Subir la carpeta con imágenes de portafolio ya preparadas, con extensión `*.webp`
 
-##### Activar GitHub Pages y compartir el vínculo por el medio que se le indique
+##### Activar GitHub Pages y compartir el vínculo por el medio que se le indique (1 pto.)
 
 0,5 → No olvide activar GitHub Pages. Recuerde que de no hacerlo no funcionarán los vínculos a las imágenes de su portafolio
 
