@@ -108,7 +108,7 @@ A continuación los detalles de la tabla de arriba:
 
 - - - - - - - -
 
-|	Nombre	|	Cuenta en GitHub	|	Previa a la primera_nota	| Creada |
+|	Nombre	|	Cuenta en GitHub	|	Página en línea	| Creada |
 |	:---------------------------	|	:-------------------------------------	|	:-----------------------------------------------|:-----:|	
 |	Claudio Abarca	|	https://github.com/Kupaa-0	|	https://kupaa-0.github.io/primera-nota	| ✓ |
 |	Anaís Aedo	|	https://github.com/anaisvalentina	|	https://anaisvalentina.github.io/primera-nota/	| ✓ |
