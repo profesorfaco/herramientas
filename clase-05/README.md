@@ -54,9 +54,9 @@ En caso de no cumplir con el ítem 6 antes de la hora de término de la asignatu
 
 En caso de no cumplir con el ítem 6 antes de que pasen 15 minutos de la hora de términos de la asignatura (18:30 hrs.), se obtiene la calificación mínima (1,0)
 
-A continuación los detalles: 
-
 - - - - - - - - - - 
+
+A continuación los detalles de la tabla de arriba:
 
 ##### HTML
 
