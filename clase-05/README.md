@@ -108,37 +108,37 @@ A continuación los detalles de la tabla de arriba:
 
 - - - - - - - -
 
-|	Nombre	|	Cuenta en GitHub	|	Previa a la primera_nota	|
-|	:---------------------------	|	:-------------------------------------	|	:-----------------------------------------------	
-|	Claudio Abarca	|	https://github.com/Kupaa-0	|	https://kupaa-0.github.io/primera-nota	|
-|	Anaís Aedo	|	https://github.com/anaisvalentina	|	https://anaisvalentina.github.io/primera-nota/	|
-|	Carol Álvarez	|	https://github.com/CarolMabel	|	https://carolmabel.github.io/primera-nota/	|
-|	Martina Araos	|	https://github.com/martina-af	|	https://martina-af.github.io/primera-nota/	|
-|	Valentina Ávila	|	https://github.com/valentinaavila21	|	https://valentinaavila21.github.io/primera-nota/	|
-|	Camila Calquín	|	https://github.com/Camila-calquin	|	https://camila-calquin.github.io/primera-nota/	|
-|	Javier Castillo	|	https://github.com/javvierCC	|	https://javviercc.github.io/primera-nota/	|
-|	Angelina Caviedes	|	https://github.com/gilicvnz	|	https://gilicvnz.github.io/primera-nota/	|
-|	Millaray Dinamarca	|	https://github.com/milladincea	|	https://milladincea.github.io/primera-nota/	|
-|	Catalyna Dunsmore	|	https://github.com/catadunsmore	|	https://catadunsmore.github.io/primera-nota/	|
-|	Fernanda García	|	https://github.com/marfghid	|	https://marfghid.github.io/primera-nota	|
-|	Antonia Lara	|	https://github.com/antonialarah	|	https://antonialarah.github.io/primera-nota/	|
-|	Antonia Mardones	|	https://github.com/antoniamardones	|	https://antoniamardones.github.io/primera-nota/	|
-|	Ayline Marín	|	https://github.com/aylineoff	|	https://github.com/aylineoff/primera-nota	|
-|	Vicente Medina	|	https://github.com/vicentemedinat	|	https://vicentemedinat.github.io/primera-nota/	|
-|	Constanza Ortega	|	https://github.com/shootingstarcony	|	https://shootingstarcony.github.io/primera-nota/	|
-|	Sayen Padilla	|	https://github.com/evorakie	|	https://evorakie.github.io/primera-nota/	|
-|	Sofia Parra	|	https://github.com/SofiaParraLunaUCH	|	https://sofiaparralunauch.github.io/primera-nota/	|
-|	Giulia Pepe	|	https://github.com/catsgugu	|	https://catsgugu.github.io/primera-nota/	|
-|	Renata Pereira	|	https://github.com/lenapereoso	|	https://lenapereoso.github.io/primera-nota/	|
-|	Bastián Petric	|	https://github.com/Bastich03	|	https://bastich03.github.io/primera-nota/	|
-|	Francisco Pino	|	https://github.com/FranciscoPinoAUCh	|	https://franciscopinoauch.github.io/primera-nota/	|
-|	Benjamín Rivas	|	https://github.com/benjaminrivasm	|	https://benjaminrivasm.github.io/herramientas-computacionales/primera-nota/	|
-|	Antonia Solar	|	https://github.com/antoniasolar	|	https://antoniasolar.github.io/primera-nota/	|
-|	Alanis Soto	|	https://github.com/Alanissq	|	https://alanissq.github.io/primera-nota/	|
-|	Veronica Soto	|	https://github.com/ronnistp	|	https://ronnistp.github.io/primera-nota/	|
-|	Valentina Troncoso	|	https://github.com/valentinatroncoso	|	https://valentinatroncoso.github.io/primera-nota/	|
-|	Martina Urzúa	|	https://github.com/martinaurzua	|	https://martinaurzua.github.io/primera-nota/	|
-|	Diego Vera	|	https://github.com/dv29ast	|	https://dv29ast.github.io/primera-nota	|
+|	Nombre	|	Cuenta en GitHub	|	Previa a la primera_nota	| Creada |
+|	:---------------------------	|	:-------------------------------------	|	:-----------------------------------------------|:-----:|	
+|	Claudio Abarca	|	https://github.com/Kupaa-0	|	https://kupaa-0.github.io/primera-nota	| P |
+|	Anaís Aedo	|	https://github.com/anaisvalentina	|	https://anaisvalentina.github.io/primera-nota/	| P |
+|	Carol Álvarez	|	https://github.com/CarolMabel	|	https://carolmabel.github.io/primera-nota/	| P |
+|	Martina Araos	|	https://github.com/martina-af	|	https://martina-af.github.io/primera-nota/	| P |
+|	Valentina Ávila	|	https://github.com/valentinaavila21	|	https://valentinaavila21.github.io/primera-nota/	| P |
+|	Camila Calquín	|	https://github.com/Camila-calquin	|	https://camila-calquin.github.io/primera-nota/	| P |
+|	Javier Castillo	|	https://github.com/javvierCC	|	https://javviercc.github.io/primera-nota/	| P |
+|	Angelina Caviedes	|	https://github.com/gilicvnz	|	https://gilicvnz.github.io/primera-nota/	| P |
+|	Millaray Dinamarca	|	https://github.com/milladincea	|	https://milladincea.github.io/primera-nota/	| P |
+|	Catalyna Dunsmore	|	https://github.com/catadunsmore	|	https://catadunsmore.github.io/primera-nota/	| P |
+|	Fernanda García	|	https://github.com/marfghid	|	https://marfghid.github.io/primera-nota	| P |
+|	Antonia Lara	|	https://github.com/antonialarah	|	https://antonialarah.github.io/primera-nota/	| P |
+|	Antonia Mardones	|	https://github.com/antoniamardones	|	https://antoniamardones.github.io/primera-nota/	| P |
+|	Ayline Marín	|	https://github.com/aylineoff	|	https://github.com/aylineoff/primera-nota	| P |
+|	Vicente Medina	|	https://github.com/vicentemedinat	|	https://vicentemedinat.github.io/primera-nota/	| P |
+|	Constanza Ortega	|	https://github.com/shootingstarcony	|	https://shootingstarcony.github.io/primera-nota/	| P |
+|	Sayen Padilla	|	https://github.com/evorakie	|	https://evorakie.github.io/primera-nota/	| P |
+|	Sofia Parra	|	https://github.com/SofiaParraLunaUCH	|	https://sofiaparralunauch.github.io/primera-nota/	| P |
+|	Giulia Pepe	|	https://github.com/catsgugu	|	https://catsgugu.github.io/primera-nota/	| P |
+|	Renata Pereira	|	https://github.com/lenapereoso	|	https://lenapereoso.github.io/primera-nota/	| P |
+|	Bastián Petric	|	https://github.com/Bastich03	|	https://bastich03.github.io/primera-nota/	| P |
+|	Francisco Pino	|	https://github.com/FranciscoPinoAUCh	|	https://franciscopinoauch.github.io/primera-nota/	| P |
+|	Benjamín Rivas	|	https://github.com/benjaminrivasm	|	https://benjaminrivasm.github.io/herramientas-computacionales/primera-nota/	| P |
+|	Antonia Solar	|	https://github.com/antoniasolar	|	https://antoniasolar.github.io/primera-nota/	| P |
+|	Alanis Soto	|	https://github.com/Alanissq	|	https://alanissq.github.io/primera-nota/	| P |
+|	Veronica Soto	|	https://github.com/ronnistp	|	https://ronnistp.github.io/primera-nota/	| P |
+|	Valentina Troncoso	|	https://github.com/valentinatroncoso	|	https://valentinatroncoso.github.io/primera-nota/	| P |
+|	Martina Urzúa	|	https://github.com/martinaurzua	|	https://martinaurzua.github.io/primera-nota/	| P |
+|	Diego Vera	|	https://github.com/dv29ast	|	https://dv29ast.github.io/primera-nota	| P |
 
 
 - - - - - - - -
