@@ -108,7 +108,9 @@ A continuación los detalles de la tabla de arriba:
 
 - - - - - - - -
 
-|	Nombre	|	GitHub Pages	| Creada | Entregada en u-cursos |
+### Entregas
+
+|	Nombre	|	Web	| Creada | [Entregada](https://www.u-cursos.cl/fau/2025/2/AUD40004/1/tareas/detalle?id=812061) |
 |	:-----------|:-------------------------|:-----:|:-------:|	
 |	[Claudio Abarca](https://github.com/Kupaa-0/primera-nota/)	|	https://kupaa-0.github.io/primera-nota	| ✓ | ✓ |
 |	[Anaís Aedo](https://github.com/anaisvalentina/primera-nota/)	|	https://anaisvalentina.github.io/primera-nota/	| ✓ | ✓ |
