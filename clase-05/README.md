@@ -108,7 +108,7 @@ A continuación los detalles de la tabla de arriba:
 
 - - - - - - - -
 
-|	Nombre	|	GitHub Pages	| Creada | Entregada (como tarea en u-cursos) |
+|	Nombre	|	GitHub Pages	| Creada | Entregada en u-cursos |
 |	:-----------|:-------------------------|:-----:|:-------:|	
 |	[Claudio Abarca](https://github.com/Kupaa-0/primera-nota/)	|	https://kupaa-0.github.io/primera-nota	| ✓ | ✓ |
 |	[Anaís Aedo](https://github.com/anaisvalentina/primera-nota/)	|	https://anaisvalentina.github.io/primera-nota/	| ✓ | ✓ |
