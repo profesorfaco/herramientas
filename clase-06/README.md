@@ -20,7 +20,7 @@ No es necesario que se compren los 4. Bastaría con el primero. Incluso, podría
 
 - - - - - -  -
 
-Después de revisar, al menos, el video en Youtube y el Glosario en el libro liberado, podemos avanzar al InDesign…
+Después de revisar, al menos, el video en Youtube y el final del libro liberado, referido a Errores tipográﬁcos frecuentes y Glosario de términos, podemos avanzar al InDesign…
 
 - - - - - - - 
 
