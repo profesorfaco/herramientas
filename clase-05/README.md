@@ -3,7 +3,7 @@
 Partamos por el registro del trabajo de la clase pasada
 
 |	Nombre	|	Cuenta en GitHub	|	Previa a la primera_nota	|
-|	:---------------------------	|	:-------------------------------------	|	:-----------------------------------------------	
+|	:---------------------------	|	:-------------------------------------	|	:-----------------------------------------------|	
 |	Claudio Abarca	|	https://github.com/Kupaa-0	|	Pendiente	|
 |	Anaís Aedo	|	https://github.com/anaisvalentina	|	https://anaisvalentina.github.io/Previa-a-la-prueba/	|
 |	Carol Álvarez	|	https://github.com/CarolMabel	|	https://carolmabel.github.io/clase3/	|
@@ -109,7 +109,7 @@ A continuación los detalles de la tabla de arriba:
 - - - - - - - -
 
 |	Nombre	|	GitHub Pages	| Creada | Entregada (como tarea en u-cursos) |
-|	:-----------|	:-------------------------|:-------------------------------------|:-----:|:-------:|	
+|	:-----------|:-------------------------|:-----:|:-------:|	
 |	[Claudio Abarca](https://github.com/Kupaa-0/primera-nota/)	|	https://kupaa-0.github.io/primera-nota	| ✓ | ✓ |
 |	[Anaís Aedo](https://github.com/anaisvalentina/primera-nota/)	|	https://anaisvalentina.github.io/primera-nota/	| ✓ | ✓ |
 |	[Carol Álvarez](https://github.com/CarolMabel/primera-nota/)	|	https://carolmabel.github.io/primera-nota/	| ✓ | ✗ |
@@ -124,7 +124,7 @@ A continuación los detalles de la tabla de arriba:
 |	[Antonia Lara](https://github.com/antonialarah/primera-nota/)	|	https://antonialarah.github.io/primera-nota/	| ✓ | ✓ |
 |	[Antonia Mardones](https://github.com/antoniamardones/primera-nota/) |	https://antoniamardones.github.io/primera-nota/	| ✓ | ✓ |
 |	[Ayline Marín](https://github.com/aylineoff/primera-nota/)	|	https://aylineoff.github.io/primera-nota | ✗ | ✗ |
-|	[Vicente Medina](https://github.com/vicentemedinat/primera-nota/]	|	https://vicentemedinat.github.io/primera-nota/	| ✓ | ✓ |
+|	[Vicente Medina](https://github.com/vicentemedinat/primera-nota/)	|	https://vicentemedinat.github.io/primera-nota/	| ✓ | ✓ |
 |	[Constanza Ortega](https://github.com/shootingstarcony/primera-nota/)	|	https://shootingstarcony.github.io/primera-nota/	| ✓ | ✗ |
 |	[Sayen Padilla](https://github.com/evorakie/primera-nota/)	|	https://evorakie.github.io/primera-nota/	| ✓ | ✓ |
 |	[Sofia Parra](https://github.com/SofiaParraLunaUCH/primera-nota/)	|	https://sofiaparralunauch.github.io/primera-nota/	| ✓ | ✓ |
