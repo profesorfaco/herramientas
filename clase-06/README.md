@@ -6,7 +6,7 @@
 
 Para revisarlo, pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shared&t=104
 
-**OTRO ASUNTO es la bibliografía básica respecto de tipografía, donde este profesor recomienda 4 libros**: 
+**OTRO ASUNTO es la bibliografía básica respecto de tipografía, donde corresponde considerar 4 libros**: 
 
 - *Hacer y componer 2.0. Una introducción a la tipografía*. Francisco Gálvez Pizarro. Ediciones UC, 2024.
 
