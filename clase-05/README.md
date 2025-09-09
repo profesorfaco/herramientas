@@ -144,4 +144,4 @@ A continuación los detalles de la tabla de arriba:
 
 - - - - - - - -
 
-[← Clase 04](https://github.com/profesorfaco/herramientas/tree/main/clase-04) | Clase 06 →
+[← Clase 04](https://github.com/profesorfaco/herramientas/tree/main/clase-04) | [Clase 06](https://github.com/profesorfaco/herramientas/tree/main/clase-06) →
