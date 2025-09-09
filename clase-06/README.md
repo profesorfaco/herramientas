@@ -1,6 +1,6 @@
 # Herramientas Computacionales → Clase 06 → 22/09/2025
 
-Antes de empezar a revisar InDesign es preciso conocer dos asuntos. 
+Antes de empezar a revisar InDesign es preciso conocer **dos asuntos**. 
 
 **Un asunto es el correcto uso de los estilos en Google Docs**
 
