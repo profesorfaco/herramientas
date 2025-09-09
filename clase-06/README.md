@@ -4,7 +4,7 @@
 
 **UN ASUNTO es el correcto uso de los estilos en Google Docs**
 
-Para revisarlo pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shared&t=104
+Para revisarlo, pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shared&t=104
 
 **OTRO ASUNTO es la bibliografía básica respecto de tipografía, donde este profesor recomiendoa 4 libros**: 
 
