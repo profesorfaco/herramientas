@@ -8,13 +8,13 @@ Para revisarlo, pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shar
 
 **OTRO ASUNTO es la bibliografía básica respecto de tipografía, donde corresponde considerar 4 libros**: 
 
-- *Hacer y componer 2.0. Una introducción a la tipografía*. Francisco Gálvez Pizarro. Ediciones UC, 2024.
+- *Hacer y componer 2.0. Una introducción a la tipografía*. De Francisco Gálvez Pizarro. Ediciones UC, 2024.
 
-- *Los elementos del estilo tipográfico*. Robert Bringhurst. FCE, 2008.
+- *Los elementos del estilo tipográfico*. De Robert Bringhurst. FCE, 2008.
 
-- *Veintidós cosas que nunca debes hacer con la letra (que algunos tipógrafos nunca te dirán) / Veintidós consejos sobre tipografía (que algunos diseñadores jamás revelarán)*. Enric Jardí. Actar, 2007.
+- *Veintidós cosas que nunca debes hacer con la letra (que algunos tipógrafos nunca te dirán) / Veintidós consejos sobre tipografía (que algunos diseñadores jamás revelarán)*. De Enric Jardí. Actar, 2007.
 
-- *Primeros auxilios en tipografía. Consejos para diseñar con tipos de letra*. Hans Peeter Willberg & Friedrich Forssman. GG, 1999.
+- *Primeros auxilios en tipografía. Consejos para diseñar con tipos de letra*. De Hans Peeter Willberg & Friedrich Forssman. GG, 1999.
 
 No es necesario que se compren los 4. Bastaría con el primero. Incluso, podría ser suficiente una versión vieja del primero, que [Francisco Gálvez liberó en Academia.edu](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)
 
