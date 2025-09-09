@@ -1,12 +1,12 @@
 # Herramientas Computacionales → Clase 06 → 22/09/2025
 
-Antes de empezar a revisar InDesign es preciso conocer **dos asuntos**. 
+**Antes de empezar a revisar InDesign es preciso conocer DOS ASUNTOS**. 
 
-**Un asunto es el correcto uso de los estilos en Google Docs**
+**UN ASUNTO es el correcto uso de los estilos en Google Docs**
 
 Para revisarlo pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shared&t=104
 
-**Otros asunto es la bibliografía básica respecto de tipografía, donde este profesor recomiendoa 4 libros**: 
+**OTRO ASUNTO es la bibliografía básica respecto de tipografía, donde este profesor recomiendoa 4 libros**: 
 
 *Hacer y componer 2.0. Una introducción a la tipografía*. Francisco Gálvez Pizarro. Ediciones UC, 2024
 
