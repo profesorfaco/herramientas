@@ -1,24 +1,26 @@
 # Herramientas Computacionales → Clase 06 → 22/09/2025
 
-**DOS ASUNTOS que es necesario conocer**. 
+**DOS ASUNTOS que es ya necesario conocer**. 
 
-**UN ASUNTO es el correcto uso de los estilos en Google Docs**
+**UNO es el correcto uso de los estilos en Google Docs**
 
 Para revisarlo, pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shared&t=104
 
-**OTRO ASUNTO es la bibliografía básica respecto de tipografía, donde corresponde considerar 5 libros**: 
+**OTRO ASUNTO es la bibliografía básica respecto de tipografía, donde podrían considerarse**: 
 
 - *Hacer y componer 2.0. Una introducción a la tipografía*. De Francisco Gálvez Pizarro. Ediciones UC, 2024.
 
 - *Los elementos del estilo tipográfico*. De Robert Bringhurst. FCE, 2008.
 
+- *¿Qué ocurre mientras lees? Tipografía y lefibilidad*. De Gerard Unger. Campgràfic Editors, 2012.
+
 - *Veintidós cosas que nunca debes hacer con la letra (que algunos tipógrafos nunca te dirán) / Veintidós consejos sobre tipografía (que algunos diseñadores jamás revelarán)*. De Enric Jardí. Actar, 2007.
 
 - *Primeros auxilios en tipografía. Consejos para diseñar con tipos de letra*. De Hans Peeter Willberg & Friedrich Forssman. GG, 1999.
 
-- *¿Qué ocurre mientras lees? Tipografía y lefibilidad*. De Gerard Unger. Campgràfic Editors, 2012.
+- *The new tipography. A handbook for modern designers. De Jan Tschichold. University of California Press, 2006.
 
-No es necesario que se compren los 5. Bastaría con el primero. Incluso, podría ser suficiente –para partir– una versión prehistórica del primero, que [Francisco Gálvez liberó en Academia.edu](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)
+No es necesario que se compren los 6. Bastaría con el primero. Incluso, podría ser suficiente –para partir– una versión prehistórica del primero, que [Francisco Gálvez liberó en Academia.edu](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)
 
 - - - - - -  -
 
@@ -52,7 +54,7 @@ Lo que no sería un detalle menor, sino de gran relevancia es cuidar el movimien
 
 La cita de Bringhurst es presentada en un libro que está compuesto en 10/12x21: Usa un cuerpo de texto de 10pt, con una interlínea de 12pt y una longitud de línea de 21 picas. 
 
-Y esas 21 picas serían las que convienen a la [Minion Pro](https://fonts.adobe.com/fonts/minion), que en el caso no es *condesada* ni *extendida*; a distintas fuentes la cantidad de caracteres en una misma medida de ancho. Por eso:
+Y esas 21 picas serían las que convienen a la [Minion Pro](https://fonts.adobe.com/fonts/minion), que en el caso no es *condesada* ni *extendida*; esto se indica porque con distintas fuentes podemos tender distintas cantidades de caracteres en una misma medida de ancho. Por eso:
 
 > Respecto al ancho del texto, para la lectura principal hay algunas indicaciones: Hochuli recomienda entre 50 y 60 caracteres por línea; James Felici (1951), menciona 27 caracteres como mínimo, 40 para el óptimo y 70 como máximo […] [Pero] a Felici no lo podríamos considerar con sus números porque hace referencia al inglés, que en promedio ocupa menos caracteres [por palabra] que otros idiomas […] En español, deberían considerarse 60 caracteres promedio, un poco más o un poco menos. Se habla de caracteres promedio porque las letras no tienen un mismo ancho, solo basta comparar la i con la m (Gálvez, 2024:279)
 
@@ -73,6 +75,15 @@ Y según podamos ajustar desde la *i* o la *m* de determinada fuente, midiendo t
 Todos los cuidados que podríamos aprender en la práctica debería buscar, en una publicación tradicional, inducir a lo que Robert Brighurst demonima un estado de enérgico reposo, que es la condición ideal para la lectura*. Estado que coincide con lo que escribe Gerad Unger su *¿Qué ocurre mientras lees?*: 
 
 > Cuando lees de forma completamente automática, y alcanzas el estado en que el texto de la página o de la pantalla se convierte directamente en lenguaje, pensamientos y conceptos, puede suceder que algo raro o extraño te interrumpe, como un espacio exagerado entre palabras en una columna de periódico, o un reglón con espacio añadido entre las letras. Es algo semejante a lo que ocurre al caminar por una acera y tropiezas con una baldosa mal colocada. Estás caminando alegremente, enfrascado en tus pensamientos, y de repente esa baldosa te lastima el pie o tuerce tu zapato. Por fortuna, cuando tus ojos tropiezan con el texto no te haces daño de verdad, pero sí que produce un frenazo en la lectura y tratas de descubrir qué pasó (Unger, 2012:121-122).
+
+Este estado de enérgico reposo, que camina entre párrafos sin tropiezos, depende de *la nueva tipografía*: 
+
+> The essence of the New Typography is clarity. This puts it into deliberate opposition to the old typography whose aim was "beauty" and whose clarity did not attain the high level we require today. This utmost clarity is necessary today because of the manifold claims for our attention made by the extraordinary amount of print, which demands the greatest economy of expression (Tschichold, 2006:66).
+
+Lo curioso es que este modo de entender la tipografía, tan moderno, depende de las viejas tradiciones de una antigua herramienta análoga de impresión: 
+
+> Imagínese […] un pequelo taller tipográfico, donde una o más personas accedían a una caja de madera, rectangular y de poca profundidad, que contenía compartimentos que almacenaban pequeños bloques metálicos con letras mayúsculas y otros, con las mismas letras, que incluían acentos diacríticos, además de otros signos de escritura. Asismismo, podía acceder a las letras minúsculas, en otra caja, que se ubicaba debajo de la de las mayúsculas. De ahí que se llame caja alta y caja baja o en inglés *uppercase* y *lowercase* (Gálvez, 2024:264).
+
 
 
 - - - - - - - 
