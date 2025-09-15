@@ -86,7 +86,9 @@ Lo curioso es que este modo de entender la tipografía, tan moderno, depende de 
 
 > Imagínese […] un pequelo taller tipográfico, donde una o más personas accedían a una caja de madera, rectangular y de poca profundidad, que contenía compartimentos que almacenaban pequeños bloques metálicos con letras mayúsculas y otros, con las mismas letras, que incluían acentos diacríticos, además de otros signos de escritura. Asismismo, podía acceder a las letras minúsculas, en otra caja, que se ubicaba debajo de la de las mayúsculas. De ahí que se llame caja alta y caja baja o en inglés *uppercase* y *lowercase* (Gálvez, 2024:264).
 
-Cuando tomamos una herramienta computacional como InDesign, nos corresponde, con ojos entrenados en diseño, trabajar como tipógrafos. Por eso se indicaba más arriba que desde un centro en la tipografía como alternativa de fuente y cuerpo tipográfico, vamos hacia afuera, como avanzando entre anillos concéntricos, tomando decisiones.
+Cuando tomamos una herramienta computacional como InDesign, nos corresponde, con ojos entrenados en diseño, trabajar como tipógrafos. 
+
+Por eso se indicaba más arriba que, desde un centro en la tipografía como alternativa de fuente y cuerpo tipográfico, vamos hacia afuera, como avanzando entre anillos concéntricos, tomando decisiones de diseño (editorial).
 
 - - - - - - - 
 
