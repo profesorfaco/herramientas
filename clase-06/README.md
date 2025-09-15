@@ -20,7 +20,13 @@ No es necesario que se compren los 4. Bastaría con el primero. Incluso, podría
 
 - - - - - -  -
 
-Después de revisar, al menos, [el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104) y [el final del libro liberado](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro), referido a Errores tipográﬁcos frecuentes y Glosario de términos, podemos avanzar a Adobe InDesign por la vía práctica, siempre recordando que podríamos aprovechar: https://helpx.adobe.com/cl/indesign/user-guide.html
+Después de revisar, al menos, [el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104) y [el final del libro liberado](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro) (entre págs.150 y 192) podemos continuar. 
+
+Lo que no alcancemos a revisar en InDesign lo podremos encontrar en https://helpx.adobe.com/cl/indesign/user-guide.html
+
+- - - - - -  -
+
+### Primero lo primero
 
 Al crear un nuevo documento, con determinado formato, lo que sigue es indicarle el idioma que usaremos. Esto es clave para evitar problemas con los cortes de palabras. En inglés, idioma al que seguramente está adaptado el *default* del *software*, la palabra se corta en cualquier parte, pero en español: 
 
@@ -33,6 +39,8 @@ Pero, al optar por desactivarlo, los valores que trae por defecto para la justif
 > estos valores rompen drásticamente el color tipográfico en la página, generando problemas como blancos muy llamativos o alineaciones casi verticales de las interpalabras, denominadas ríos o calles (Gálvez, 2024:280)
 
 Para corregirlos se puede exagerar con [estos números mágicos](https://www.tumblr.com/exjko/232844248/los-n%C3%BAmeros-m%C3%A1gicos-para-ordenar-un-p%C3%A1rrafo), o  se podría optar por valores moderados en el Espacio entre letras con mínima de 90%, óptimo de 100% y máxima de 110%, con un espacio entre letras de -5%, 0 y 5% (Ibíd.)
+
+Y si nos preocupamos de tales valores, podríamos seguir avanzando en detalles que no se pueden escapar a *ojos entrenados en diseño*, detalles como el de la puntuación colgante que se explica en este video:  https://youtu.be/XnUA2l5RCi4?feature=shared&t=5
 
 - - - - - - - 
 
