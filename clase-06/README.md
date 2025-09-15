@@ -90,7 +90,9 @@ Cuando tomamos una herramienta computacional como InDesign, nos corresponde, con
 
 - - - - - - - 
 
-### Lo que sigues es práctica, mucha práctica
+### Lo que sigues es práctica, mucha práctica. 
+
+Recuerden la posibilidad de apoyarse en https://helpx.adobe.com/cl/indesign/user-guide.html
 
 - - - - - - - 
 
