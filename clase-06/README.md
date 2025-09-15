@@ -20,9 +20,9 @@ No es necesario que se compren los 4. Bastaría con el primero. Incluso, podría
 
 - - - - - -  -
 
-Después de revisar, al menos, [el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104) y [el final del libro liberado](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro) (entre págs.150 y 192) podemos continuar. 
+Después de revisar, al menos, [el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104) y [el final del libro liberado](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro) (entre págs. 166 y 192) podemos continuar. 
 
-Lo que no alcancemos a revisar en InDesign lo podremos encontrar en https://helpx.adobe.com/cl/indesign/user-guide.html
+Y recordemos que lo que no alcancemos a revisar en InDesign se puede averiguar en https://helpx.adobe.com/cl/indesign/user-guide.html
 
 - - - - - -  -
 
