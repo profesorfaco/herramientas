@@ -46,11 +46,11 @@ Al optar por desactivarla la opción, los valores que trae por defecto para la j
 
 > estos valores rompen drásticamente el color tipográfico en la página, generando problemas como blancos muy llamativos o alineaciones casi verticales de las interpalabras, denominadas ríos o calles (Gálvez, 2024:280)
 
-Para corregirlos se pueden usar [estos números mágicos](https://www.tumblr.com/exjko/232844248/los-n%C3%BAmeros-m%C3%A1gicos-para-ordenar-un-p%C3%A1rrafo), o  se podría optar por valores más moderados en el Espacio entre letras con mínima de 90%, óptimo de 100% y máxima de 110%, con un espacio entre letras de -5%, 0 y 5% (Ibíd.)
+Para ajustarlos se pueden usar [estos números mágicos](https://www.tumblr.com/exjko/232844248/los-n%C3%BAmeros-m%C3%A1gicos-para-ordenar-un-p%C3%A1rrafo), o se podría optar por valores más moderados, usando en el Espacio entre letras un mínimo de 90%, óptimo de 100% y máximo de 110%, y un espacio entre letras de -5%, 0 y 5% (Ibíd.)
 
-Y si nos preocupamos de tales números, podríamos seguir avanzando en detalles que no se pueden escapar al párrafo para *ojos entrenados en diseño*, detalles como el de la puntuación colgante que se explica en este video:  https://youtu.be/XnUA2l5RCi4?feature=shared&t=5
+Y si nos preocupamos de tales números, podríamos seguir avanzando en detalles para *ojos entrenados en diseño*, detalles como el de la puntuación colgante que se explica en este video:  https://youtu.be/XnUA2l5RCi4?feature=shared&t=5
 
-Lo que no sería un detalle menor, sino de gran relevancia es cuidar el movimiento vertical, donde, Robert Bringhurst (2008:46) recomienda:
+Lo que no sería un detalle a la vista de cualquiera, tenga o no *ojos entrenados en diseño*, es el movimiento vertical, donde, Robert Bringhurst (2008:46) recomienda:
 
 > Elija una interlínea que convenga a la fuente, el texto y al ancho de la línea […] No sólo hay que elegir el ancho general —de la columna o de la página— sino también una unidad rítmica básica. Esa unidad es la interlínea […] El tipo de 11 pt compuesto *en sólido* se describe como 11/11 (se dice "once en once" u "once sobre once"). El ojo teórico del tipo es el de 11 pt de altira (desde el extremo superior de la *d* hasta el extremo inferior de la *p*, si el tipo ocupa todo el cuerpo), y la distancia desde la primera línea de base hasta la siguiente es también de 11 puntos. Agregue dos puntos de interlineado y el tipo se compone de 11/13. 
 
@@ -72,11 +72,11 @@ Sea cual sea la tipografía, si su función no es llamar la atención hacia sí 
 
 - vincular el texto con otros elementos
 
-Y según podamos ajustar desde la *i* o la *m* de determinada fuente, midiendo todo en pt, podemos avanzar "hacia afuera" para establecer una grilla que distribuya los contenidos dentro de una caja para el texto, que sea proporcional a la página y atenta al modo en que se encuadernará el número total de páginas de la publicación por diseñar. Considere, por ejemplo, que la revista con una decena de cuadernillos corcheteados puede abrirse en doble página de un modo que no puede abrirse un libro de centenas de hojas sueltas encoladas.
+Y según podamos ajustar desde la *i* o la *m* de determinada fuente, midiendo todo en pt, podemos avanzar "hacia afuera en lo concéntrico" para establecer una grilla que distribuya los contenidos dentro de una caja para el texto, que sea proporcional a la página y atenta al modo en que se encuadernará el número total de páginas de la publicación por diseñar. Considere, por ejemplo, que la revista con una decena de cuadernillos corcheteados puede abrirse en doble página de un modo que no puede abrirse un libro de centenas de hojas sueltas encoladas.
 
-Todos los cuidados que podríamos aprender en la práctica debería buscar, en una publicación tradicional, inducir a lo que Robert Brighurst demonima un estado de enérgico reposo, que es la condición ideal para la lectura*. Estado que coincide con lo que escribe Gerad Unger su *¿Qué ocurre mientras lees?*: 
+Todos los cuidados que podríamos aprender en la práctica debería buscar, en una publicación tradicional, inducir a lo que Robert Brighurst demonima *un estado de enérgico reposo, que es la condición ideal para la lectura*. Estado que coincide con lo que escribe Gerad Unger en su *¿Qué ocurre mientras lees?*: 
 
-> Cuando lees de forma completamente automática, y alcanzas el estado en que el texto de la página o de la pantalla se convierte directamente en lenguaje, pensamientos y conceptos, puede suceder que algo raro o extraño te interrumpe, como un espacio exagerado entre palabras en una columna de periódico, o un reglón con espacio añadido entre las letras. Es algo semejante a lo que ocurre al caminar por una acera y tropiezas con una baldosa mal colocada. Estás caminando alegremente, enfrascado en tus pensamientos, y de repente esa baldosa te lastima el pie o tuerce tu zapato. Por fortuna, cuando tus ojos tropiezan con el texto no te haces daño de verdad, pero sí que produce un frenazo en la lectura y tratas de descubrir qué pasó (Unger, 2012:121-122).
+> Cuando lees de forma completamente automática, y alcanzas el estado en que el texto de la página o de la pantalla se convierte directamente en lenguaje, pensamientos y conceptos, puede suceder que algo raro o extraño te interrumpe, como un espacio exagerado entre palabras en una columna de periódico, o un reglón con espacio añadido entre las letras. Es algo semejante a lo que ocurre al caminar por una acera y tropiezas con una baldosa mal colocada. Estás caminando alegremente, enfrascado en tus pensamientos, y de repente esa baldosa te lastima el pie o tuerce tu zapato. Por fortuna, cuando tus ojos tropiezan con el texto no te haces daño de verdad, pero sí que produce un frenazo en la lectura y tratas de descubrir qué pasó (2012:121-122).
 
 Este estado de enérgico reposo, que nos permite caminar entre los párrafos de la lectura principal sin tropiezos, depende de *la nueva tipografía*: 
 
@@ -86,7 +86,7 @@ Lo curioso es que este modo de entender la tipografía, tan moderno, depende de 
 
 > Imagínese […] un pequelo taller tipográfico, donde una o más personas accedían a una caja de madera, rectangular y de poca profundidad, que contenía compartimentos que almacenaban pequeños bloques metálicos con letras mayúsculas y otros, con las mismas letras, que incluían acentos diacríticos, además de otros signos de escritura. Asismismo, podía acceder a las letras minúsculas, en otra caja, que se ubicaba debajo de la de las mayúsculas. De ahí que se llame caja alta y caja baja o en inglés *uppercase* y *lowercase* (Gálvez, 2024:264).
 
-
+Cuando tomamos una herramienta computacional como InDesign, nos corresponde, con ojos entrenados en diseño, trabajar como tipógrafos. Por eso se indicaba más arriba que desde un centro en la tipografía como alternativa de fuente y cuerpo tipográfico, vamos hacia afuera, como avanzando entre anillos concéntricos, tomando decisiones.
 
 - - - - - - - 
 
