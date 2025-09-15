@@ -38,7 +38,7 @@ Pero, al optar por desactivarla, los valores que trae por defecto para la justif
 
 > estos valores rompen drásticamente el color tipográfico en la página, generando problemas como blancos muy llamativos o alineaciones casi verticales de las interpalabras, denominadas ríos o calles (Gálvez, 2024:280)
 
-Para corregirlos se puede exagerar con [estos números mágicos](https://www.tumblr.com/exjko/232844248/los-n%C3%BAmeros-m%C3%A1gicos-para-ordenar-un-p%C3%A1rrafo), o  se podría optar por valores moderados en el Espacio entre letras con mínima de 90%, óptimo de 100% y máxima de 110%, con un espacio entre letras de -5%, 0 y 5% (Ibíd.)
+Para corregirlos se pueden usar [estos números mágicos](https://www.tumblr.com/exjko/232844248/los-n%C3%BAmeros-m%C3%A1gicos-para-ordenar-un-p%C3%A1rrafo), o  se podría optar por valores más moderados en el Espacio entre letras con mínima de 90%, óptimo de 100% y máxima de 110%, con un espacio entre letras de -5%, 0 y 5% (Ibíd.)
 
 Y si nos preocupamos de tales valores, podríamos seguir avanzando en detalles que no se pueden escapar a *ojos entrenados en diseño*, detalles como el de la puntuación colgante que se explica en este video:  https://youtu.be/XnUA2l5RCi4?feature=shared&t=5
 
