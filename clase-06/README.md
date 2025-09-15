@@ -1,6 +1,6 @@
 # Herramientas Computacionales → Clase 06 → 22/09/2025
 
-**DOS ASUNTOS que es necesario tomar como conocidas**. 
+**DOS ASUNTOS que es necesario conocer**. 
 
 **UN ASUNTO es el correcto uso de los estilos en Google Docs**
 
