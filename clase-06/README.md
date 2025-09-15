@@ -36,7 +36,7 @@ También conviene tener a mano, para continuar, este vínculo: https://helpx.ado
 
 ### Primero algo de teoría
 
-Después de [crear un nuevo documento, con determinado formato](https://helpx.adobe.com/cl/indesign/using/create-documents.html), debemos indicarle el idioma que usaremos. Esto es clave para evitar problemas con los cortes de palabras; considere que en inglés, idioma al que seguramente está adaptado el *default* del *software*, la palabra se corta en cualquier parte, pero en español: 
+Después de [crear un nuevo documento en InDesign, con determinado formato](https://helpx.adobe.com/cl/indesign/using/create-documents.html), debemos indicarle el idioma que usaremos. Esto es clave para evitar problemas con los cortes de palabras; considere que en inglés, idioma al que seguramente está adaptado el *default* del *software*, la palabra se corta en cualquier parte, pero en español: 
 
 > el criterio que preside la división de palabras a final de línea toma la sílaba como unidad de referencia, de manera que, como norma general, no debe colocarse el guion entre letras pertenecientes a una misma sílaba ([RAE](https://www.rae.es/ortograf%C3%ADa/como-signo-de-divisi%C3%B3n-de-palabras-a-final-de-l%C3%ADnea))
 
