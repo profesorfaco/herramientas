@@ -40,7 +40,9 @@ Después de [crear un nuevo documento en InDesign, con determinado formato](http
 
 > el criterio que preside la división de palabras a final de línea toma la sílaba como unidad de referencia, de manera que, como norma general, no debe colocarse el guion entre letras pertenecientes a una misma sílaba ([RAE](https://www.rae.es/ortograf%C3%ADa/como-signo-de-divisi%C3%B3n-de-palabras-a-final-de-l%C3%ADnea))
 
-Luego, si no se quieren cortes de palabras, basta con desactivar tal opción. Pero al optar por desactivarla, los valores que trae por defecto para la justificación deben ajustarse, porque: 
+Luego, si no se quieren cortes de palabras, basta con desactivar tal opción. 
+
+Al optar por desactivarla la opción, los valores que trae por defecto para la justificación deben ajustarse, porque: 
 
 > estos valores rompen drásticamente el color tipográfico en la página, generando problemas como blancos muy llamativos o alineaciones casi verticales de las interpalabras, denominadas ríos o calles (Gálvez, 2024:280)
 
