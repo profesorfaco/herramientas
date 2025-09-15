@@ -76,11 +76,11 @@ Todos los cuidados que podríamos aprender en la práctica debería buscar, en u
 
 > Cuando lees de forma completamente automática, y alcanzas el estado en que el texto de la página o de la pantalla se convierte directamente en lenguaje, pensamientos y conceptos, puede suceder que algo raro o extraño te interrumpe, como un espacio exagerado entre palabras en una columna de periódico, o un reglón con espacio añadido entre las letras. Es algo semejante a lo que ocurre al caminar por una acera y tropiezas con una baldosa mal colocada. Estás caminando alegremente, enfrascado en tus pensamientos, y de repente esa baldosa te lastima el pie o tuerce tu zapato. Por fortuna, cuando tus ojos tropiezan con el texto no te haces daño de verdad, pero sí que produce un frenazo en la lectura y tratas de descubrir qué pasó (Unger, 2012:121-122).
 
-Este estado de enérgico reposo, que camina entre párrafos sin tropiezos, depende de *la nueva tipografía*: 
+Este estado de enérgico reposo, que nos permite caminar entre los párrafos de la lectura principal sin tropiezos, depende de *la nueva tipografía*: 
 
 > The essence of the New Typography is clarity. This puts it into deliberate opposition to the old typography whose aim was "beauty" and whose clarity did not attain the high level we require today. This utmost clarity is necessary today because of the manifold claims for our attention made by the extraordinary amount of print, which demands the greatest economy of expression (Tschichold, 2006:66).
 
-Lo curioso es que este modo de entender la tipografía, tan moderno, depende de las viejas tradiciones de una antigua herramienta análoga de impresión: 
+Lo curioso es que este modo de entender la tipografía, tan moderno, depende de las viejas tradiciones de las herramientas análogas: 
 
 > Imagínese […] un pequelo taller tipográfico, donde una o más personas accedían a una caja de madera, rectangular y de poca profundidad, que contenía compartimentos que almacenaban pequeños bloques metálicos con letras mayúsculas y otros, con las mismas letras, que incluían acentos diacríticos, además de otros signos de escritura. Asismismo, podía acceder a las letras minúsculas, en otra caja, que se ubicaba debajo de la de las mayúsculas. De ahí que se llame caja alta y caja baja o en inglés *uppercase* y *lowercase* (Gálvez, 2024:264).
 
