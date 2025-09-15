@@ -88,7 +88,7 @@ Lo curioso es que este modo de entender la tipografía, tan moderno, depende de 
 
 Cuando tomamos una herramienta computacional como InDesign, nos corresponde, con ojos entrenados en diseño, trabajar como tipógrafos. 
 
-Por eso se indicaba más arriba que, desde un centro en la tipografía como alternativa de fuente y cuerpo tipográfico, vamos hacia afuera, como avanzando entre anillos concéntricos, tomando decisiones de diseño (editorial).
+Por eso se indicaba más arriba que, desde un centro en la tipografía como alternativa de fuente y cuerpo tipográfico, podemos ir hacia afuera, como avanzando entre anillos concéntricos que nos exigen decisiones diseño (editorial).
 
 - - - - - - - 
 
