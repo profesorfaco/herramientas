@@ -22,13 +22,17 @@ No es necesario que se compren los 5. Bastaría con el primero. Incluso, podría
 
 - - - - - -  -
 
-Para sacar provecho a la clase, antes deben revisar, al menos, [el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104) y [el final del libro liberado](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro) (entre págs. 166 y 192).
+**Para sacar un provecho a [InDesign](https://www.adobe.com/cl/products/indesign.html)**, una de varias herramienta digital (privativa) creada para 
+
+> profesionales de diseño, producción y preimpresión y para proveedores de servicios de impresión que trabajan para revistas, firmas de diseño, agencias de publicidad, periódicos, editoriales de libros y empresas de venta por catálogo y minoristas, así como para el diseño corporativo, la impresión comercial y otros entornos de publicación de vanguardia
+
+**deben revisar, al menos, [el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104) y [el final del libro liberado](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro) (entre págs. 166 y 192)**.
 
 También conviene tener a mano, para continuar, este vínculo: https://helpx.adobe.com/cl/indesign/user-guide.html
 
 - - - - - -  -
 
-### Primero lo primero
+### Primero algo de teoría
 
 Después de [crear un nuevo documento, con determinado formato](https://helpx.adobe.com/cl/indesign/using/create-documents.html), debemos indicarle el idioma que usaremos. Esto es clave para evitar problemas con los cortes de palabras; considere que en inglés, idioma al que seguramente está adaptado el *default* del *software*, la palabra se corta en cualquier parte, pero en español: 
 
@@ -73,4 +77,7 @@ Todos los cuidados que podríamos aprender en la práctica debería buscar, en u
 
 - - - - - - - 
 
-Lo que sigue lo veremos en clase.
+### Lo que sigues es práctica, mucha práctica
+
+- - - - - - - 
+
