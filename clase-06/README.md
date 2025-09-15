@@ -18,7 +18,7 @@ Para revisarlo, pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shar
 
 - *Primeros auxilios en tipografía. Consejos para diseñar con tipos de letra*. De Hans Peeter Willberg & Friedrich Forssman. GG, 1999.
 
-- *The new tipography. A handbook for modern designers. De Jan Tschichold. University of California Press, 2006.
+- *The new tipography. A handbook for modern designers*. De Jan Tschichold. University of California Press, 2006.
 
 No es necesario que se compren los 6. Bastaría con el primero. Incluso, podría ser suficiente –para partir– una versión prehistórica del primero, que [Francisco Gálvez liberó en Academia.edu](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)
 
