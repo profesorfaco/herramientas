@@ -1,6 +1,6 @@
 # Herramientas Computacionales → Clase 06 → 22/09/2025
 
-**Antes de empezar a revisar InDesign, corresponde conocer DOS ASUNTOS**. 
+**DOS ASUNTOS que es necesario tomar como conocidas**. 
 
 **UN ASUNTO es el correcto uso de los estilos en Google Docs**
 
