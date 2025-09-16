@@ -122,6 +122,7 @@ Vamos a partir con crear una página que use 10/12x21, con una [Crimson Pro](htt
 
 Luego busquemos una segunda fuente, también de texto o prosa, aprovechando los pasos descritos en: https://fonts.google.com/knowledge/choosing_type/pairing_typefaces_based_on_their_construction_using_the_font_matrix#combining-typefaces-step-by-step
 
-
 - - - - -  
+
+[← Clase 05](https://github.com/profesorfaco/herramientas/tree/main/clase-05) | [Clase 07](https://github.com/profesorfaco/herramientas/tree/main/clase-07) →
 
