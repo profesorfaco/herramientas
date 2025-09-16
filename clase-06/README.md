@@ -1,12 +1,12 @@
 # Herramientas Computacionales → Clase 06 → 22/09/2025
 
-### DOS ASUNTOS que es necesario ya conocer 
+### DOS ASUNTOS que deberíamos conocer:
 
-**UNO es el uso de los estilos en Google Docs**
+**PRIMERO es el uso de los estilos en Google Docs**
 
 Para revisarlo, pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shared&t=104
 
-**OTRO ASUNTO es la bibliografía básica respecto de tipografía, donde podrían considerarse**: 
+**SEGUNDO es la bibliografía básica respecto de tipografía, donde podríamos considerar**: 
 
 - *Hacer y componer 2.0. Una introducción a la tipografía*, de Francisco Gálvez Pizarro (Ediciones UC, 2024).
 
@@ -20,13 +20,13 @@ Para revisarlo, pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shar
 
 - *The new tipography. A handbook for modern designers*, de Jan Tschichold (University of California Press, 2006).
 
-No es necesario que compremos los 6. Bastaría con el primero. Incluso, podría ser suficiente –para partir– una versión prehistórica del primero, que [Francisco Gálvez liberó en Academia.edu](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)
+No es necesario que compremos los 6 libros. Bastaría con el primero. Incluso, podría ser suficiente –para partir– una versión prehistórica del primero, que [Francisco Gálvez liberó en Academia.edu](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)
 
 - - - - - -  -
 
 **Para que saquemos un mejor provecho de una introducción a [InDesign](https://www.adobe.com/cl/products/indesign.html)**, una herramienta digital (privativa) creada para *profesionales de diseño, producción y preimpresión y para proveedores de servicios de impresión que trabajan para revistas, firmas de diseño, agencias de publicidad, periódicos, editoriales de libros y empresas de venta por catálogo y minoristas, así como para el diseño corporativo, la impresión comercial y otros entornos de publicación de vanguardia*, **debemos revisar, al menos**: 
 
-- **[el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104)**; y
+- **[este video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104)**; y
 
 - **[el final del libro liberado por Francisco Gálvez](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)** (entre págs. 166 y 192).
 
