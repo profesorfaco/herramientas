@@ -24,17 +24,17 @@ No es necesario que se compren los 6. Bastaría con el primero. Incluso, podría
 
 - - - - - -  -
 
-**Para sacar un provecho a [InDesign](https://www.adobe.com/cl/products/indesign.html)**, una de varias herramienta digital (privativa) creada para 
+**Para sacar un provecho a [InDesign](https://www.adobe.com/cl/products/indesign.html)**, una de varias herramientas digitales (privativas) creada para *profesionales de diseño, producción y preimpresión y para proveedores de servicios de impresión que trabajan para revistas, firmas de diseño, agencias de publicidad, periódicos, editoriales de libros y empresas de venta por catálogo y minoristas, así como para el diseño corporativo, la impresión comercial y otros entornos de publicación de vanguardia* **deben revisar, al menos**: 
 
-> profesionales de diseño, producción y preimpresión y para proveedores de servicios de impresión que trabajan para revistas, firmas de diseño, agencias de publicidad, periódicos, editoriales de libros y empresas de venta por catálogo y minoristas, así como para el diseño corporativo, la impresión comercial y otros entornos de publicación de vanguardia
+- **[el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104)**; y
 
-**deben revisar, al menos, [el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104) y [el final del libro liberado](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro) (entre págs. 166 y 192)**.
+- **[el final del libro liberado](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)** (entre págs. 166 y 192).
 
 También conviene tener a mano, para continuar, este vínculo: https://helpx.adobe.com/cl/indesign/user-guide.html
 
 - - - - - -  -
 
-### Algo de teoría
+### Algo de "teoría"
 
 Después de [crear un nuevo documento en InDesign, con determinado formato](https://helpx.adobe.com/cl/indesign/using/create-documents.html), debemos indicarle el idioma que usaremos. Esto es clave para evitar problemas con los cortes de palabras; considere que en inglés, idioma al que seguramente está adaptado el *default* del *software*, la palabra se corta en cualquier parte. Pero en español: 
 
@@ -90,7 +90,7 @@ Cuando tomamos una herramienta computacional como InDesign, nos corresponde, con
 
 Por eso se indicaba más arriba que, desde un centro en la tipografía como alternativa de fuente y cuerpo tipográfico, podemos ir hacia afuera, como avanzando entre anillos concéntricos que nos exigen decisiones diseño (editorial).
 
-#### Algo de teoría resumida con Gemini 2.5 Flash 
+#### Algo de "teoría" resumida con Gemini 2.5 Flash 
 
 Cuando trabajes en **InDesign**, es crucial configurar correctamente el idioma, especialmente para evitar problemas con los cortes de palabras en español. Si desactivas la división silábica para evitar guiones, es fundamental ajustar los valores de justificación para que el texto no se vea desordenado o con espacios excesivos (efecto conocido como "ríos" o "calles").
 
