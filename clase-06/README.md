@@ -104,7 +104,7 @@ Además, considera otros aspectos clave para una lectura fluida, como:
 
 El objetivo de estos ajustes, basados en la tradición tipográfica y principios modernos, es lograr un "estado de enérgico reposo" en el lector, donde el texto se convierte en pensamientos sin interrupciones visuales, como si caminara sin tropezar. Al usar herramientas digitales como InDesign, aplicas las mismas decisiones de diseño que los tipógrafos tradicionales.
 
-#### La repuesta a Gemini 2.5 Flash a la pregunta: ¿Podrías resumirlo más?
+#### Más resumida con la misma IA
 
 Para lograr un diseño editorial óptimo, es crucial cuidar los detalles de la tipografía. Esto incluye seleccionar el idioma correcto para los cortes de palabras, ajustar la justificación para evitar espacios irregulares y elegir una interlínea y un ancho de línea adecuados. El objetivo es crear una experiencia de lectura fluida y sin obstáculos para el lector.
 
