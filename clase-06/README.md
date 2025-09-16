@@ -52,7 +52,7 @@ Y si nos preocupamos de tales números, podríamos seguir avanzando en detalles 
 
 Lo que no sería un detalle a la vista de cualquiera, tenga o no *ojos entrenados en diseño*, es el movimiento vertical, donde, Robert Bringhurst (2008:46) recomienda:
 
-> Elija una interlínea que convenga a la fuente, el texto y al ancho de la línea […] No sólo hay que elegir el ancho general —de la columna o de la página— sino también una unidad rítmica básica. Esa unidad es la interlínea […] El tipo de 11 pt compuesto *en sólido* se describe como 11/11 (se dice "once en once" u "once sobre once"). El ojo teórico del tipo es el de 11 pt de altira (desde el extremo superior de la *d* hasta el extremo inferior de la *p*, si el tipo ocupa todo el cuerpo), y la distancia desde la primera línea de base hasta la siguiente es también de 11 puntos. Agregue dos puntos de interlineado y el tipo se compone de 11/13. 
+> Elija una interlínea que convenga a la fuente, el texto y al ancho de la línea […] No sólo hay que elegir el ancho general —de la columna o de la página— sino también una unidad rítmica básica. Esa unidad es la interlínea […] El tipo de 11 pt compuesto *en sólido* se describe como 11/11 (se dice "once en once" u "once sobre once"). El ojo teórico del tipo es el de 11 pt de altura (desde el extremo superior de la *d* hasta el extremo inferior de la *p*, si el tipo ocupa todo el cuerpo), y la distancia desde la primera línea de base hasta la siguiente es también de 11 puntos. Agregue dos puntos de interlineado y el tipo se compone de 11/13. 
 
 La cita de Bringhurst es presentada en un libro que está compuesto en 10/12x21: Usa un cuerpo de texto de 10pt, con una interlínea de 12pt y una longitud de línea de 21 picas. 
 
