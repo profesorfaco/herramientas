@@ -20,7 +20,7 @@ Para revisarlo, pueden ver este video: https://youtu.be/syXBD-rOIHk?feature=shar
 
 - *The new tipography. A handbook for modern designers*, de Jan Tschichold (University of California Press, 2006).
 
-No es necesario que compremos los 6 libros. Bastaría con el primero. Incluso, podría ser suficiente –para partir– una versión prehistórica del primero, que [Francisco Gálvez liberó en Academia.edu](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)
+No es necesario que compremos los 6 libros. Bastaría con [el primero](https://www.buscalibre.cl/libro-hacer-y-componer-2-0-una-introduccion-a-la-tipografia/9789561433564/p/63357461). Incluso, podría ser suficiente –para partir– una versión prehistórica del primero, que [Francisco Gálvez liberó en Academia.edu](https://www.academia.edu/44258031/Educaci%C3%B3n_tipogr%C3%A1fica_una_introducci%C3%B3n_a_la_tipograf%C3%ADa_1_Francisco_G%C3%A1lvez_Pizarro)
 
 - - - - - -  -
 
