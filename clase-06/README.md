@@ -118,9 +118,9 @@ El texto detalla las decisiones clave en el diseño editorial para crear publica
 
 Recuerden la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
-Vamos a partir con crear una página que use 10/12x21, con una [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) (lo más parecido que nos ofrece Google Fonts a Minion Pro).
+Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use el 10/12x21 de *Los elementos del estilo tipográficos* de Robert Brughurst, con una [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) (que es lo más parecido que nos ofrece Google Fonts a Minion Pro).
 
-Luego busquemos una segunda fuente, también de texto o prosa, aprovechando los pasos descritos en: https://fonts.google.com/knowledge/choosing_type/pairing_typefaces_based_on_their_construction_using_the_font_matrix#combining-typefaces-step-by-step
+En tales páginas trabajaremos con el texto en: https://docs.google.com/document/d/1tRHr-NuknNTnb7tKLQPs_S34C7-U3lGB4JlCm13IESg/
 
 - - - - -  
 
