@@ -50,7 +50,7 @@ Para ajustarlos podemos usar [estos números mágicos](https://www.tumblr.com/ex
 
 Y si nos preocupamos de tales números, podríamos seguir avanzando en detalles para *ojos entrenados en diseño*, detalles como el de la puntuación colgante que se explica en este video:  https://youtu.be/XnUA2l5RCi4?feature=shared&t=5
 
-Lo que va más allá del detalle es el movimiento vertical, donde, Robert Bringhurst (2008:46) recomienda:
+Lo que no es detalle sino algo bastante evidente para cualquier ojo, es el movimiento vertical, donde, Robert Bringhurst (2008:46) recomienda:
 
 > Elija una interlínea que convenga a la fuente, el texto y al ancho de la línea […] No sólo hay que elegir el ancho general —de la columna o de la página— sino también una unidad rítmica básica. Esa unidad es la interlínea […] El tipo de 11 pt compuesto *en sólido* se describe como 11/11 (se dice "once en once" u "once sobre once"). El ojo teórico del tipo es el de 11 pt de altura (desde el extremo superior de la *d* hasta el extremo inferior de la *p*, si el tipo ocupa todo el cuerpo), y la distancia desde la primera línea de base hasta la siguiente es también de 11 puntos. Agregue dos puntos de interlineado y el tipo se compone de 11/13. 
 
