@@ -7,3 +7,5 @@ Conviene recordar que se trata de una herramienta computacional privativa. Podem
 [Scribus](https://es.wikipedia.org/wiki/Scribus) es la alternativa [libre](https://www.gnu.org/philosophy/free-sw.es.html) del tipo de herramienta digital.
 
 - - - - - 
+
+[← Clase 05](https://github.com/profesorfaco/herramientas/tree/main/clase-06) | [Clase 07](https://github.com/profesorfaco/herramientas/tree/main/clase-08) →
