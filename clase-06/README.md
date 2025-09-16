@@ -92,9 +92,25 @@ Por eso se indicaba más arriba que, desde un centro en la tipografía como alte
 
 - - - - - - - 
 
+### Primero algo de teoría, resumido con Gemini Flash 2.5
+
+Cuando trabajes en **InDesign**, es crucial configurar correctamente el idioma, especialmente para evitar problemas con los cortes de palabras en español. Si desactivas la división silábica para evitar guiones, es fundamental ajustar los valores de justificación para que el texto no se vea desordenado o con espacios excesivos (efecto conocido como "ríos" o "calles").
+
+Además, considera otros aspectos clave para una lectura fluida, como:
+
+- La **interlínea**, que debe ser adecuada al tamaño de la fuente y al ancho de la columna.
+
+- El **ancho de la línea**, que idealmente debería tener entre 50 y 60 caracteres.
+
+- El diseño general, que debe guiar al lector sin que este sea consciente de los detalles técnicos.
+
+El objetivo de estos ajustes, basados en la tradición tipográfica y principios modernos, es lograr un "estado de enérgico reposo" en el lector, donde el texto se convierte en pensamientos sin interrupciones visuales, como si caminara sin tropezar. Al usar herramientas digitales como InDesign, aplicas las mismas decisiones de diseño que los tipógrafos tradicionales.
+
+- - - - - 
+
 ### Lo que sigues es práctica, mucha práctica. 
 
 Recuerden la posibilidad de apoyarse en https://helpx.adobe.com/cl/indesign/user-guide.html
 
-- - - - - - - 
+- - - - -  
 
