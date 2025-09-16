@@ -114,7 +114,7 @@ El texto detalla las decisiones clave en el diseño editorial para crear publica
 
 - - - - - 
 
-### Lo que sigues es práctica, mucha práctica. 
+### Lo que sigue es practicar 
 
 Recuerden la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
