@@ -100,7 +100,7 @@ Además, considera otros aspectos clave para una lectura fluida, como:
 
 - El **ancho de la línea**, que idealmente debería tener entre 50 y 60 caracteres.
 
-- El diseño general, que debe guiar al lector sin que este sea consciente de los detalles técnicos.
+- El diseño general, que debe **guiar al lector** sin que este sea consciente de los detalles técnicos.
 
 El objetivo de estos ajustes, basados en la tradición tipográfica y principios modernos, es lograr un "estado de enérgico reposo" en el lector, donde el texto se convierte en pensamientos sin interrupciones visuales, como si caminara sin tropezar. Al usar herramientas digitales como InDesign, aplicas las mismas decisiones de diseño que los tipógrafos tradicionales.
 
