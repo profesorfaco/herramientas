@@ -110,7 +110,7 @@ El objetivo de estos ajustes, basados en la tradición tipográfica y principios
 
 #### Más resumida con la misma IA
 
-Para lograr un diseño editorial óptimo, es crucial cuidar los detalles de la tipografía. Esto incluye seleccionar el idioma correcto para los cortes de palabras, ajustar la justificación para evitar espacios irregulares y elegir una interlínea y un ancho de línea adecuados. El objetivo es crear una experiencia de lectura fluida y sin obstáculos para el lector.
+El texto detalla las decisiones clave en el diseño editorial para crear publicaciones legibles. Se enfatiza la importancia de configurar correctamente el idioma en programas como InDesign para el corte de palabras, ajustar la justificación para evitar espacios indeseados, y elegir una interlínea y un ancho de línea adecuados para facilitar la lectura. Todas estas consideraciones buscan guiar al lector hacia un estado de "enérgico reposo", donde el diseño tipográfico se vuelve invisible y la lectura fluye sin interrupciones.
 
 - - - - - 
 
