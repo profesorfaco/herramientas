@@ -60,15 +60,15 @@ Receso → 15/09/2025
 
 Clase-06 → 22/09/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-06
 
-Clase-07 → 29/09/2025
+Clase-07 → 29/09/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-07
 
-Clase-08 → 6/10/2025 → Trabajo práctico, en sala (20% del promedio final
+Clase-08 → 6/10/2025 → [Trabajo práctico, en sala (20% del promedio final)](https://github.com/profesorfaco/herramientas/tree/main/clase-08)
 
 Clase-09 → 13/10/2025
 
 Clase-10 → 20/10/2025
 
-Clase-11 → 27/10/2025 → Trabajo práctico, en sala (20% del promedio final
+Clase-11 → 27/10/2025 → Trabajo práctico, en sala (20% del promedio final)
 
 Clase-12 → 3/11/2025
 
