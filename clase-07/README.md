@@ -8,4 +8,4 @@ Conviene recordar que se trata de una herramienta computacional privativa. Podem
 
 - - - - - 
 
-[← Clase 05](https://github.com/profesorfaco/herramientas/tree/main/clase-06) | [Clase 07](https://github.com/profesorfaco/herramientas/tree/main/clase-08) →
+[← Clase 06](https://github.com/profesorfaco/herramientas/tree/main/clase-06) | [Clase 08](https://github.com/profesorfaco/herramientas/tree/main/clase-08) →
