@@ -118,5 +118,7 @@ El texto detalla las decisiones clave en el diseño editorial para crear publica
 
 Recuerden la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
+Vamos a partir con crear una página que use 10/12x21, con una [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro), que es lo más parecido que nos ofrece Google Fonts a Minion Pro.
+
 - - - - -  
 
