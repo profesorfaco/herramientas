@@ -92,7 +92,7 @@ Por eso se indicaba más arriba que, desde un centro en la tipografía como alte
 
 - - - - - - - 
 
-### Primero algo de teoría, resumido con Gemini Flash 2.5
+### Algo de teoría resumida con Gemini 2.5 Flash 
 
 Cuando trabajes en **InDesign**, es crucial configurar correctamente el idioma, especialmente para evitar problemas con los cortes de palabras en español. Si desactivas la división silábica para evitar guiones, es fundamental ajustar los valores de justificación para que el texto no se vea desordenado o con espacios excesivos (efecto conocido como "ríos" o "calles").
 
@@ -110,7 +110,7 @@ El objetivo de estos ajustes, basados en la tradición tipográfica y principios
 
 ### Lo que sigues es práctica, mucha práctica. 
 
-Recuerden la posibilidad de apoyarse en https://helpx.adobe.com/cl/indesign/user-guide.html
+Recuerden la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
 - - - - -  
 
