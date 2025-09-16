@@ -24,7 +24,7 @@ No es necesario que se compren los 6. Bastaría con el primero. Incluso, podría
 
 - - - - - -  -
 
-**Para sacar mejor provecho a [InDesign](https://www.adobe.com/cl/products/indesign.html)**, una de varias herramientas digitales (privativas) creada para *profesionales de diseño, producción y preimpresión y para proveedores de servicios de impresión que trabajan para revistas, firmas de diseño, agencias de publicidad, periódicos, editoriales de libros y empresas de venta por catálogo y minoristas, así como para el diseño corporativo, la impresión comercial y otros entornos de publicación de vanguardia* **deben revisar, al menos**: 
+**Para sacar un mejor provecho de [InDesign](https://www.adobe.com/cl/products/indesign.html)**, una de varias herramientas digitales (privativas) creada para *profesionales de diseño, producción y preimpresión y para proveedores de servicios de impresión que trabajan para revistas, firmas de diseño, agencias de publicidad, periódicos, editoriales de libros y empresas de venta por catálogo y minoristas, así como para el diseño corporativo, la impresión comercial y otros entornos de publicación de vanguardia* **deben revisar, al menos**: 
 
 - **[el video en Youtube](https://youtu.be/syXBD-rOIHk?feature=shared&t=104)**; y
 
