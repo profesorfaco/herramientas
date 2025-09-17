@@ -16,17 +16,23 @@ Con IA generativa podemos avanzar en la creación de un documento, [aún sin la 
 
 Así como fue generado el tipógrafo, podríamos generar otraas imágenes para un documento tipo portafolio. 
 
-Además de [Gemini (Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image), consideremos: 
+Además de [Gemini (Modelo Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image), consideremos: 
 
 - https://firefly.adobe.com/
 
-- asfdas
+- https://artlist.io/
 
-- adsfdasf
+- https://chatgpt.com/
 
-- adsfads
+- https://leonardo.ai/
 
-Compartamos las que conozcamos para tener más posibilidades.
+- https://flux1.ai/prompt-generator
+
+Compartamos las que conozcamos para tener más posibilidades (las de 3D las dejaremos para más adelante). 
+
+Al compartirlas y usarlas nos conviene recordar que el resultado de una inteligencia artificial es como un resultado ajeno, y que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe: 
+
+> Reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina.
 
 - - - - - 
 
