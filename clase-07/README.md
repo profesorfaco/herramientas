@@ -10,7 +10,7 @@ Ya sabemos que nuestro avance con InDesign nos exige aprovechar el conocimiento 
 
 La imagen de este tipógrafo fue **generada** con Gemini, aprovechando esta *Guía Oficial Nano Banana*: https://www.alandaitch.com/nanobanana
 
-La palabra destacada en el párrafo anterior sirve para recordar que **la imagen resulta del uso de IA generativa**, un tipo de IA que crea contenido nuevo según lo que aprendió a partir de contenido existente. Para más información respecto de esta herramienta digital, se recomienda aprovechar este cursillo: https://www.cloudskillsboost.google/course_templates/536/video/564214
+La palabra destacada en el párrafo anterior sirve para recordar que **la imagen resulta del uso de IA generativa**, un tipo de IA que crea contenido nuevo según lo que aprendió a partir de contenido existente (para más información respecto de esta herramienta digital, se recomienda aprovechar: https://www.cloudskillsboost.google/course_templates/536/video/564214)
 
 Con IA generativa podemos avanzar en la creación de un documento, [aún sin la herramienta de Generative Fill](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4) que incluyen las licencias más actuales quea aún no se pagan.
 
