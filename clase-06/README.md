@@ -66,7 +66,7 @@ Cuando decimos fuente de texto o prosa apuntamos a una división simple y funcio
 
 > fuentes que tienen características formales que las hace más aropiadas a la lectura contnua, es decir, fuentes que pueden leerse en numerosas líneas de texto sin problemas porque siguen los cánones formales de la costumbre lectora […] Habitualmente se les llama fuentes transparentes o invisibles, ya que no desconcentran a quien lee con su forma (Gálvez, 2024:136)
 
-Descartando al otro grupo, de las fuentes *Display*, a la Minion Pro y tantas otras fuentes de texto o prosa le corresponde cumplir con las funciones que Robert Brighurst (2008) resume en los siguientes puntos:
+Descartando al otro grupo, de las fuentes *Display*, a la fuente le corresponde cumplir con las funciones que Robert Brighurst (2008) resume en los siguientes puntos:
 
 - invitar al lector a entrar en el texto;
 
@@ -78,7 +78,7 @@ Descartando al otro grupo, de las fuentes *Display*, a la Minion Pro y tantas ot
 
 Y según podamos ajustar desde la *i* o la *m* de determinada fuente, midiendo todo en pt, podemos avanzar "hacia afuera" para establecer una grilla que distribuya los contenidos dentro de una caja para el texto que sea proporcional a la página y atenta al modo en que se encuadernará el número total de páginas de la publicación por diseñar. Consideremos, por ejemplo, que la revista con una decena de cuadernillos corcheteados puede abrirse en doble página de un modo que no puede abrirse un libro de centenas de hojas sueltas encoladas.
 
-Todos los cuidados que podríamos aprender en la práctica debería buscar, en una publicación tradicional, inducir a lo que Robert Brighurst demonima *un estado de enérgico reposo, que es la condición ideal para la lectura*. Estado que coincide con lo que escribe Gerad Unger en su *¿Qué ocurre mientras lees?*: 
+Todos los cuidados que podríamos aprender en la práctica debería buscar, en una publicación tradicional, inducir a lo que Robert Brighurst llama *un estado de enérgico reposo, que es la condición ideal para la lectura*. Estado que coincide con lo que escribe Gerad Unger en su *¿Qué ocurre mientras lees?*: 
 
 > Cuando lees de forma completamente automática, y alcanzas el estado en que el texto de la página o de la pantalla se convierte directamente en lenguaje, pensamientos y conceptos, puede suceder que algo raro o extraño te interrumpe, como un espacio exagerado entre palabras en una columna de periódico, o un reglón con espacio añadido entre las letras. Es algo semejante a lo que ocurre al caminar por una acera y tropiezas con una baldosa mal colocada. Estás caminando alegremente, enfrascado en tus pensamientos, y de repente esa baldosa te lastima el pie o tuerce tu zapato. Por fortuna, cuando tus ojos tropiezan con el texto no te haces daño de verdad, pero sí que produce un frenazo en la lectura y tratas de descubrir qué pasó (2012:121-122).
 
@@ -90,7 +90,7 @@ Lo curioso es que este modo de entender la tipografía, tan moderno, depende de 
 
 > Imagínese […] un pequelo taller tipográfico, donde una o más personas accedían a una caja de madera, rectangular y de poca profundidad, que contenía compartimentos que almacenaban pequeños bloques metálicos con letras mayúsculas y otros, con las mismas letras, que incluían acentos diacríticos, además de otros signos de escritura. Asismismo, podía acceder a las letras minúsculas, en otra caja, que se ubicaba debajo de la de las mayúsculas. De ahí que se llame caja alta y caja baja o en inglés *uppercase* y *lowercase* (Gálvez, 2024:264).
 
-Cuando tomamos una herramienta computacional como InDesign, nos corresponde, con ojos entrenados en diseño, trabajar como tipógrafos. 
+Cuando tomamos una herramienta computacional como InDesign, nos corresponde trabajar como tipógrafos. 
 
 Por eso se indicaba más arriba que, desde un centro en la tipografía como alternativa de fuente y cuerpo tipográfico, podemos ir hacia afuera, como avanzando entre anillos concéntricos que nos exigen decisiones de diseño (editorial).
 
@@ -118,7 +118,7 @@ El texto detalla las decisiones clave en el diseño editorial para crear publica
 
 Recuerden la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
-Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use el 10/12x21 de *Los elementos del estilo tipográficos* de Robert Brughurst, con una [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) (que es lo más parecido que nos ofrece Google Fonts a Minion Pro).
+Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use el 10/12x21 de *Los elementos del estilo tipográficos* de Robert Brughurst, con la fuente [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) (que es lo más parecido que nos ofrece Google Fonts a Minion Pro).
 
 En tales páginas trabajaremos con el texto en: https://docs.google.com/document/d/1tRHr-NuknNTnb7tKLQPs_S34C7-U3lGB4JlCm13IESg/
 
