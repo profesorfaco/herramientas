@@ -2,7 +2,7 @@
 
 ### Sigamos avanzando con InDesign
 
-Estamos aprendiendo de una herramienta computacional privativa; podemos trabajar con Adobe InDesign gracias a la licencia que paga la Universidad, y que deberían pagar las empresas donde trabajemos en proyecto de edición, o que deberíamos cobrar, proporcionalmente, a cada cliente cuando estamos *freelanceando*. [Scribus](https://es.wikipedia.org/wiki/Scribus) es la alternativa [libre](https://www.gnu.org/philosophy/free-sw.es.html) para este tipo de herramientas digitales.
+Estamos aprendiendo de una herramienta computacional privativa; **podemos trabajar con Adobe InDesign gracias a la licencia que paga la Universidad**, y que deberían pagar las empresas donde trabajemos en proyecto de edición, o que deberíamos cobrar, proporcionalmente, a cada cliente cuando estamos *freelanceando*. [Scribus](https://es.wikipedia.org/wiki/Scribus) es la alternativa [libre](https://www.gnu.org/philosophy/free-sw.es.html) para este tipo de herramientas digitales.
 
 Nuestro avance con InDesign nos exige aprovechar el conocimiento generado por siglos de tipografía (entendida como la manera en que se compone con los caracteres de una fuente en un plano):
 
