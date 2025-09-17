@@ -34,6 +34,8 @@ Al compartirlas y usarlas nos conviene recordar que el resultado de una intelige
 
 > Reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina.
 
+No se prohíbe el uso de la IA. Se prohíbe esconder su uso.
+
 - - - - - 
 
 [← Clase 06](https://github.com/profesorfaco/herramientas/tree/main/clase-06) | [Clase 08](https://github.com/profesorfaco/herramientas/tree/main/clase-08) →
