@@ -12,27 +12,25 @@ La imagen de este tipógrafo fue **generada** con Gemini, aprovechando esta *Gu�
 
 La palabra destacada sirve para recordar que **la imagen resulta del uso de IA generativa**, un tipo de IA que crea contenido nuevo según lo que aprendió a partir de contenido existente. Para más información respecto de esta herramienta digital, se recomienda aprovechar este cursillo: https://www.cloudskillsboost.google/course_templates/536/video/564214
 
-Con IA generativa podemos avanzar en la creación de un documento, [aún sin la herramienta de Generative Fill](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4). 
+Con IA generativa podemos avanzar en la creación de un documento, [aún sin la herramienta de Generative Fill](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4) que incluyen las licencias más actuales quea aún no se pagan.
 
-Así como fue generado el tipógrafo, podríamos generar otraas imágenes para un documento tipo portafolio. 
-
-Además de [Gemini (Modelo Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image), consideremos: 
+Así como fue generado el tipógrafo, podríamos generar otras imágenes considerando varias alternativas a [Gemini (Modelo Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image), tales como: 
 
 - https://firefly.adobe.com/
-
-- https://artlist.io/
 
 - https://chatgpt.com/
 
 - https://leonardo.ai/
 
+- https://artlist.io/
+
 - https://flux1.ai/prompt-generator
 
-Compartamos las que conozcamos para tener más posibilidades (las de 3D las dejaremos para más adelante). 
+La lista podría crecer si compartimos las conocidas, dejando las de modelado 3D para más adelante. 
 
-Al compartirlas y usarlas nos conviene recordar que ideas y resultados de una inteligencia artificial son ajenas/os, y que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe *reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina*.
+Al compartir y usar éstas alternativas, nos conviene recordar que ideas y resultados de una inteligencia artificial son ajenas/os, y que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe *reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina*.
 
-**No se prohíbe el uso de la IA. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* es tal como una artificial**.
+**No se prohíbe el uso de la IA. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* es tal como la artificial programada en otras latitudes**.
 
 - - - - - 
 
