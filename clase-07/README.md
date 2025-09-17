@@ -14,7 +14,7 @@ La palabra destacada en el párrafo anterior sirve para recordar que **la imagen
 
 Con IA generativa podemos avanzar en la creación de un documento, [aún sin la herramienta de Generative Fill](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4) que incluyen las licencias más actuales quea aún no se pagan.
 
-Así como fue generado el tipógrafo, podríamos generar otras imágenes considerando varias alternativas a [Gemini (Modelo Nano Banana)](https://aistudio.google.com/models/gemini-2-5-flash-image), tales como: 
+Así como fue generado el tipógrafo, podríamos generar otras imágenes considerando varias "alternativas" al modelo [Nano Banana que usa Gemini)](https://aistudio.google.com/models/gemini-2-5-flash-image), tales como: 
 
 - https://firefly.adobe.com/
 
