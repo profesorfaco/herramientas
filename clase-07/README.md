@@ -32,7 +32,7 @@ Compartamos las que conozcamos para tener más posibilidades (las de 3D las deja
 
 Al compartirlas y usarlas nos conviene recordar que ideas y resultados de una inteligencia artificial son ajenas/os, y que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe *reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina*.
 
-**No se prohíbe el uso de la IA. Se prohíbe esconder su uso para hacer creer que su inteligencia "natural" es tal como una artificial**.
+**No se prohíbe el uso de la IA. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* es tal como una artificial**.
 
 - - - - - 
 
