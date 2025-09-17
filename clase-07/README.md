@@ -30,11 +30,9 @@ Además de [Gemini (Modelo Nano Banana)](https://aistudio.google.com/models/gemi
 
 Compartamos las que conozcamos para tener más posibilidades (las de 3D las dejaremos para más adelante). 
 
-Al compartirlas y usarlas nos conviene recordar que el resultado de una inteligencia artificial es como un resultado ajeno, y que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe: 
+Al compartirlas y usarlas nos conviene recordar que el resultado de una inteligencia artificial es como un resultado ajeno, y que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe *reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina*.
 
-> Reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina.
-
-No se prohíbe el uso de la IA. Se prohíbe esconder su uso.
+**No se prohíbe el uso de la IA. Se prohíbe esconder su uso**.
 
 - - - - - 
 
