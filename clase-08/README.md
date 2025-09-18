@@ -2,7 +2,7 @@
 
 ### Trabajo práctico, en sala (20% del promedio final)
 
-Hoy ponemos a prueba lo avanzado en InDesign generando una publicación breve, antediendo a las instrucciones que se incluirán a continuación.
+Hoy ponemos a prueba lo avanzado en InDesign con una publicación breve, antediendo a las instrucciones que se incluirán a continuación.
 
 - - - - - 
 
