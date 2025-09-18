@@ -8,11 +8,15 @@ Ya sabemos que nuestro avance con InDesign nos exige aprovechar el conocimiento 
 
 ![nano-banana](https://github.com/user-attachments/assets/54ea0fa2-de0c-41af-aeba-d726900e0f06)
 
-La imagen de este tipógrafo fue **generada** con Gemini, aprovechando esta *Guía Oficial Nano Banana*: https://www.alandaitch.com/nanobanana
+La imagen de este tipógrafo fue **generada** con Gemini (también conocido como Nano Banana), aprovechando el descriptor de una escena fotorrealista que se enseña en esta web oficial: https://ai.google.dev/gemini-api/docs/image-generation?hl=es-419#1_photorealistic_scenes
 
-La palabra destacada en el párrafo anterior sirve para recordar que **la imagen resulta del uso de IA generativa**, un tipo de IA que crea contenido nuevo según lo que aprendió a partir de contenido existente (para más información respecto de esta herramienta digital: https://www.cloudskillsboost.google/course_templates/536/video/564214)
+Lo que se enseña en tal web es resumido en esta *Guía Oficial Nano Banana*: https://www.alandaitch.com/nanobanana
 
-Con IA generativa podemos avanzar en el trabajo con InDesign, [aún sin la herramienta de Generative Fill](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4) que incluyen las licencias más actuales.
+Y para la misma guía hay una versión en Instagram: https://www.instagram.com/p/DOnz_FtAXhw/
+
+La palabra **generada**, destacada en el párrafo anterior, sirve para indicar que **la imagen resulta del uso de IA generativa**, un tipo de IA que crea contenido nuevo según lo que aprendió a partir de contenido existente (para más información respecto de esta herramienta digital: https://www.cloudskillsboost.google/course_templates/536/video/564214)
+
+Con IA generativa podemos avanzar en el trabajo con InDesign, [aún sin la herramienta de *Generative Fill*](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4) que incluyen las licencias más actuales.
 
 Así como fue generado el tipógrafo, podríamos generar otras imágenes considerando varias "alternativas" al modelo [Nano Banana que usa Gemini)](https://aistudio.google.com/models/gemini-2-5-flash-image), tales como: 
 
@@ -30,7 +34,7 @@ Al compartir y usar éstas alternativas, nos conviene recordar que ideas y resul
 
 **No se prohíbe el uso de la inteligencia artificial. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* es tal como la artificial programada en otras latitudes y/o longitudes** distantes de los problemas y necesidades del país.
 
-Aparte, no es necesario que toda la imagen sea generada. Bien podríamos aprovechar algo hecho por ustedes, como: 
+Aparte, no es necesario que toda la imagen sea generada. Bien podríamos mezclar *inteligencias* para: 
 
 Generar otra toma para el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evorakie.github.io/primera-nota/) (dejando para [después lo del modelo 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d) que se puede generar desde la misma imagen).
 
@@ -40,13 +44,11 @@ Llevar La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/pri
 
 ![florecida](https://github.com/user-attachments/assets/fb20bd9d-28d3-4b2d-9dbc-2b04b6066b4f)
 
-O llevar [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.github.io/primera-nota/) a otra locación generada.
+Llevar [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.github.io/primera-nota/) a otra locación generada.
 
 ![new-york](https://github.com/user-attachments/assets/4f578c3e-74e4-4e66-99b5-224df9da452c)
 
-
-
-
+O convetir una *selfie* en una foto de estudio (como hizo su profesor con su imagen de perfil en GitHub).
 
 - - - - - 
 
