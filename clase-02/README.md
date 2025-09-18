@@ -169,4 +169,4 @@ function keyPressed() {
 
 - - - - - - 
 
-[← Clase 01](https://github.com/profesorfaco/herramientas/tree/main/clase-01) | Clase 03 →
+[← Clase 01](https://github.com/profesorfaco/herramientas/tree/main/clase-01) | [Clase 03 →](https://github.com/profesorfaco/herramientas/tree/main/clase-03)
