@@ -4,11 +4,11 @@
 
 Estamos aprendiendo de una herramienta computacional privativa; **podemos trabajar con Adobe InDesign gracias a la licencia que paga la Universidad**, y que deberían pagar las empresas donde trabajemos en proyecto editoriales, o que deberíamos cobrar, proporcionalmente, a cada cliente cuando estamos *freelanceando*. [Scribus](https://es.wikipedia.org/wiki/Scribus) es la alternativa [libre](https://www.gnu.org/philosophy/free-sw.es.html) para este tipo de herramientas digitales.
 
-Ya sabemos que nuestro avance con InDesign nos exige aprovechar el conocimiento generado por siglos de tipografía entendida como la manera en que se compone con los caracteres de una fuente en un plano.
+Al usar herramientas digitales como InDesign, aplicamos las mismas decisiones de diseño que los tipógrafos tradicionales. Esto nos exige aprovechar el conocimiento generado por siglos de tipografía, entendida como la manera en que se compone con los caracteres de una fuente en un plano.
 
 ![nano-banana](https://github.com/user-attachments/assets/54ea0fa2-de0c-41af-aeba-d726900e0f06)
 
-La imagen de este tipógrafo fue **generada** con Gemini (también conocido como Nano Banana), aprovechando el descriptor de una escena fotorrealista que se enseña en esta web oficial: https://ai.google.dev/gemini-api/docs/image-generation?hl=es-419#1_photorealistic_scenes
+La imagen del tipógrafo fue **generada** con Gemini (con el modelo Nano Banana), desde el descriptor de una escena fotorrealista que sigue el modelo que se enseña en esta web oficial: https://ai.google.dev/gemini-api/docs/image-generation?hl=es-419#1_photorealistic_scenes
 
 Lo que se enseña en tal web es resumido en esta *Guía Oficial Nano Banana*: https://www.alandaitch.com/nanobanana
 
