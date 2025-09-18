@@ -40,7 +40,7 @@ O el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evor
 
 ![conejillo](https://github.com/user-attachments/assets/ff84fb66-7b69-4cfb-a957-23b295bbe169)
 
-Dejando para [después lo del 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d)
+Dejando para [después lo del modelo 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d) que se puede generar desde la misma imagen.
 
 
 - - - - - 
