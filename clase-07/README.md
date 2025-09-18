@@ -12,9 +12,9 @@ La imagen de este tipógrafo fue **generada** con Gemini (también conocido como
 
 Lo que se enseña en tal web es resumido en esta *Guía Oficial Nano Banana*: https://www.alandaitch.com/nanobanana
 
-Y para la misma guía hay una versión en Instagram: https://www.instagram.com/p/DOnz_FtAXhw/
+Y tal *Guía* es resumida en: https://www.instagram.com/p/DOnz_FtAXhw/
 
-La palabra **generada**, destacada en el párrafo anterior, sirve para indicar que **la imagen resulta del uso de IA generativa**, un tipo de IA que crea contenido nuevo según lo que aprendió a partir de contenido existente (para más información respecto de esta herramienta digital: https://www.cloudskillsboost.google/course_templates/536/video/564214)
+La palabra **generada**, destacada más arriba, sirve para indicar que **la imagen resulta del uso de IA generativa**, un tipo de IA que crea contenido nuevo según lo que aprendió a partir de contenido existente (para más información respecto de esta herramienta digital: https://www.cloudskillsboost.google/course_templates/536/video/564214)
 
 Con IA generativa podemos avanzar en el trabajo con InDesign, [aún sin la herramienta de *Generative Fill*](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4) que incluyen las licencias más actuales.
 
