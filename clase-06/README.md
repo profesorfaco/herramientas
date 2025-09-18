@@ -122,7 +122,7 @@ Recordemos la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/i
 
 Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use el 10/12x21 de *Los elementos del estilo tipográficos* de Robert Brughurst, con la fuente [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) (que es lo más parecido que nos ofrece Google Fonts a Minion Pro).
 
-En tales páginas trabajaremos con el texto en: https://docs.google.com/document/d/1tRHr-NuknNTnb7tKLQPs_S34C7-U3lGB4JlCm13IESg/
+En tales páginas trabajaremos con el texto en: https://docs.google.com/document/d/1tRHr-NuknNTnb7tKLQPs_S34C7-U3lGB4JlCm13IESg/copy
 
 - - - - -  
 
