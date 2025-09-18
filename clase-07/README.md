@@ -48,7 +48,7 @@ Llevar [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.g
 
 ![new-york](https://github.com/user-attachments/assets/4f578c3e-74e4-4e66-99b5-224df9da452c)
 
-O convetir una *selfie* en una foto de estudio (como hizo el [profesorfaco](https://github.com/profesorfaco) con su avatar en GitHub).
+Estas y más posibilidades pueden mejorar cada una de las 8 imágenes que usaron en la web del primer trabajo práctico con evaluación sumativa. 
 
 - - - - - 
 
@@ -58,9 +58,9 @@ Recordemos la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/i
 
 Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use una fuente de texto o prosa.
 
-En tales páginas trabajaremos un portafolio, con textos e imágenes que resulten del uso de IA generativa
+En tales páginas trabajaremos un portafolio antecedido de un Curriculum Vitae, con textos e imágenes que resulten del uso de IA generativa.
 
-Un truco que podríamos usar para generar parte del texto: https://www.instagram.com/reel/DMCcl3VNh8c/?igsh=MW9tZGd3MGV5d2JuNQ==
+Un "truco" que podríamos usar para generar parte del texto: https://www.instagram.com/reel/DMCcl3VNh8c/?igsh=MW9tZGd3MGV5d2JuNQ==
 
 - - - - - 
 
