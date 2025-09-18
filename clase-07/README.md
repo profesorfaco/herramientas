@@ -18,23 +18,23 @@ La palabra **generada**, destacada más arriba, sirve para indicar que **la imag
 
 Con IA generativa podemos avanzar en el trabajo con InDesign, [aún sin la herramienta de *Generative Fill*](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4) que incluyen las licencias más actuales.
 
-Así como fue generado el tipógrafo, podríamos generar otras imágenes considerando varias "alternativas" al modelo [Nano Banana que usa Gemini)](https://aistudio.google.com/models/gemini-2-5-flash-image), tales como: 
-
-- https://firefly.adobe.com/
+Así como fue generado el tipógrafo, podríamos generar otras imágenes considerando varias alternativas al modelo [Nano Banana que usa Gemini)](https://aistudio.google.com/models/gemini-2-5-flash-image), tales como: 
 
 - https://deevid.ai/es/model/seedream
+
+- https://firefly.adobe.com/
 
 - https://artlist.io/
 
 - https://www.kittl.com/
 
-La lista podría crecer si compartimos las conocidas, dejando las de modelado 3D y animación para más adelante. 
+La lista podría crecer si compartimos las que conocemos, dejando las que generan modelado 3D y animación desde una imagen para más adelante. 
 
-Al compartir y usar éstas alternativas, nos conviene recordar que "ideas" y resultados de una inteligencia artificial son ajenas/os, y que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe *reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina*.
+Al compartir y usar éstas alternativas, nos conviene recordar que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe *reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina*.
 
-**No se prohíbe el uso de la inteligencia artificial. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* es tal como la artificial programada en latitudes y/o longitudes** distantes de capacidades, problemas y necesidades del país.
+**No se prohíbe el uso de la inteligencia artificial. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* origina ideas y resultados como los de genera una inteligencia artificial programada en latitudes y/o longitudes** distantes de oportunidades, capacidades, problemas y necesidades del país.
 
-Aparte, no es necesario que toda la imagen sea generada. Bien podríamos mezclar *inteligencias* para: 
+Aparte, no es necesario que toda la imagen sea generada. Bien podríamos *mezclar inteligencias* para: 
 
 Generar otra toma para el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evorakie.github.io/primera-nota/) (dejando para [después lo del modelo 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d) que se puede generar desde la misma imagen).
 
