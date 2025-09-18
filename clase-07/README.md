@@ -32,7 +32,7 @@ La lista podría crecer si compartimos las que conocemos, dejando las que genera
 
 Al compartir y usar éstas alternativas, nos conviene recordar que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe *reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina*.
 
-**No se prohíbe el uso de la inteligencia artificial. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* origina ideas y resultados como los que genera una inteligencia artificial programada en latitudes y/o longitudes** distantes de oportunidades, capacidades, problemas y necesidades de nuestro país.
+**No se prohíbe el uso de la inteligencia artificial. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* origina ideas y resultados como los que genera una inteligencia artificial programada en latitudes y/o longitudes** distantes de necesidades, oportunidades, capacidades, sesgos y problemas de nuestro país.
 
 Aparte, no es necesario que toda la imagen sea generada. Bien podríamos *mezclar inteligencias* para: 
 
