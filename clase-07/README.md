@@ -48,7 +48,7 @@ Llevar [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.g
 
 ![new-york](https://github.com/user-attachments/assets/4f578c3e-74e4-4e66-99b5-224df9da452c)
 
-O convetir una *selfie* en una foto de estudio (como hizo su profesor con su imagen de perfil en GitHub).
+O convetir una *selfie* en una foto de estudio (como hizo el [profesorfaco](https://github.com/profesorfaco) con su avatar en GitHub).
 
 - - - - - 
 
