@@ -6,4 +6,4 @@ Hoy ponemos a prueba lo avanzado en InDesign con una publicación breve, antedie
 
 - - - - - 
 
-[← Clase 07](https://github.com/profesorfaco/herramientas/tree/main/clase-07) | [Clase 09](https://github.com/profesorfaco/herramientas/tree/main/clase-09) →
+[← Clase 07](https://github.com/profesorfaco/herramientas/tree/main/clase-07)
