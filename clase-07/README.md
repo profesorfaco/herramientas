@@ -32,7 +32,7 @@ Al compartir y usar éstas alternativas, nos conviene recordar que ideas y resul
 
 Aparte, no es necesario que toda la imagen sea generada. Bien podríamos aprovechar algo hecho por ustedes, como: 
 
-La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/), y sólo generar otro modo de exponerlo, distinto del capturado en la fotografía en su portafolio:
+La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/), y sólo generar otro modo de exponerlo:
 
 ![florecida](https://github.com/user-attachments/assets/fb20bd9d-28d3-4b2d-9dbc-2b04b6066b4f)
 
