@@ -36,7 +36,7 @@ La [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.githu
 
 ![new-york](https://github.com/user-attachments/assets/4f578c3e-74e4-4e66-99b5-224df9da452c)
 
-La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/), y sólo generar otro modo de exponerlo:
+La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/) también puede llevarse a otra locación generada:
 
 ![florecida](https://github.com/user-attachments/assets/fb20bd9d-28d3-4b2d-9dbc-2b04b6066b4f)
 
