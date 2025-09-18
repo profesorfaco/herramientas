@@ -46,6 +46,17 @@ O podemos generar otra toma para el [Conejo - Animal formado con Planos Plegados
 
 (Dejando para [después lo del modelo 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d) que se puede generar desde la misma imagen).
 
+- - - - - 
+
+### Lo que sigue es practicar 
+
+Recuerden la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
+
+Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use una fuente de texto o prosa.
+
+En tales páginas trabajaremos un portafolio, con textos e imágenes que resulten del uso de IA generativa
+
+Un truco que podríamos usar para generar parte del texto: https://www.instagram.com/reel/DMCcl3VNh8c/?igsh=MW9tZGd3MGV5d2JuNQ==
 
 - - - - - 
 
