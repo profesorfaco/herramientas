@@ -36,7 +36,7 @@ La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-no
 
 ![florecida](https://github.com/user-attachments/assets/fb20bd9d-28d3-4b2d-9dbc-2b04b6066b4f)
 
-O el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evorakie.github.io/primera-nota/), para inventar la toma desde otro ángulo:
+O el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evorakie.github.io/primera-nota/), para generar la toma desde otro ángulo:
 
 ![conejillo](https://github.com/user-attachments/assets/ff84fb66-7b69-4cfb-a957-23b295bbe169)
 
