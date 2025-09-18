@@ -8,7 +8,7 @@ Ya sabemos que nuestro avance con InDesign nos exige aprovechar el conocimiento 
 
 ![nano-banana](https://github.com/user-attachments/assets/54ea0fa2-de0c-41af-aeba-d726900e0f06)
 
-La imagen de este tipógrafo fue **generada** con Gemini, aprovechando esta *Guía Oficial Nano Banana*: https://www.alandaitch.com/nanobanana - O esta versión breve https://www.instagram.com/p/DOTuw4Pgq8W/
+La imagen de este tipógrafo fue **generada** con Gemini, aprovechando esta *Guía Oficial Nano Banana*: https://www.alandaitch.com/nanobanana
 
 La palabra destacada en el párrafo anterior sirve para recordar que **la imagen resulta del uso de IA generativa**, un tipo de IA que crea contenido nuevo según lo que aprendió a partir de contenido existente (para más información respecto de esta herramienta digital: https://www.cloudskillsboost.google/course_templates/536/video/564214)
 
