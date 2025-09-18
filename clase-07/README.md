@@ -50,7 +50,7 @@ O podemos generar otra toma para el [Conejo - Animal formado con Planos Plegados
 
 ### Lo que sigue es practicar 
 
-Recuerden la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
+Recordemos la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
 Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use una fuente de texto o prosa.
 
