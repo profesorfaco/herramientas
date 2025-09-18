@@ -48,7 +48,7 @@ Llevar [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.g
 
 ![new-york](https://github.com/user-attachments/assets/4f578c3e-74e4-4e66-99b5-224df9da452c)
 
-Estas y más posibilidades pueden mejorar cada una de las 8 imágenes que usaron en la web del primer trabajo práctico con evaluación sumativa. 
+Estas y más posibilidades pueden mejorar cada una de las 8 imágenes que usaron en su portafolio web, trabajado para su primera evaluación sumativa de Herramientas Digitales.
 
 - - - - - 
 
