@@ -32,6 +32,10 @@ Al compartir y usar éstas alternativas, nos conviene recordar que ideas y resul
 
 Aparte, no es necesario que toda la imagen sea generada. Bien podríamos aprovechar algo hecho por ustedes, como: 
 
+La [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.github.io/primera-nota/) puede llevarse en una locación generada:
+
+![new-york](https://github.com/user-attachments/assets/4f578c3e-74e4-4e66-99b5-224df9da452c)
+
 La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/), y sólo generar otro modo de exponerlo:
 
 ![florecida](https://github.com/user-attachments/assets/fb20bd9d-28d3-4b2d-9dbc-2b04b6066b4f)
@@ -40,7 +44,7 @@ O el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evor
 
 ![conejillo](https://github.com/user-attachments/assets/ff84fb66-7b69-4cfb-a957-23b295bbe169)
 
-Dejando para [después lo del modelo 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d) que se puede generar desde la misma imagen.
+(Dejando para [después lo del modelo 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d) que se puede generar desde la misma imagen).
 
 
 - - - - - 
