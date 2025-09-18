@@ -36,7 +36,7 @@ Al compartir y usar éstas alternativas, nos conviene recordar que el artículo 
 
 Aparte, no es necesario que toda la imagen sea generada. Bien podríamos *mezclar inteligencias* para: 
 
-Generar otra toma para el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evorakie.github.io/primera-nota/) (dejando para [después lo del modelo 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d) que se puede generar desde la misma imagen).
+Generar otra toma para el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evorakie.github.io/primera-nota/) (dejando para [después lo del modelo 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d) que se puede generar desde la misma imagen). A Gemini le podemos pedir *mejorar la imagen del conejo, para lucir como si hubiera sido capturada en un estudio fotográfico profesional, con iluminación cuidada y gran detalle*:
 
 ![conejillo](https://github.com/user-attachments/assets/ff84fb66-7b69-4cfb-a957-23b295bbe169)
 
