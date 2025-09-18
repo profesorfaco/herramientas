@@ -116,7 +116,7 @@ El texto detalla las decisiones clave en el diseño editorial para crear publica
 
 ### Lo que sigue es practicar 
 
-Recuerden la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
+Recordemos la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
 Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use el 10/12x21 de *Los elementos del estilo tipográficos* de Robert Brughurst, con la fuente [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) (que es lo más parecido que nos ofrece Google Fonts a Minion Pro).
 
