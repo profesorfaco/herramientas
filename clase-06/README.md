@@ -102,9 +102,9 @@ Cuando trabajes en **InDesign**, es crucial configurar correctamente el idioma, 
 
 Además, considera otros aspectos clave para una lectura fluida, como:
 
-- La **interlínea**, que debe ser adecuada al tamaño de la fuente y al ancho de la columna.
+- La **interlínea**, que debe ser adecuada al tamaño de la fuente y al ancho de la línea.
 
-- El **ancho de la línea**, que idealmente debería tener entre 50 y 60 caracteres.
+- El **ancho de la línea**, en el que deberían considerarse 60 caracteres promedio.
 
 - El diseño general, que debe **guiar al lector** sin que este sea consciente de los detalles técnicos.
 
