@@ -30,10 +30,17 @@ Al compartir y usar éstas alternativas, nos conviene recordar que ideas y resul
 
 **No se prohíbe el uso de la inteligencia artificial. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* es tal como la artificial programada en otras latitudes y/o longitudes** distantes de los problemas y necesidades del país.
 
-Aparte, no es necesario que toda la imagen sea generada. Bien podríamos aprovechar algo hecho por ustedes, como la [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/), y sólo generar otro modo de exponerlo, distinto del capturado en la fotografía en su portafolio:
+Aparte, no es necesario que toda la imagen sea generada. Bien podríamos aprovechar algo hecho por ustedes, como: 
+
+La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/), y sólo generar otro modo de exponerlo, distinto del capturado en la fotografía en su portafolio:
 
 ![florecida](https://github.com/user-attachments/assets/fb20bd9d-28d3-4b2d-9dbc-2b04b6066b4f)
 
+O el [Conejo - Animal formado con Planos Plegados de Sayen Padilla](https://evorakie.github.io/primera-nota/), para inventar la toma desde otro ángulo:
+
+![conejillo](https://github.com/user-attachments/assets/ff84fb66-7b69-4cfb-a957-23b295bbe169)
+
+Dejando para [después lo del 3D](https://studio.tripo3d.ai/workspace/overview?project=26284001-724d-4ba4-811d-83e139006d9d)
 
 
 - - - - - 
