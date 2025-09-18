@@ -40,11 +40,11 @@ Generar otra toma para el [Conejo - Animal formado con Planos Plegados de Sayen 
 
 ![conejillo](https://github.com/user-attachments/assets/ff84fb66-7b69-4cfb-a957-23b295bbe169)
 
-Llevar La [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/) a una locación generada:
+Llevar la [Fuerza Florecida de Renata Pereira](https://lenapereoso.github.io/primera-nota/) a una locación generada:
 
 ![florecer](https://github.com/user-attachments/assets/3205d5ac-9950-4255-ae4d-241a7745797a)
 
-Llevar [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.github.io/primera-nota/) a otra locación generada.
+O llevar la [Chaqueta-Abrigo Asimétrica de Benjamín Rivas](https://benjaminrivasm.github.io/primera-nota/) a otra locación generada.
 
 ![new-york](https://github.com/user-attachments/assets/4f578c3e-74e4-4e66-99b5-224df9da452c)
 
