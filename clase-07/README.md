@@ -56,11 +56,24 @@ Estas y más posibilidades pueden mejorar cada una de las 8 imágenes que usaron
 
 Recordemos la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
-Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*), donde cada página use una fuente de texto o prosa.
+Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*).
 
-En tales páginas trabajaremos un portafolio antecedido de un Curriculum Vitae, con textos e imágenes que resulten del uso de IA generativa.
+En tales páginas trabajaremos un portafolio antecedido de un Curriculum Vitae (CV), con textos e imágenes que resulten del uso de IA generativa.
 
-Un "truco" que podríamos usar para generar parte del texto: https://www.instagram.com/reel/DMCcl3VNh8c/?igsh=MW9tZGd3MGV5d2JuNQ==
+Un par de "trucos" que nos podrían ayudar:
+
+- para generar el texto del CV: https://www.instagram.com/reel/DMCcl3VNh8c/?igsh=MW9tZGd3MGV5d2JuNQ==
+
+- para arreglar la "fotinwi" con Gemini: https://www.instagram.com/p/DOPG0y_EWE8/?igsh=MWo0amtlOHEybnM3Yw==
+
+Además, volvamos a usar la Crimson Pro en 10/12, pero en esta oportunidad busquemos un complemento en Gemini con el *prompt*: *Piensa como un tipógrafo* […], *dedicado al diseño de* […], *para decidir por la fuente tipográfica disponible en Google Fonts que mejor funcionaría con Crimson Pro*.
+
+Veamos un ejemplo: *Piensa como un tipógrafo **galardonado el año 2024**, dedicado al diseño de **revistas de moda**, para decidir por la fuente tipográfica disponible en Google Fonts que mejor funcionaría con Crimson Pro*. Gemini nos responde: *Como tipógrafo galardonado en 2024, mi enfoque no es solo la belleza de una tipografía, sino la creación de un sistema visual coherente y audaz. Un diseño de revista de moda debe ser elegante, contemporáneo y, sobre todo, legible. La elección de la fuente complementaria a Crimson Pro es crucial para establecer el tono ……… Mi elección, sin dudar, sería DM Sans ……… Esta combinación no es simplemente una elección, es una declaración de intenciones: un diseño que honra la tradición de la alta costura y, al mismo tiempo, abraza la estética limpia y audaz de la modernidad. Es la fórmula del éxito en el diseño editorial de lujo.* La respuesta es larga. Pero puede servir de ejemplo de lo que se esperaría en una justificación profesional para combinar fuentes (*font pairing*, en inglés). Más en: 
+
+- https://adobe.design/stories/leading-design/three-secrets-to-font-pairing
+  
+- https://fonts.google.com/knowledge/choosing_type/pairing_typefaces_based_on_their_construction_using_the_font_matrix
+
 
 - - - - - 
 
