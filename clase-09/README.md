@@ -18,6 +18,8 @@ Lo que nosotros podamos crear será afectado por el derecho de autor, que
 
 Derecho que podemos complementar si es que queremos otorgar ciertos permisos bajo ciertas condiciones; esto podemos hacerlo con [las licencias Creative Commons](https://creativecommons.org/share-your-work/cclicenses/).
 
+Ahora, volviendo a Blender, la referencia que nos conviene mantener a mano es: https://docs.blender.org/manual/es/4.5/modeling/index.html
+
 
 - - - - - 
 
