@@ -66,7 +66,9 @@ Un par de "trucos" que nos podrían ayudar:
 
 - para arreglar la "fotinwi" del CV con Gemini: https://www.instagram.com/p/DOPG0y_EWE8/?igsh=MWo0amtlOHEybnM3Yw==
 
-Volvamos a usar la Crimson Pro en 10/12. En esta oportunidad busquemos un complemento en Gemini con el *prompt*: *Piensa como un tipógrafo* […], *dedicado al diseño de* […], *para decidir por la fuente tipográfica disponible en Google Fonts que mejor funcionaría con Crimson Pro*.
+Volvamos a usar la Crimson Pro en 10/12. En esta oportunidad busquemos un complemento en Gemini con el *prompt*: 
+
+> *Piensa como un tipógrafo* […], *dedicado al diseño de* […], *para decidir por la fuente tipográfica disponible en Google Fonts que mejor funcionaría con Crimson Pro*.
 
 Veamos un ejemplo: *Piensa como un tipógrafo **tradicional**, dedicado al diseño de **libros de texto**, para decidir por la fuente tipográfica disponible en Google Fonts que mejor funcionaría con Crimson Pro*. 
 
