@@ -56,7 +56,7 @@ Estas y más posibilidades pueden mejorar cada una de las 8 imágenes que usaron
 
 Recordemos la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
-Vamos a partir con un documento de 8 páginas enfrentadas (*facing pages*).
+Vamos a partir con un documento de 12 páginas enfrentadas (*facing pages*).
 
 En tales páginas trabajaremos un portafolio antecedido de un Curriculum Vitae (CV), con textos e imágenes que resulten del uso de IA generativa.
 
@@ -64,13 +64,13 @@ Un par de "trucos" que nos podrían ayudar:
 
 - para generar el texto del CV: https://www.instagram.com/reel/DMCcl3VNh8c/?igsh=MW9tZGd3MGV5d2JuNQ==
 
-- para arreglar la "fotinwi" con Gemini: https://www.instagram.com/p/DOPG0y_EWE8/?igsh=MWo0amtlOHEybnM3Yw==
+- para arreglar la "fotinwi" del CV con Gemini: https://www.instagram.com/p/DOPG0y_EWE8/?igsh=MWo0amtlOHEybnM3Yw==
 
-Además, volvamos a usar la Crimson Pro en 10/12, pero en esta oportunidad busquemos un complemento en Gemini con el *prompt*: *Piensa como un tipógrafo* […], *dedicado al diseño de* […], *para decidir por la fuente tipográfica disponible en Google Fonts que mejor funcionaría con Crimson Pro*.
+Volvamos a usar la Crimson Pro en 10/12. En esta oportunidad busquemos un complemento en Gemini con el *prompt*: *Piensa como un tipógrafo* […], *dedicado al diseño de* […], *para decidir por la fuente tipográfica disponible en Google Fonts que mejor funcionaría con Crimson Pro*.
 
 Veamos un ejemplo: *Piensa como un tipógrafo **tradicional**, dedicado al diseño de **libros de texto**, para decidir por la fuente tipográfica disponible en Google Fonts que mejor funcionaría con Crimson Pro*. 
 
-Gemini nos responde: *Como tipógrafo de tradición y dedicado al diseño de libros de texto, mi prioridad absoluta es la legibilidad y la claridad. En un libro de texto, la tipografía no es un adorno; es la herramienta que guía al lector a través de la información. Mi objetivo es que la tipografía se vuelva invisible, permitiendo que el contenido sea el protagonista ……… Mi elección, sin dudar, es Open Sans ……… La combinación de Crimson Pro (para la lectura profunda y reflexiva) y Open Sans (para la estructura, los títulos y la información de apoyo) es un sistema tipográfico clásico y atemporal. Es la elección que demuestra un profundo respeto por el lector y por la disciplina del diseño de libros de texto. * 
+Gemini nos responde: *Como tipógrafo de tradición y dedicado al diseño de libros de texto, mi prioridad absoluta es la legibilidad y la claridad. En un libro de texto, la tipografía no es un adorno; es la herramienta que guía al lector a través de la información. Mi objetivo es que la tipografía se vuelva invisible, permitiendo que el contenido sea el protagonista ……… Mi elección, sin dudar, es Open Sans ……… La combinación de Crimson Pro (para la lectura profunda y reflexiva) y Open Sans (para la estructura, los títulos y la información de apoyo) es un sistema tipográfico clásico y atemporal. Es la elección que demuestra un profundo respeto por el lector y por la disciplina del diseño de libros de texto.* 
 
 La respuesta es larga. Pero puede servir de ejemplo de lo que se esperaría en una justificación profesional para emparejar fuentes (*font pairing*, en inglés). Más en: 
 
