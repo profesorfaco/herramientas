@@ -72,7 +72,7 @@ Veamos un ejemplo: *Piensa como un tipógrafo **tradicional**, dedicado al dise�
 
 Gemini nos responde: *Como tipógrafo de tradición y dedicado al diseño de libros de texto, mi prioridad absoluta es la legibilidad y la claridad. En un libro de texto, la tipografía no es un adorno; es la herramienta que guía al lector a través de la información. Mi objetivo es que la tipografía se vuelva invisible, permitiendo que el contenido sea el protagonista ……… Mi elección, sin dudar, es Open Sans ……… La combinación de Crimson Pro (para la lectura profunda y reflexiva) y Open Sans (para la estructura, los títulos y la información de apoyo) es un sistema tipográfico clásico y atemporal. Es la elección que demuestra un profundo respeto por el lector y por la disciplina del diseño de libros de texto. * 
 
-La respuesta es larga. Pero puede servir de ejemplo de lo que se esperaría en una justificación profesional para emparejas fuentes (*font pairing*, en inglés). Más en: 
+La respuesta es larga. Pero puede servir de ejemplo de lo que se esperaría en una justificación profesional para emparejar fuentes (*font pairing*, en inglés). Más en: 
 
 - https://adobe.design/stories/leading-design/three-secrets-to-font-pairing
   
