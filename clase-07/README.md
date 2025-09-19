@@ -32,7 +32,7 @@ La lista podría crecer si compartimos las que conocemos, dejando las que genera
 
 Al compartir y usar éstas alternativas, nos conviene recordar que el artículo 3 del [Reglamento de Estudiantes de la Universidad de Chile](https://uchile.cl/presentacion/senado-universitario/reglamentos/reglamentos-aprobados-o-modificados-por-el-senado-universitario/reglamento-de-estudiantes-de-la-universidad-de-chile), sobre los deberes de los estudiantes, indica que se debe *reconocer el origen y autoría de las ideas y resultados tanto propios como ajenos/as, según las normas y convenciones académicas de cada disciplina*.
 
-**No se prohíbe el uso de la inteligencia artificial. Se prohíbe esconder su uso con la intención de hacer creer que su *inteligencia-natural* origina ideas y resultados como los que genera una inteligencia artificial programada en latitudes y/o longitudes**, donde la interacción del ser humano con su entorno se produce en contextos diferentes del nuestro en lo espacial, sistémico, social, cultural, situacional, temporal, económico y político. 
+**No se prohíbe el uso de la inteligencia artificial. Se prohíbe esconder su uso con la intención de hacer creer que son suyas ideas y resultados generados por una inteligencia artificial programada en latitudes y/o longitudes**, donde la interacción del ser humano con su entorno tiene contextos diferentes del nuestro en lo espacial, sistémico, social, cultural, situacional, temporal, económico y político.
 
 Aparte, no es necesario que toda la imagen sea generada. Bien podríamos *mezclar inteligencias* para: 
 
@@ -56,7 +56,7 @@ Estas y más posibilidades pueden mejorar cada una de las 8 imágenes que usaron
 
 Recordemos la posibilidad de apoyar la práctica en https://helpx.adobe.com/cl/indesign/user-guide.html
 
-Vamos a partir con un documento de 12 páginas enfrentadas (*facing pages*).
+Vamos a partir con un documento de 12 páginas enfrentadas (*facing pages*) en formato A5 cerrado.
 
 En tales páginas trabajaremos un portafolio antecedido de un Curriculum Vitae (CV), con textos e imágenes que resulten del uso de IA generativa.
 
