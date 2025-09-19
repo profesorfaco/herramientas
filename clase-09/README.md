@@ -17,3 +17,8 @@ Lo que nosotros podamos crear será afectado por el derecho de autor, que
 > por el solo hecho de la creación de la obra, adquieren los autores de obras de la inteligencia en los dominios literarios, artísticos y científicos, cualquiera que sea su forma de expresión, y los derechos conexos que ella determina ([Ley 17.336, art. 1°](https://bcn.cl/27c1j)).
 
 Derecho que podemos complementar si es que queremos otorgar ciertos permisos bajo ciertas condiciones; esto podemos hacerlo con [las licencias Creative Commons](https://creativecommons.org/share-your-work/cclicenses/).
+
+
+- - - - - 
+
+[← Clase 08](https://github.com/profesorfaco/herramientas/tree/main/clase-08)
