@@ -4,7 +4,7 @@
 
 Estamos aprendiendo de una herramienta computacional privativa; **podemos trabajar con Adobe InDesign gracias a la licencia que paga nuestra Universidad**, y que deberían pagar las empresas donde trabajemos en proyecto editoriales, o que deberíamos cobrar, proporcionalmente, a cada cliente cuando estamos *freelanceando*. [Scribus](https://es.wikipedia.org/wiki/Scribus) es la alternativa [libre](https://www.gnu.org/philosophy/free-sw.es.html) para este tipo de herramientas digitales.
 
-Al usar herramientas digitales como InDesign, aplicamos las mismas decisiones de diseño que los tipógrafos tradicionales. Esto nos exige aprovechar el conocimiento generado por siglos de tipografía, entendida como la manera en que se compone con los caracteres de una fuente en un plano.
+Usar este tipo deherramientas digitales nos exige aprovechar el conocimiento generado por siglos de tipografía, entendida como la manera en que se compone con los caracteres de una fuente en un plano.
 
 ![nano-banana](https://github.com/user-attachments/assets/54ea0fa2-de0c-41af-aeba-d726900e0f06)
 
