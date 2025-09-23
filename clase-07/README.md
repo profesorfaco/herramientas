@@ -18,7 +18,7 @@ La palabra **generada**, destacada más arriba, sirve para indicar que **la imag
 
 Con IA generativa podemos avanzar en el trabajo con InDesign, [aún sin la herramienta de *Generative Fill*](https://www.adobe.com/creativecloud/media_1936ace8e85f016aa5998d911bf77557e49ec2f42.mp4) que incluyen las licencias más actuales.
 
-Así como fue generado el tipógrafo, podríamos generar otras imágenes considerando varias alternativas al modelo [Nano Banana que usa Gemini)](https://aistudio.google.com/models/gemini-2-5-flash-image), tales como: 
+Así como fue generado el tipógrafo, podríamos generar otras imágenes considerando varias alternativas al modelo [Nano Banana que usa Gemini](https://aistudio.google.com/models/gemini-2-5-flash-image), tales como: 
 
 - https://deevid.ai/es/model/seedream
 
