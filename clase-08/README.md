@@ -17,7 +17,7 @@ La calificación resulta del promedio de 2 pautas (cada nota tiene misma importa
 | 0,5 | Utiliza espacio entre líneas (interlínea), espacio entre letras (interletra) y espacio entre palabras adecuados a una lectura que “camina sin tropiezos”. |
 | 0,5 | Usa sangrías discretas para diferencias párrafos, manteniendo su articulación en un bloque de texto y evitando marcaciones redundantes de párrafos. |
 | 0,5 | Evita “viudas” y “huérfanas”. |
-| 0,5 |  Evita dejar algunas palabras completamente en mayúsculas o siglas dentro de un texto extenso. |
+| 0,5 | Evita dejar algunas palabras completamente en mayúsculas o siglas dentro de un texto extenso. |
 | 1,0 | Mejora imágenes reales con Inteligencia Artificial Generativa para sacar el mejor provecho posible a su presentación | 
 | 1,0 | Ajusta datos reales con Inteligencia Artificial Generativa para informar y persuadir de sus capacidades y méritos en función de propuestas laborales específicas |
 | 1,0 | Punto base |
@@ -26,7 +26,7 @@ La calificación resulta del promedio de 2 pautas (cada nota tiene misma importa
 
 **Segunda pauta**:
 
-El resultado debe publicarse en una página web, como PDF. La página web debe basarse en el siguiente código fuente, generado, en parte, con [Claude](https://claude.ai/)
+El resultado debe publicarse en una página web, como PDF. La página web debe basarse en el siguiente código fuente, generado, en parte, con [Claude](https://claude.ai/):
 
 ```
 
@@ -260,6 +260,16 @@ El resultado debe publicarse en una página web, como PDF. La página web debe b
 </body>
 </html>
 ```
+
+- - - - - 
+
+Corresponde revisar las indicaciones dejadas como comentarios en el código fuente recién desplegado para poder obtener 4 puntos. A los que se le sumarán 3 que considerarán:
+
+- Calidad de CV en Portafolio (0,0 a 1,0), considerando [imagen personal adaptada a un tono pertinente a su identidad](https://bananaprompts.xyz/), además de un texto adaptado a determinada oferta laboral de su interés.
+
+- Calidad de presentación de trabajos en el Portafolio (0,0 a 1,0), considerando nivel del curso.
+
+- Calidad de portada, contraportada, página de dada y colofón en el Portafolio (0,0 a 1,0), considerando nivel del curso.
 
 - - - - - 
 
