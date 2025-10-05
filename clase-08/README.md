@@ -47,7 +47,8 @@ El resultado debe publicarse en una página web, como PDF. La página web debe b
 
         /* 
             Cambie los colores, usando alguna armonía de color tomada de 
-            https://color.adobe.com/es/create/color-wheel 
+            https://color.adobe.com/es/create/color-wheel
+            Indique en este comentario la armonía que decide utilizar 
         */
 
         :root{
