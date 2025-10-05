@@ -22,13 +22,11 @@ La calificación resulta del promedio de 2 pautas (cada nota tiene misma importa
 | 1,0 | Ajusta datos reales con Inteligencia Artificial Generativa para informar y persuadir de sus capacidades y méritos en función de propuestas laborales específicas |
 | 1,0 | Punto base |
 
+- - - - - 
+
 **Segunda pauta**:
 
-Pendiente
-
-- - - - -
-
-La página web debe basarse en el siguieten código fuente, generado, en parte, con [Claude](https://claude.ai/)
+El resultado debe publicarse en una página web, como PDF. La página web debe basarse en el siguiente código fuente, generado, en parte, con [Claude](https://claude.ai/)
 
 ```
 
