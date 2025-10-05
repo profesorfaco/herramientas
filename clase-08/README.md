@@ -46,6 +46,7 @@ El resultado debe publicarse en una página web, como PDF. La página web debe b
         }
 
         /* 
+            Primer punto:
             Cambie los colores, usando alguna armonía de color tomada de 
             https://color.adobe.com/es/create/color-wheel
             Indique en este comentario la armonía que decide utilizar 
@@ -237,7 +238,7 @@ El resultado debe publicarse en una página web, como PDF. La página web debe b
 <body>
     <div class="container">
         <div class="left-section">
-            <!--modifique los textos según lo que puede leer-->
+            <!--segundo punto por los ajuste en la sección izquierda-->
             <h1>NOMBRE APELLIDO</h1>
             <p>Reemplace este texto, manteniendo la brevedad y usando un <a href="https://www.nngroup.com/videos/tone-of-voice-dimensions/" target="_blank">tono de voz</a> que coincida con el <a href="https://www.nngroup.com/articles/neobrutalism/" target="_blank">neobrutalismo</a> que inspira el estilo de la página; y cambie la foto por un retrato suyo.</p>
             <!--suba el PDF a GitHub y cambie la referencia de hipertexto-->
@@ -245,6 +246,7 @@ El resultado debe publicarse en una página web, como PDF. La página web debe b
         </div>
         
         <div class="right-section">
+            <!--tercer punto por los ajuste en la sección izquierda-->
             <div class="mugshot-container">
                 <div class="badge">
                     <!--vincule a su cuenta en GitHub-->
@@ -252,6 +254,7 @@ El resultado debe publicarse en una página web, como PDF. La página web debe b
                 </div>
                 <div class="mugshot-frame">
                     <div class="mugshot">
+                        <!--incluya la misma imagen que utiliza en su portafolio, a resolución, tamaño y peso adecuado para la web-->
                         <img src="https://picsum.photos/500/500.jpg">
                     </div>
                 </div>
@@ -264,13 +267,15 @@ El resultado debe publicarse en una página web, como PDF. La página web debe b
 
 - - - - - 
 
-Corresponde revisar las indicaciones dejadas como comentarios en el código fuente recién desplegado para poder obtener 4 puntos. A los que se le sumarán 3 que considerarán:
+Corresponde revisar las indicaciones dejadas como comentarios en el código fuente recién desplegado para poder obtener 3 puntos. A los que se le sumarán 4 que considerarán:
 
-- Calidad de CV en Portafolio (0,0 a 1,0), considerando [imagen personal adaptada a un tono pertinente a su identidad](https://bananaprompts.xyz/), además de un texto adaptado a determinada oferta laboral de su interés.
+- Calidad de CV en portafolio en PDF descargable (0,0 a 1,0), considerando [imagen personal adaptada a un tono pertinente a su identidad](https://bananaprompts.xyz/), además de un texto adaptado a determinada oferta laboral de su interés.
 
-- Calidad de presentación de trabajos en el Portafolio (0,0 a 1,0), considerando nivel del curso.
+- Calidad de presentación de trabajos en portafolio en PDF descargable (0,0 a 1,0), considerando nivel del curso.
 
-- Calidad de portada, contraportada, página de dada y colofón en el Portafolio (0,0 a 1,0), considerando nivel del curso.
+- Calidad de cubierta en continuidad con contracubierta, página de créditos (página legal o nota de edición) y colofón en portafolio en PDF descargable (0,0 a 1,0), considerando nivel del curso.
+
+- Punto base de 1,0.
 
 - - - - - 
 
