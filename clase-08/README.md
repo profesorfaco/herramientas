@@ -279,4 +279,42 @@ Corresponde revisar las indicaciones dejadas como comentarios en el código fuen
 
 - - - - - 
 
+### Entregas
+
+| Nombre | Web | Creada | PDF descargable |
+|:-----------|:-------------------------|:-----:|:-------:| 
+| [Claudio Abarca](https://github.com/Kupaa-0/segunda-nota/) | https://kupaa-0.github.io/segunda-nota | P | P |
+| [Anaís Aedo](https://github.com/anaisvalentina/segunda-nota/) | https://anaisvalentina.github.io/segunda-nota/ | P | P |
+| [Carol Álvarez](https://github.com/CarolMabel/segunda-nota/) | https://carolmabel.github.io/segunda-nota/ | P | P |
+| [Martina Araos](https://github.com/martina-af/segunda-nota/) | https://martina-af.github.io/segunda-nota/ | P | P |
+| [Valentina Ávila](https://github.com/valentinaavila21/segunda-nota/) | https://valentinaavila21.github.io/segunda-nota/ | P | P |
+| [Camila Calquín](https://github.com/Camila-calquin/segunda-nota/) | https://camila-calquin.github.io/segunda-nota/ | P | P |
+| [Javier Castillo](https://github.com/javvierCC/segunda-nota/) | https://javviercc.github.io/segunda-nota/ | P | P |
+| [Angelina Caviedes](https://github.com/gilicvnz/segunda-nota/) | https://gilicvnz.github.io/segunda-nota/ | P | P |
+| [Millaray Dinamarca](https://github.com/milladincea/segunda-nota/) | https://milladincea.github.io/segunda-nota/ | P | P |
+| [Catalyna Dunsmore](https://github.com/catadunsmore/segunda-nota/) | https://catadunsmore.github.io/segunda-nota/ | P | P |
+| [Fernanda García](https://github.com/marfghid/segunda-nota/) | https://marfghid.github.io/segunda-nota | P | P |
+| [Antonia Lara](https://github.com/antonialarah/segunda-nota/) | https://antonialarah.github.io/segunda-nota/ | P | P |
+| [Antonia Mardones](https://github.com/antoniamardones/segunda-nota/) | https://antoniamardones.github.io/segunda-nota/ | P | P |
+| [Ayline Marín](https://github.com/aylineoff/segunda-nota/) | https://aylineoff.github.io/segunda-nota | P | P |
+| [Vicente Medina](https://github.com/vicentemedinat/segunda-nota/) | https://vicentemedinat.github.io/segunda-nota/ | P | P |
+| [Constanza Ortega](https://github.com/shootingstarcony/segunda-nota/) | https://shootingstarcony.github.io/segunda-nota/ | P | P |
+| [Sayen Padilla](https://github.com/evorakie/segunda-nota/) | https://evorakie.github.io/segunda-nota/ | P | P |
+| [Sofia Parra](https://github.com/SofiaParraLunaUCH/segunda-nota/) | https://sofiaparralunauch.github.io/segunda-nota/ | P | P |
+| [Giulia Pepe](https://github.com/catsgugu/segunda-nota/) | https://catsgugu.github.io/segunda-nota/ | P | P |
+| [Renata Pereira](https://github.com/lenapereoso/segunda-nota/) | https://lenapereoso.github.io/segunda-nota/ | P | P |
+| [Bastián Petric](https://github.com/Bastich03/segunda-nota/) | https://bastich03.github.io/segunda-nota/ | P | P |
+| [Francisco Pino](https://github.com/FranciscoPinoAUCh/segunda-nota/) | https://franciscopinoauch.github.io/segunda-nota/ | P | P |
+| [Benjamín Rivas](https://github.com/benjaminrivasm/segunda-nota/) | https://benjaminrivasm.github.io/herramientas-computacionales/segunda-nota/ | P | P |
+| [Antonia Solar](https://github.com/antoniasolar/segunda-nota/) | https://antoniasolar.github.io/segunda-nota/ | P | P |
+| [Alanis Soto](https://github.com/Alanissq/segunda-nota/) | https://alanissq.github.io/segunda-nota/ | P | P |
+| [Veronica Soto](https://github.com/ronnistp/segunda-nota/) | https://ronnistp.github.io/segunda-nota/ | P | P |
+| [Valentina Troncoso](https://github.com/valentinatroncoso/segunda-nota/) | https://valentinatroncoso.github.io/segunda-nota/ | P | P |
+| [Martina Urzúa](https://github.com/martinaurzua/segunda-nota/) | https://martinaurzua.github.io/segunda-nota/ | P | P |
+| [Diego Vera](https://github.com/dv29ast/segunda-nota/) | https://dv29ast.github.io/segunda-nota/ | P | P |
+
+
+
+- - - - - 
+
 [← Clase 07](https://github.com/profesorfaco/herramientas/tree/main/clase-07) | [Clase 09 →](https://github.com/profesorfaco/herramientas/tree/main/clase-09)
