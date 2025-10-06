@@ -310,7 +310,7 @@ Corresponde revisar las indicaciones dejadas como comentarios en el código fuen
 | [Alanis Soto](https://github.com/Alanissq/segunda-nota/) | https://alanissq.github.io/segunda-nota/ | ✗ | ✗ |
 | [Veronica Soto](https://github.com/ronnistp/segunda-nota/) | https://ronnistp.github.io/segunda-nota/ | ✓ | ✓ |
 | [Valentina Troncoso](https://github.com/valentinatroncoso/segunda-nota/) | https://valentinatroncoso.github.io/segunda-nota/ | ✓ | ✓ |
-| [Martina Urzúa](https://github.com/martinaurzua/segunda-nota/) | https://martinaurzua.github.io/segunda-nota/ | ✓ | ✗ |
+| [Martina Urzúa](https://github.com/martinaurzua/segunda-nota/) | https://martinaurzua.github.io/segunda-nota/ | ✓ | ✓ |
 | [Diego Vera](https://github.com/dv29ast/segunda-nota/) | https://dv29ast.github.io/segunda-nota/ | ✓ | ✓ |
 
 
