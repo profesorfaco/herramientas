@@ -271,9 +271,9 @@ Corresponde revisar las indicaciones dejadas como comentarios en el código fuen
 
 - Calidad de CV en portafolio en PDF descargable (0,0 a 1,0), considerando [imagen personal adaptada a un tono pertinente a su identidad](https://bananaprompts.xyz/), además de un texto adaptado a determinada oferta laboral de su interés.
 
-- Calidad de presentación de trabajos en portafolio en PDF descargable (0,0 a 1,0), considerando nivel del curso.
+- Calidad de presentación de trabajos en PDF descargable (0,0 a 1,0), considerando nivel y votación del curso.
 
-- Calidad de cubierta en continuidad con contracubierta, página de créditos (página legal o nota de edición) y colofón en portafolio en PDF descargable (0,0 a 1,0), considerando nivel del curso.
+- Calidad de cubierta en continuidad con contracubierta, página de créditos (página legal o nota de edición) y colofón en PDF descargable (0,0 a 1,0), considerando nivel y votación del curso.
 
 - Punto base de 1,0.
 
