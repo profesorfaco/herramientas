@@ -287,7 +287,7 @@ Corresponde revisar las indicaciones dejadas como comentarios en el código fuen
 | [Anaís Aedo](https://github.com/anaisvalentina/segunda-nota/) | https://anaisvalentina.github.io/segunda-nota/ | ✓ | ✓ |
 | [Carol Álvarez](https://github.com/CarolMabel/segunda-nota/) | https://carolmabel.github.io/segunda-nota/ | ✓ | ✓ |
 | [Martina Araos](https://github.com/martina-af/segunda-nota/) | https://martina-af.github.io/segunda-nota/ | ✓ | ✓ |
-| [Valentina Ávila](https://github.com/valentinaavila21/segunda-nota/) | https://valentinaavila21.github.io/segunda-nota/ | ✓ | ✗ |
+| [Valentina Ávila](https://github.com/valentinaavila21/segunda-nota/) | https://valentinaavila21.github.io/segunda-nota/ | ✓ | ✓ |
 | [Camila Calquín](https://github.com/Camila-calquin/segunda-nota/) | https://camila-calquin.github.io/segunda-nota/ | ✓ | ✓ |
 | [Javier Castillo](https://github.com/javvierCC/segunda-nota/) | https://javviercc.github.io/segunda-nota/ | ✓ | ✓ |
 | [Angelina Caviedes](https://github.com/gilicvnz/segunda-nota/) | https://gilicvnz.github.io/segunda-nota/ | ✓ | ✓ |
