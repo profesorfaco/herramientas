@@ -246,7 +246,7 @@ El resultado debe publicarse en una página web, como PDF. La página web debe b
         </div>
         
         <div class="right-section">
-            <!--tercer punto por los ajuste en la sección izquierda-->
+            <!--tercer punto por los ajuste en la sección derecha-->
             <div class="mugshot-container">
                 <div class="badge">
                     <!--vincule a su cuenta en GitHub-->
