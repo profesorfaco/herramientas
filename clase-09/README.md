@@ -18,15 +18,15 @@ Lo que nosotros podamos crear será afectado por el derecho de autor, que
 
 Derecho que podemos complementar si es que queremos otorgar ciertos permisos bajo ciertas condiciones; esto podemos hacerlo con [las licencias Creative Commons](https://creativecommons.org/share-your-work/cclicenses/).
 
-Ahora, volviendo a Blender, la referencia que nos conviene mantener a mano es: https://docs.blender.org/manual/es/4.5/modeling/index.html
+Ahora, **volviendo a Blender**, la referencia que nos conviene mantener a mano es: https://docs.blender.org/manual/es/4.5/modeling/index.html
 
-**Y conviene recordar: https://www.instagram.com/reel/DNMevSiR882/**
+**Y conviene recordar lo del conjunto de herramientas, casi como una navaja suiza: https://www.instagram.com/reel/DNMevSiR882/**
 
 - - - - - 
 
 En la primera clase dedicada a Blender exploraremos una parte pequeña de esta "navaja suiza". 
 
-En caso de paro, la clase puede recuperarse con:
+En caso de paro, esta clase podría recuperarse con:
 
 - https://www.youtube.com/watch?v=4EthpH6vmUc
 
@@ -39,3 +39,4 @@ En caso de paro, la clase puede recuperarse con:
 - - - - - 
 
 [← Clase 08](https://github.com/profesorfaco/herramientas/tree/main/clase-08)
+
