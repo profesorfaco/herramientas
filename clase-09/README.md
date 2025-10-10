@@ -20,7 +20,7 @@ Derecho que podemos complementar si es que queremos otorgar ciertos permisos baj
 
 Ahora, volviendo a Blender, la referencia que nos conviene mantener a mano es: https://docs.blender.org/manual/es/4.5/modeling/index.html
 
-Y conviene recordar: https://www.instagram.com/reel/DNMevSiR882/ 
+**Y conviene recordar: https://www.instagram.com/reel/DNMevSiR882/**
 
 - - - - - 
 
