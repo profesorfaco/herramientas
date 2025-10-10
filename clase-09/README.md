@@ -10,7 +10,7 @@ El conjunto de herramientas digitales que ofrece Blender se distribuye bajo la L
 
 Tal tipo de distribución implica adherir a una filosofía descrita en: https://www.gnu.org/philosophy/philosophy.html
 
-Pero Blender adhiere a tal filosofía y la licencia GPL, no es necesario que adhieran a ellas quienes trabajemos como Blender.
+Pero es Blender el que adhiere a tal filosofía y la licencia GPL, no es necesario que adhieran a ellas quienes trabajan con Blender.
 
 Lo que nosotros podamos crear será afectado por el derecho de autor, que
 
@@ -20,6 +20,7 @@ Derecho que podemos complementar si es que queremos otorgar ciertos permisos baj
 
 Ahora, volviendo a Blender, la referencia que nos conviene mantener a mano es: https://docs.blender.org/manual/es/4.5/modeling/index.html
 
+Y conviene recordar: https://www.instagram.com/reel/DNMevSiR882/ 
 
 - - - - - 
 
