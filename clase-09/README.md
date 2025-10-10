@@ -24,4 +24,18 @@ Y conviene recordar: https://www.instagram.com/reel/DNMevSiR882/
 
 - - - - - 
 
+En la primera clase dedicada a Blender exploraremos una parte pequeña de esta "navaja suiza". 
+
+En caso de paro, la clase puede recuperarse con:
+
+- https://www.youtube.com/watch?v=4EthpH6vmUc
+
+- https://www.youtube.com/watch?v=jQVAHiAuBY0
+
+- https://www.youtube.com/watch?v=5A0HEVdlOZI
+
+- https://www.youtube.com/watch?v=ibesjWeFlyI
+
+- - - - - 
+
 [← Clase 08](https://github.com/profesorfaco/herramientas/tree/main/clase-08)
