@@ -38,5 +38,11 @@ En caso de paro, esta clase podría recuperarse con:
 
 - - - - - 
 
+En caso tengan problemas con la creación de su modelo 3D desde una imagen, usar: 
+
+https://drive.google.com/file/d/1gKLBseR2LPeHM2EY7-tQSPNWR4OQ6IjI/view?usp=sharing
+
+- - - - -
+
 [← Clase 08](https://github.com/profesorfaco/herramientas/tree/main/clase-08)
 
