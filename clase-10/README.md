@@ -26,6 +26,16 @@ Una "buena geometría" a veces es llamada "buena topología", otro concepto usad
 
 Sea que agreguemos un cubo o un mono, Blender añadirá un **Mesh**. Para darle forma, trabajas en el **Modo Edición** (Edit Mode) moviendo, añadiendo o eliminando sus **vértices, bordes y caras**.
 
+- - - - - 
+
+Ahora que conocen los bloques de construcción, es hora de encender Blender, entrar al Modo Edición y empezar a mover esos vértices. Cada clic, cada arrastre, cada extrusión es un paso para convertir una idea en una realidad 3D.
+
+¡El universo de posibilidades creativas en Blender es infinito! No tengan miedo de experimentar, de cometer errores y de aprender de ellos. Tomen este conocimiento fundamental y transfórmenlo en algo asombroso. ¡A modelar se ha dicho!
+
+- - - - - 
+
+Y comenzaremos modelando máscaras que bien podrían cortarse y llevarse en Halloween. Eso sin imprimir algo encima.
+
 
 
 
