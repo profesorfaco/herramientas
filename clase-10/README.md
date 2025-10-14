@@ -4,11 +4,11 @@
 
 En la clase exploratoria de [la semana pasada](https://github.com/profesorfaco/herramientas/tree/main/clase-09) se dijo, más de una vez, **Geometría** y **Mesh**. Lo dicho se refería a la base del modelado 3D en Blender.
 
-Entender tal base es el primer paso para crear cualquier objeto, sea un simple cubo, una máscaras de Halloween o algo mucho más complejo.
+Entender tal base es el primer paso para crear cualquier objeto, sea un simple cubo, una máscaras de Halloween o algo mucho más complejo. Por eso conviene leer lo que sigue:
 
 #### Geometría
 
-La **Geometría** es el término amplio que describe la forma, el tamaño, la posición y las propiedades de los objetos en el espacio 3D. En el contexto de Blender. Refiere a **todo lo que tiene una forma espacial**.
+La **Geometría** es el término amplio que describe forma, tamaño, posición, propiedades de los objetos en el espacio 3D. En el contexto de Blender. Refiere a **todo lo que tiene una forma espacial**.
 
 La calidad de la geometría insidirá en cómo el objeto interactúa con las luces y las sombras, y cómo puede [modificarse](https://www.youtube.com/watch?v=qIlXmWFZxyQ). 
 
