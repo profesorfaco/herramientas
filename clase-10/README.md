@@ -32,7 +32,13 @@ Ahora que conocen los bloques de construcción, es hora de entrar al Modo Edici�
 
 - - - - - 
 
-Y la primera idea a modelar será una máscara para Halloween.
+La primera idea a modelar será una máscara para Halloween.
+
+y les adelanto dos *tips*:
+
+https://www.youtube.com/shorts/9rAmjXdj5Lg
+
+https://www.youtube.com/watch?v=FoCg7PgBa3M
 
 - - - - - 
 
