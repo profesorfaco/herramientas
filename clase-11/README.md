@@ -2,6 +2,7 @@
 
 ### Trabajo práctico, en sala (20% del promedio final)
 
+Pendiente.
 
 - - - - - 
 
