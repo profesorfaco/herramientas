@@ -24,7 +24,7 @@ Una "buena geometría" a veces es llamada "buena topología", otro concepto usad
 
 3. **Caras (Faces):** Las superficies planas delimitadas por los bordes (idealmente cuatro, llamados **Quads**, aunque Blender también usa **Tris** (tres lados) o **N-gons** (más de cuatro lados)). Estas caras son lo que ves y lo que se renderiza.
 
-Sea que agregues un cubo o un mono, Blender añadirá un **Mesh**. Para darle forma, trabajas en el **Modo Edición** (Edit Mode) moviendo, añadiendo o eliminando sus **vértices, bordes y caras**.
+Sea que agreguemos un cubo o un mono, Blender añadirá un **Mesh**. Para darle forma, trabajas en el **Modo Edición** (Edit Mode) moviendo, añadiendo o eliminando sus **vértices, bordes y caras**.
 
 
 
