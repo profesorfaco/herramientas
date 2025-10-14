@@ -34,6 +34,8 @@ Ahora que conocen los bloques de construcción, es hora de entrar al Modo Edici�
 
 Y la primera idea a modelar será una máscara para Halloween.
 
+- - - - - 
 
+[← Clase 09](https://github.com/profesorfaco/herramientas/tree/main/clase-09) | [Clase 11 →](https://github.com/profesorfaco/herramientas/tree/main/clase-11)
 
 
