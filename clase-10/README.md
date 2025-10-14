@@ -12,7 +12,7 @@ La **Geometría** es el término amplio que describe forma, tamaño, posición, 
 
 La calidad de la geometría insidirá en cómo el objeto interactúa con las luces y las sombras, y cómo puede [modificarse](https://www.youtube.com/watch?v=qIlXmWFZxyQ). 
 
-Una "buena geometría" a veces es llamada "buena topología", otro concepto usado en la clase recién pasada.
+Una "buena geometría" a veces es llamada **buena topología**, otro concepto usado en la clase recién pasada.
 
 #### Mesh (Malla)
 
@@ -22,21 +22,17 @@ Una "buena geometría" a veces es llamada "buena topología", otro concepto usad
 
 2. **Bordes (Edges):** Las líneas que conectan dos vértices. Forman el esqueleto de la malla.
 
-3. **Caras (Faces):** Las superficies planas delimitadas por los bordes (idealmente cuatro, llamados **Quads**, aunque Blender también usa **Tris** (tres lados) o **N-gons** (más de cuatro lados)). Estas caras son lo que ves y lo que se renderiza.
+3. **Caras (Faces):** Las superficies planas delimitadas por los bordes.
 
-Sea que agreguemos un cubo o un mono, Blender añadirá un **Mesh**. Para darle forma, trabajas en el **Modo Edición** (Edit Mode) moviendo, añadiendo o eliminando sus **vértices, bordes y caras**.
-
-- - - - - 
-
-Ahora que conocen los bloques de construcción, es hora de encender Blender, entrar al Modo Edición y empezar a trabajar. Cada clic, cada arrastre, cada extrusión es un paso para convertir una idea en una realidad 3D.
-
-¡El universo de posibilidades creativas en Blender es infinito! No tengan miedo de experimentar, de cometer errores y de aprender de ellos. 
-
-Tomen este conocimiento fundamental y transfórmenlo en algo asombroso. ¡A modelar se ha dicho!
+Sea que agreguemos un cubo o una [Suzanne](https://www.youtube.com/watch?v=2vx5UjPLZuI), Blender usará un **Mesh**. Para darle forma: trabaja en el **Modo Edición** (Edit Mode) moviendo, añadiendo o eliminando sus **vértices, bordes y caras**.
 
 - - - - - 
 
-Y lo primero a modelar será una máscara para Halloween.
+Ahora que conocen los bloques de construcción, es hora de entrar al Modo Edición de Blender y empezar a trabajar. Cada clic, cada arrastre, cada extrusión es un paso para darle tres dimensiones a una idea.
+
+- - - - - 
+
+Y la primera idea a modelar será una máscara para Halloween.
 
 
 
