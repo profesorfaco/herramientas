@@ -2,7 +2,7 @@
 
 ### Modelando con Blender
 
-En la clase exploratoria de [la semana pasada](https://github.com/profesorfaco/herramientas/tree/main/clase-09) se dijo, más de una vez, **Geometría** y **Mesh**. En lo dicho se refería a la base del modelado 3D en Blender.
+En la clase exploratoria de [la semana pasada](https://github.com/profesorfaco/herramientas/tree/main/clase-09) se dijo, más de una vez, **Geometría** y **Mesh**. Lo dicho se refería a la base del modelado 3D en Blender.
 
 Entender tal base es el primer paso para crear cualquier objeto, sea un simple cubo, una máscaras de Halloween o algo mucho más complejo.
 
