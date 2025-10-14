@@ -44,5 +44,11 @@ https://drive.google.com/file/d/1gKLBseR2LPeHM2EY7-tQSPNWR4OQ6IjI/view?usp=shari
 
 - - - - -
 
-[← Clase 08](https://github.com/profesorfaco/herramientas/tree/main/clase-08)
+### Entregas
+
+Pendiente
+
+- - - - - 
+
+[← Clase 08](https://github.com/profesorfaco/herramientas/tree/main/clase-08) | [Clase 10 →](https://github.com/profesorfaco/herramientas/tree/main/clase-10)
 
