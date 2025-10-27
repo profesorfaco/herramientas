@@ -8,10 +8,10 @@ Para calificar nuestra introducción a Blender, que se aprovecha de la extensió
 |:-------|:---------|:--------|
 | Máscara de Halloween | buena topología del modelo | Hasta 1,0 |
 | Máscara de Halloween | tamaño, oficio y material | Hasta 1,0 |
-| Reintepretación del animal en lata de Procesos y Prototipo | buena topología del modelo | Hasta 1,0 |
-| Reintepretación del animal en lata de Procesos y Prototipo | tamaño, oficio y material | Hasta 1,0 |
-| Reinterpretación del taburete en madera de Procesos y Prototipo | buena topología del modelo | Hasta 1,0 |
-| Reinterpretación del taburete en madera de Procesos y Prototipo | tamaño, oficio y material | Hasta 1,0 |
+| Reintepretación del animal en lata (de Procesos y Prototipo) | buena topología del modelo | Hasta 1,0 |
+| Reintepretación del animal en lata (de Procesos y Prototipo) | tamaño, oficio y material | Hasta 1,0 |
+| Reinterpretación del taburete en madera (de Procesos y Prototipo) | buena topología del modelo | Hasta 1,0 |
+| Reinterpretación del taburete en madera (de Procesos y Prototipo) | tamaño, oficio y material | Hasta 1,0 |
 
 A los criterios recién referidos se les suma 1,0 punto base. La suma idea de todos los puntos es igual a 7,0.
 
