@@ -15,7 +15,7 @@ Para calificar nuestra introducción a Blender, que se aprovecha de la extensió
 
 A los criterios recién referidos se les suma 1,0 punto base. La suma idea de todos los puntos es igual a 7,0.
 
-Para comprender un concepto en uso, copy/paste: 
+Para comprender un concepto en uso, *copy* - *paste*: 
 
 > La topología de un modelo 3D se refiere a la organización y distribución de los vértices, aristas y caras que lo componen, formando la estructura base que define el comportamiento del modelo durante la animación o el renderizado.
 
