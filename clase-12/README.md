@@ -8,6 +8,8 @@ Esto es para marcar un hito en https://uchile.cl/bachillergeneral
 
 Se trata de algo casi nuevo https://uchile.cl/noticias/219384/estudiantes-de-la-u-de-chile-pueden-obtener-nuevo-grado-de-bachiller-
 
+### Avances:
+
 |	Foto	| Nombre	|	GitHub | Portafolio |
 |:-------:|:-------|:-------|:----------|
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/99/991a2c1f191ccfcfc0fe2525db45303e/perfil/7d0ca9e947225ce2ad0d5e5f63afa1ee.jpg) | Claudio Abarca	| https://github.com/Kupaa-0 | https://disenouchile.github.io/portafolio/claudio_abarca |
