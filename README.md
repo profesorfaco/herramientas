@@ -72,7 +72,7 @@ Clase-11 → 27/10/2025 → [Trabajo práctico, en sala (20% del promedio final)
 
 Clase-12 → 3/11/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-12
 
-Clase-13 → 10/11/2025
+Clase-13 → 10/11/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-13
 
 Clase-14 → 17/11/2025 → Avance de trabajo final.
 
