@@ -26,4 +26,5 @@ Lo que corresponde a la topología es, como se indicó en la clase, la simplicid
 
 - - - - - 
 
-[← Clase 10](https://github.com/profesorfaco/herramientas/tree/main/clase-10)
+[← Clase 10](https://github.com/profesorfaco/herramientas/tree/main/clase-10) | [Clase 12→](https://github.com/profesorfaco/herramientas/tree/main/clase-12)
+
