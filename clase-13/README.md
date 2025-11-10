@@ -2,7 +2,6 @@
 
 Seguimos avanzando.
 
-
 De tener un arreglo (`[…]`) con detalles de cada trabajo en objetos ([{…},{…},{…}]), pasaremos a tener un JSON. 
 
 Si antes teníamos un arreglo, dentro del código JavaScript, que se llamaba `trabajitos` y debíamos repetir en `index.html` y `single.html`, ahora tendremos un documento independiente que se llamará `trabajitos.json`.
@@ -53,9 +52,6 @@ La `description` aportará un texto que, idealmente, dé indicaciones de estar t
 
 La `gallery` debe ser única imagen, que se vean como un conjunto de imágenes que nos muestran distintas perspectivas del mismo trabajo.
 
-- - - - - - - 
-
-Pauta pendiente.
 
 - - - - - - - 
 
@@ -76,4 +72,8 @@ Es posible configurar un sitio de tal tipo con GitHub Pages. O sea, con lo mismo
 - Otro video de complemento al artículo: [Hosting GRATIS con Dominio propio (Dominio Personalizado Github Pages)](https://www.youtube.com/watch?v=tzjl91RP_To)
 
 **Toma algunos minutos seguir los pasos descritos en el [artículo](https://ggerena.medium.com/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)**. No exige horas. Sí exige concentrarse mucho en tales minutos
+
+- - - - - 
+
+[← Clase 12](https://github.com/profesorfaco/herramientas/tree/main/clase-12) | [Clase 14→](https://github.com/profesorfaco/herramientas/tree/main/clase-14)
 
