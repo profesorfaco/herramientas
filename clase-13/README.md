@@ -2,4 +2,78 @@
 
 Seguimos avanzando.
 
+
+De tener un arreglo (`[…]`) con detalles de cada trabajo en objetos ([{…},{…},{…}]), pasaremos a tener un JSON. 
+
+Si antes teníamos un arreglo, dentro del código JavaScript, que se llamaba `trabajitos` y debíamos repetir en `index.html` y `single.html`, ahora tendremos un documento independiente que se llamará `trabajitos.json`.
+
+JSON (JavaScript Object Notation - Notación de Objetos de JavaScript) es un formato ligero de intercambio de datos que utiliza convenciones que son conocidas por los programadores que trabajan en C, C++, C#, Java, Python, etc. Por eso JSON es ideal para el intercambio de datos.
+
+El gran cambio respecto de lo anterior está en unas comillas más.
+
+Si antes cada trabajo debía describirse: 
+
+```
+{
+	id: 1,
+	photo: "https://anaisvalentina.github.io/primera-nota/img/lahora.webp",
+	title: "La hora de conectarnos",
+	course: "Proyecto III",
+}
+```
+
+En JSON debe describirse:
+
+```
+{
+	"id": 1,
+	"photo": "https://anaisvalentina.github.io/primera-nota/img/lahora.webp",
+	"title": "La hora de conectarnos",
+	"course": "Proyecto III",
+}
+```
+
+
+Aprovechando este cambio, agregaremos un par de datos más por cada trabajo, para que termine estructurándose de la siguiente manera: 
+
+```
+{
+	"id": 1,
+	"photo": "https://raw.githubusercontent.com/anaisvalentina/imagenes/refs/heads/main/te.webp",
+	"title": "La hora de conectarnos",
+	"course": "Proyecto III",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum hendrerit lorem. Curabitur sodales feugiat libero. Nullam in lorem ut sem tempor accumsan nec vitae lacus. Sed vel finibus ex, quis euismod lorem. Aliquam eget leo sapien. Proin velit diam, suscipit vitae mi vel, laoreet finibus nisl. Pellentesque a purus eleifend, congue ante nec, aliquam risus.",
+	"gallery": "https://raw.githubusercontent.com/profesorfaco/herramientas/refs/heads/main/clase-13/gallery.webp"
+}
+```
+
+La `description` aportará un texto que, idealmente, dé indicaciones de estar terminando un ciclo que, según reglamento de carrera: 
+
+> tiene como objetivo fundamental formar al (a la) estudiante para observar, interactuar y comprender su entorno, estableciendo una mirada crítica y problematizándolo mediante el análisis y diagnóstico inicial. A partir de ello el (la) estudiante podrá idear soluciones innovadoras que se traducirán en modelos conceptuales y físicos. Al finalizar la etapa, el (la) estudiante reconocerá problemas esenciales, modelará y formalizará posibles soluciones mediante metodologías y herramientas propias de la disciplina, y habrá adquirido las competencias básicas para conceptualizar, representar y comunicar sus propuestas de Diseño.
+
+La `gallery` debe ser única imagen, que se vean como un conjunto de imágenes que nos muestran distintas perspectivas del mismo trabajo.
+
+- - - - - - - 
+
+Pauta pendiente.
+
+- - - - - - - 
+
+#### Para más adelante:
+
 ¿Sabía ud. que puede usar GitHub Pages con dominios de primer nivel?
+
+Los dominios de primer nivel pueden ser geográficos ([ccTLD – country code Top Level Domains](https://es.wikipedia.org/wiki/Dominio_de_nivel_superior_geogr%C3%A1fico)) o genéricos ([gTLD – generic Top Level Domains](https://es.wikipedia.org/wiki/Dominio_de_nivel_superior_gen%C3%A9rico))
+
+Por ejemplo, `minombre.cl` es uno geográfico. Mientras `minombre.com` es uno genérico.
+
+Es posible configurar un sitio de tal tipo con GitHub Pages. O sea, con lo mismo que han podido aprender hasta ahora, podría crear su sitio web personal, con un dominio profesional. Para hacerlo, recomiendo guiarse con:
+
+- **Artículo: [Configurar GitHub Pages para usar dominios.cl](https://ggerena.medium.com/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)**
+
+- Video de complemento al artículo: [Hosting gratuito con GitHub Pages y dominio personalizado](https://www.youtube.com/watch?v=nbUR1jzVI5g&t=328s)
+
+- Otro video de complemento al artículo: [Hosting GRATIS con Dominio propio (Dominio Personalizado Github Pages)](https://www.youtube.com/watch?v=tzjl91RP_To)
+
+**Toma algunos minutos seguir los pasos descritos en el [artículo](https://ggerena.medium.com/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)**. No exige horas. Sí exige concentrarse mucho en tales minutos
+
