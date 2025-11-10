@@ -40,4 +40,9 @@ Se trata de algo casi nuevo https://uchile.cl/noticias/219384/estudiantes-de-la-
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/1f/1f2591f6c8216de20df592c4467c4f40/perfil/2daf0b9215d782859fb4bb2c655dcc2a.jpg)	|	Veronica Soto | https://github.com/ronnistp | https://disenouchile.github.io/portafolio/veronica_soto | ✓ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/7a/7a339fe48aa3bd2fcee12a945bd6e8a4/perfil/32f89ecf96a8d4a0025fdecb105fb73c.jpg)	|	Valentina Troncoso | https://github.com/valentinatroncoso | https://disenouchile.github.io/portafolio/valentina_troncoso | ✓ |
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/f3/f3010585248916cc90e7dfd21f9183a3/perfil/c84d5d312c2b487c383303c5112f6243.jpg)	|	Martina Urzúa	| https://github.com/martinaurzua | https://disenouchile.github.io/portafolio/martina_urzua | ✓ |
+
+
+- - - - - 
+
+[← Clase 11](https://github.com/profesorfaco/herramientas/tree/main/clase-11) | [Clase 13→](https://github.com/profesorfaco/herramientas/tree/main/clase-13)
 |	![alt text](https://ucampus.uchile.cl/d/r/usuario/0c/0cc1383f745b3664019554312cfda2a1/perfil/4e1d63de2963fd529c7e61e3c39e18f8.jpg)	|	Diego Vera | https://github.com/DiegoV29-AST | https://disenouchile.github.io/portafolio/diego_vera | X |
