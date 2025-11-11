@@ -34,11 +34,11 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 **Sexto punto**: En CSS ajusta los colores, para transmitir únicamente a través de tal recurso, sus rasgos identitarios. En este ajuste cuida el *contrast ratio*.
 
-**Extra**: Puede ganar 0,5 punto si logra generar con Inteligencia Artificial una `photo` y un `gallery` para el trabajo de la máscara de halloween que debía entregar en Herramientas Digitales, a un nivel que supere lo que sigue: 
+**Extra**: Puede ganar 0,5 punto si logra generar con Inteligencia Artificial una `photo` y un `gallery` para presentar la máscara de halloween desarrollada para Herramientas Digitales. En el `gallery` debe superar lo que sigue:
 
-![conejo](https://github.com/user-attachments/assets/1206e105-27b9-4af9-976a-46e95c939c41)
+![conejo-ok](https://github.com/user-attachments/assets/d3ada657-4e78-4a01-9680-8052e347262b)
 
-Que parezca hecha con papel o cartón real, y que alguien la lleve puesta. Lo que faltaría sería un pantallazo del espacio de trabajo en Blender para completar el montaje y hacerlo más "plausible".
+Para superarlo, asegúrse de que parezca de papel o cartón real, que alguien la lleve puesta, pero antes: Agregue un pantallazo del espacio de trabajo en Blender para completar el montaje y hacerlo más "plausible".
 
 
 - - - - - 
