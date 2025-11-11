@@ -26,7 +26,7 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 - (0,25) habilidades tomadas de las competencias sello de la Universidad de Chile
 
-- (0,5) imagen que puede replicarse en perfil de LinkedIn
+- (0,5) imagen que puede replicarse en perfil de LinkedIn que ya está vinculado
 
 **Cuarto punto**: El `index.html` exhibe imágenes del mismo formato, con alta calidad y bajo peso (menor a 200kb). La imagen deben ofrecer información completa de una perspectiva de cada propuesta, para llamar la atención a la búsqueda de más detalle. Por ejemplo: si es un taburete, que aparezca completo, si las patas están cortadas, es que la información ofrecida estaría incompleta.
 
