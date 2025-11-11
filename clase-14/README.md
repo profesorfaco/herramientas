@@ -34,3 +34,7 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 **Sexto punto**: En CSS sólo ajusta los colores, para transmitir, sólo a través de tal recurso, sus rasgos identitarios. En este ajuste cuida el *contrast ratio*.
 
+- - - - - 
+
+[← Clase 13](https://github.com/profesorfaco/herramientas/tree/main/clase-13) | [Clase 15→](https://github.com/profesorfaco/herramientas/tree/main/clase-15)
+
