@@ -18,7 +18,7 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
   
 - (0,25) En el nombre de cada imagen reemplaza los espacios por guiones y evita el uso de tildes (á, é, í, ó, ú) o virgulillas (ñ)
 
-- (0,25) La denominación de cada imagen resulta lógica, en el sentido de ofrecer una secuencia que fácilmente podría modificarse o ampliarse. Por ejemplo: `photo_1.webp`, `gallery_1.webp`, `photo_2.wepb`, `gallery_2.webp` 
+- (0,25) La denominación de cada imagen resulta lógica, en el sentido de ofrecer una secuencia que fácilmente podría modificarse o ampliarse. Por ejemplo: `photo_1.webp`, `gallery_1.webp`, `photo_2.wepb`, `gallery_2.webp`…… `photo_17.wepb`, `gallery_17.webp`
 
 **Tercer punto**: El `about.html` ofrece
 
