@@ -46,7 +46,7 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 ![conejo-ok](https://github.com/user-attachments/assets/d3ada657-4e78-4a01-9680-8052e347262b)
 
-Para superarlo, asegúrse de ofrecer una imagen de alta resolución, con (1) una máscara con elástico que parezca de papel o cartón real, que (2) alguien la lleve puesta, pero antes: (3) agregue un pantallazo del espacio de trabajo en Blender para completar el montaje y hacerlo más "plausible".
+Para superarlo, asegúrse de ofrecer una imagen de alta resolución, con (1) una máscara con elástico que parezca de papel o cartón real, que (2) alguien lleve puesta, pero antes: (3) agregue un pantallazo del espacio de trabajo en Blender para completar el montaje y hacerlo más "plausible".
 
 
 - - - - - 
