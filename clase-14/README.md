@@ -38,7 +38,7 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 **Sexto punto**: En `style.css` ajusta únicamente 
 
-- (0,5) los colores, para transmitir con tal recurso, sus rasgos identitarios.
+- (0,5) los colores, para transmitir con tal recurso, y sutileza, sus rasgos identitarios.
 
 - (0,5) En este ajuste cuida el *contrast ratio* para la legibilidad.
 
