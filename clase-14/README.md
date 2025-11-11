@@ -36,9 +36,9 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 - (0,5) una imagen tipo galería, que cuidando resolución y peso (menor a 400 kb) ofrezca varias vistas de un mismo trabajo. Recuerde que en este caso puede ayudarse con la inteligencia artificial.
 
-**Sexto punto**: En CSS 
+**Sexto punto**: En `style.css` ajusta únicamente 
 
-- (0,5) ajusta los colores, para transmitir únicamente a través de tal recurso, sus rasgos identitarios.
+- (0,5) los colores, para transmitir con tal recurso, sus rasgos identitarios.
 
 - (0,5) En este ajuste cuida el *contrast ratio* para la legibilidad.
 
