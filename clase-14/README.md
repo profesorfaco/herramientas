@@ -32,5 +32,5 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 **Quinto punto**: En cada `single.html` se despliega un texto descriptor del trabajo, trabajado para demostrar que al resolverlo ponían en juego algo del *objetivo fundamental formar al (a la) estudiante para observar, interactuar y comprender su entorno, estableciendo una mirada crítica y problematizándolo mediante el análisis y diagnóstico inicial. A partir de ello el (la) estudiante podrá idear soluciones innovadoras que se traducirán en modelos conceptuales y físicos. Al finalizar la etapa, el (la) estudiante reconocerá problemas esenciales, modelará y formalizará posibles soluciones mediante metodologías y herramientas propias de la disciplina, y habrá adquirido las competencias básicas para conceptualizar, representar y comunicar sus propuestas de Diseño* ([art. 5, párr. 1; reglamento de la carrera](https://fau.uchile.cl/dam/jcr:3f7b4e53-cea0-48fe-9f31-8e1991e21d29/Dise%EF%BF%BDo_v4.pdf)).
 
-**Sexto punto**: Pendiente.
+**Sexto punto**: En CSS sólo ajusta los colores, para transmitir a través de tal recurso su identidad. En esta modificación cuida el *contrast ratio*.
 
