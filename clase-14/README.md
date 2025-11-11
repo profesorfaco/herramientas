@@ -28,17 +28,25 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 - (0,5) imagen que puede replicarse en perfil de LinkedIn
 
-**Cuarto punto**: El `index.html` exhibe imágenes de alta calidad en un mismo formato (*forma* y *ta*maño), el que contiene la información completa de cada propuesta para llamar la atención a la búsqueda de más detalle.
+**Cuarto punto**: El `index.html` exhibe imágenes del mismo formato, con alta calidad y bajo peso (menor a 200kb). La imagen deben ofrecer información completa de una perspectiva de cada propuesta, para llamar la atención a la búsqueda de más detalle. Por ejemplo: si es un taburete, que aparezca completo, si las patas están cortadas, es que la información ofrecida estaría incompleta.
 
-**Quinto punto**: En cada `single.html` se despliega un texto descriptor del trabajo, trabajado para demostrar que al resolverlo ponían en juego algo del *objetivo fundamental formar al (a la) estudiante para observar, interactuar y comprender su entorno, estableciendo una mirada crítica y problematizándolo mediante el análisis y diagnóstico inicial. A partir de ello el (la) estudiante podrá idear soluciones innovadoras que se traducirán en modelos conceptuales y físicos. Al finalizar la etapa, el (la) estudiante reconocerá problemas esenciales, modelará y formalizará posibles soluciones mediante metodologías y herramientas propias de la disciplina, y habrá adquirido las competencias básicas para conceptualizar, representar y comunicar sus propuestas de Diseño* ([art. 5, párr. 1; reglamento de la carrera](https://fau.uchile.cl/dam/jcr:3f7b4e53-cea0-48fe-9f31-8e1991e21d29/Dise%EF%BF%BDo_v4.pdf)).
+**Quinto punto**: En cada `single.html` se despliega 
 
-**Sexto punto**: En CSS ajusta los colores, para transmitir únicamente a través de tal recurso, sus rasgos identitarios. En este ajuste cuida el *contrast ratio*.
+- (0,5) un texto descriptor del trabajo, trabajado para demostrar que al resolverlo ponían en juego algo del *objetivo fundamental formar al (a la) estudiante para observar, interactuar y comprender su entorno, estableciendo una mirada crítica y problematizándolo mediante el análisis y diagnóstico inicial. A partir de ello el (la) estudiante podrá idear soluciones innovadoras que se traducirán en modelos conceptuales y físicos. Al finalizar la etapa, el (la) estudiante reconocerá problemas esenciales, modelará y formalizará posibles soluciones mediante metodologías y herramientas propias de la disciplina, y habrá adquirido las competencias básicas para conceptualizar, representar y comunicar sus propuestas de Diseño* ([art. 5, párr. 1; reglamento de la carrera](https://fau.uchile.cl/dam/jcr:3f7b4e53-cea0-48fe-9f31-8e1991e21d29/Dise%EF%BF%BDo_v4.pdf)).
+
+- (0,5) una imagen tipo galería, que cuidando resolución y peso (menor a 400 kb) ofrezca varias vistas de un mismo trabajo. Recuerde que en este caso puede ayudarse con la inteligencia artificial.
+
+**Sexto punto**: En CSS 
+
+- (0,5) ajusta los colores, para transmitir únicamente a través de tal recurso, sus rasgos identitarios.
+
+- (0,5) En este ajuste cuida el *contrast ratio* para la legibilidad.
 
 **Extra**: Puede ganar 0,5 punto si logra generar con Inteligencia Artificial una `photo` y un `gallery` para presentar la máscara de halloween desarrollada para Herramientas Digitales. En el `gallery` debe superar lo que sigue:
 
 ![conejo-ok](https://github.com/user-attachments/assets/d3ada657-4e78-4a01-9680-8052e347262b)
 
-Para superarlo, asegúrse de que parezca de papel o cartón real, que alguien la lleve puesta, pero antes: Agregue un pantallazo del espacio de trabajo en Blender para completar el montaje y hacerlo más "plausible".
+Para superarlo, asegúrse de ofrecer una imagen de alta resolución, con (1) una máscara con elástico que parezca de papel o cartón real, que (2) alguien la lleve puesta, pero antes: (3) agregue un pantallazo del espacio de trabajo en Blender para completar el montaje y hacerlo más "plausible".
 
 
 - - - - - 
