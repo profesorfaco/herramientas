@@ -42,7 +42,9 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 - (0,5) En este ajuste cuida el *contrast ratio* para la legibilidad.
 
-**Extra**: Puede ganar 0,5 punto si logra generar con Inteligencia Artificial y algo de Photoshop (o Photopea) una `photo` y un `gallery` para presentar la máscara de halloween desarrollada para Herramientas Digitales. En el `gallery` debe superar lo que sigue:
+### Extra
+
+Puede ganar 0,5 punto si logra generar con Inteligencia Artificial y algo de Photoshop (o Photopea) una `photo` y un `gallery` para presentar la máscara de halloween desarrollada para Herramientas Digitales. En el `gallery` debe superar lo que sigue:
 
 ![conejo-ok](https://github.com/user-attachments/assets/d3ada657-4e78-4a01-9680-8052e347262b)
 
