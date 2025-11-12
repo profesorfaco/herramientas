@@ -8,7 +8,7 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 - - - - - - - 
 
-**Punto base**: Avance en clase del lunes 10 de noviembre. 
+**Punto base**: Avance en clase del lunes 10 de noviembre. En caso de no haber podido asisitir, tiene haste el viernes 14/11, a medio día, para enviar correo indicando que hay avance en la carpeta de repositorio de la organización: https://github.com/disenouchile/portafolio
 
 **Primer punto**: Cada página debe tener sus metatados completos, basados en lo que pueden obtener desde https://metatags.io/
 
@@ -44,7 +44,7 @@ Sin embargo, quien requiera del computador de la sala G-34, puede avisar con ant
 
 ### Extra
 
-Puede ganar 0,5 punto si logra generar con Inteligencia Artificial y algo de Photoshop (o Photopea) una `photo` y un `gallery` para presentar la máscara de halloween desarrollada para Herramientas Digitales. En el `gallery` debe superar lo que sigue:
+Puede ganar 0,5 punto si logra generar con Inteligencia Artificial y algo de Photoshop (o Photopea) una `photo` y un `gallery` para presentar la *máscara de halloween* desarrollada para Herramientas Digitales. En el `gallery` debe superar lo que sigue:
 
 ![conejo-ok](https://github.com/user-attachments/assets/d3ada657-4e78-4a01-9680-8052e347262b)
 
