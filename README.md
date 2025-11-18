@@ -76,6 +76,6 @@ Clase-13 → 10/11/2025 → https://github.com/profesorfaco/herramientas/tree/ma
 
 Clase-14 → 17/11/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-14
 
-Clase-15 → 24/11/2025 → Entrega de trabajo final (40% del promedio final)
+Clase-15 → 24/11/2025 → https://github.com/profesorfaco/herramientas/tree/main/clase-15
 
 
