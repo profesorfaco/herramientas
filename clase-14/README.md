@@ -6,7 +6,7 @@ Es semana de trabajo autónomo. Se considera lectiva pero sin docencia directa.
 
 Sin embargo, quien requiera del computador de la sala G-34, puede avisar con anterioridad para solicitar la sala y abrirla a la hora correspondiente.
 
-- - - - - - - 
+- - - - - - - - 
 
 **Punto base**: Avance en clase del lunes 10 de noviembre. En caso de no haber podido asisitir, tiene haste el viernes 14/11, a medio día, para enviar correo indicando que hay avance en la carpeta de repositorio de la organización: https://github.com/disenouchile/portafolio
 
