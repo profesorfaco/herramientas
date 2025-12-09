@@ -1273,19 +1273,6 @@
 		"gallery": "https://aylineoff.github.io/imagenes/galerias/galeria11.webp"
 	},
 	{
-		"student": "Benjamín Rivas",
-		"student_surname": "Rivas",
-		"student_name": "Benjamín",
-		"id": 347,
-		"photo": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/toy.webp",
-		"title": "Modelado Juguete",
-		"course": "Modelamiento y representación digital",
-		"course_code": "AUD6I015",
-		"lecturer": "Claudio Fredes",
-		"description": "<p>Este proyecto se enfocó en la lógica constructiva y la documentación técnica de un objeto ensamblable. Se modeló en Rhinoceros un juguete de madera tipo robot, analizando cómo piezas simples se articulan para formar un conjunto complejo.</p><p>Complementando el modelo 3D, se elaboró la planimetría técnica completa en AutoCAD. Esta etapa implicó el despiece detallado del objeto, la definición de cotas y la organización de vistas para comunicar el proceso de armado.</p><p>El resultado es un paquete de documentación técnica profesional que valida la geometría del objeto y sirve como guía para su eventual fabricación.</p>",
-		"gallery": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/toy_gallery.webp"
-	},
-	{
 		"student": "Anais Aedo",
 		"student_surname": "Aedo",
 		"student_name": "Anais",
@@ -4981,19 +4968,6 @@
 		"student": "Benjamín Rivas",
 		"student_surname": "Rivas",
 		"student_name": "Benjamín",
-		"id": 340,
-		"photo": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/jacket.webp",
-		"title": "Chaqueta-Abrigo Asimétrica",
-		"course": "Proyecto V",
-		"course_code": "AUD5I001",
-		"lecturer": "Pablo Nuñez",
-		"description": "<p>El proyecto nace de la deconstrucción del corset, no como elemento restrictivo, sino reinterpretando su estructura desde una mirada contemporánea. El objetivo fue investigar cómo la rigidez puede existir sin imponer disciplina sobre el cuerpo.</p><p>La propuesta materializa esta idea en una chaqueta que fusiona la elegancia estructural de un abrigo victoriano con la resistencia cotidiana de la mezclilla. El diseño desplaza el eje tradicional mediante un cruce delantero asimétrico, mientras que la cola posterior dividida alarga la silueta y aporta dinamismo al caminar.</p><p>Detalles como las costuras visibles y el entalle actúan como vestigios de un pasado rígido, contrastados por la asimetría que introduce libertad de movimiento. La pieza final habita la tensión entre lo formal y lo disidente, cuestionando la relación histórica entre estructura, cuerpo y vestimenta.</p><p><b>La pieza fue modelada por Tihare Madariaga.</b></p>",
-		"gallery": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/jacket_gallery.webp"
-	},
-	{
-		"student": "Benjamín Rivas",
-		"student_surname": "Rivas",
-		"student_name": "Benjamín",
 		"id": 352,
 		"photo": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/souvenir.webp",
 		"title": "Souvenir FAU",
@@ -5002,19 +4976,6 @@
 		"lecturer": "Carlota Durán",
 		"description": "<p><b>Realizado en conjunto con Roberto Pardo.</b></p><p>El proyecto consistió en el diseño y producción de un souvenir cerámico representativo de la Facultad de Arquitectura y Urbanismo. Se seleccionó la figura de “San Guatita”, un personaje folclórico y muy querido dentro de la FAU, asociado a la perseverancia estudiantil.</p><p>El flujo de trabajo integró tecnologías digitales y artesanales, la figura fue modelada en Blender e impresa en 3D para generar la matriz. A partir de este positivo se fabricó un molde de yeso para colada. Finalmente, se realizó el vaciado en cerámica y el proceso de secado controlado.</p><p>La pieza resultante demuestra la capacidad de reproducir formas orgánicas complejas mediante moldes, cerrando el ciclo desde el archivo digital hasta el objeto cerámico tangible.</p>",
 		"gallery": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/souvenir_gallery.webp"
-	},
-	{
-		"student": "Benjamín Rivas",
-		"student_surname": "Rivas",
-		"student_name": "Benjamín",
-		"id": 343,
-		"photo": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/germinator.webp",
-		"title": "Germinador Subvida",
-		"course": "Proyecto VI",
-		"course_code": "AUD6I001",
-		"lecturer": "Carlota Durán",
-		"description": "<p>El proyecto investiga las propiedades de la arcilla, como porosidad, capilaridad y retención, para diseñar un germinador funcional optimizado para semillas mucilaginosas como chía o linaza. El diseño busca emular sistemas naturales de distribución de agua.</p><p>Conceptualizado desde el reino fungi, el objeto toma al micelio como referente estructural y funcional por su capacidad de conexión y transporte de nutrientes. <i>Subvida</i> se formaliza en una semiesfera de arcilla con una textura superficial que maximiza el área de germinación, una base bruñida para contener el agua y un sistema de riego por capilaridad desde un recipiente superior.</p><p>La pieza no solo cumple una función biológica, sino que visualiza el paralelo entre la red de micelio y el entramado de raíces que emerge al germinar, integrando materialidad y concepto en un objeto vivo.</p>",
-		"gallery": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/germinator_gallery.webp"
 	},
 	{
 		"student": "Alanis Soto",
