@@ -4965,19 +4965,6 @@
 		"gallery": "https://raw.githubusercontent.com/valentinatroncoso/Gallery/refs/heads/main/8_volantin.webp"
 	},
 	{
-		"student": "Benjamín Rivas",
-		"student_surname": "Rivas",
-		"student_name": "Benjamín",
-		"id": 352,
-		"photo": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/souvenir.webp",
-		"title": "Souvenir FAU",
-		"course": "Proyecto V",
-		"course_code": "AUD5I001",
-		"lecturer": "Carlota Durán",
-		"description": "<p><b>Realizado en conjunto con Roberto Pardo.</b></p><p>El proyecto consistió en el diseño y producción de un souvenir cerámico representativo de la Facultad de Arquitectura y Urbanismo. Se seleccionó la figura de “San Guatita”, un personaje folclórico y muy querido dentro de la FAU, asociado a la perseverancia estudiantil.</p><p>El flujo de trabajo integró tecnologías digitales y artesanales, la figura fue modelada en Blender e impresa en 3D para generar la matriz. A partir de este positivo se fabricó un molde de yeso para colada. Finalmente, se realizó el vaciado en cerámica y el proceso de secado controlado.</p><p>La pieza resultante demuestra la capacidad de reproducir formas orgánicas complejas mediante moldes, cerrando el ciclo desde el archivo digital hasta el objeto cerámico tangible.</p>",
-		"gallery": "https://benjaminrivasm.github.io/herramientas-computacionales/img-portafolio/souvenir_gallery.webp"
-	},
-	{
 		"student": "Alanis Soto",
 		"student_surname": "Soto",
 		"student_name": "Alanis",
