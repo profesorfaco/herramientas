@@ -230,14 +230,14 @@
 </head>
 <body>
   <header>
-    <h1>Muestra de 27 estudiantes y 422 de sus trabajos</h1>
+    <h1>Muestra de 27 estudiantes y 417 de sus trabajos</h1>
     <h2>La mayor parte del estudiantado de la muestra ingresará, en primer semestre de 2026, al segundo ciclo de formación (donde se ofertan asignaturas específicas de cada mención de la carrera).</h2>
     <div class="filter-container">
       <select id="courseFilter">
         <option value="all">Todos los trabajos</option>
       </select>
     </div>
-    <p id="descriptor">Al finalizar el primer ciclo de formación, el (la) estudiante reconocerá problemas esenciales, modelará y formalizará posibles soluciones mediante metodologías y herramientas propias de la disciplina, y habrá adquirido las competencias básicas para conceptualizar, representar y comunicar sus propuestas de Diseño.</p>
+    <p id="descriptor">Al finalizar el primer ciclo de formación, el (la) estudiante reconocerá problemas esenciales, modelará y formalizará posibles soluciones mediante metodologías y herramientas propias de la disciplina, y habrá adquirido las competencias básicas para conceptualizar, representar y comunicar sus propuestas de Diseño (art.5 del reglamento de carrera).</p>
   </header>
   
   <div id="gridContainer">
@@ -296,22 +296,22 @@
 
     function updateDescriptor(filterValue) {
       const descriptor = {
-        "all": "Al finalizar el primer ciclo de formación, el (la) estudiante reconocerá problemas esenciales, modelará y formalizará posibles soluciones mediante metodologías y herramientas propias de la disciplina, y habrá adquirido las competencias básicas para conceptualizar, representar y comunicar sus propuestas de Diseño.",
-        "AUD10001": "Proyecto I: Desarrollo de la observación, definición y conceptualización de relaciones presentes en el entorno a través de los procesos de conceptualización y las herramientas de representación propias del Diseño.",
-        "AUD20001": "Proyecto II: Profundizar en la observación y problematización del contexto, entregar herramientas para la conceptualización de propuestas de diseño a través de proyectos de baja complejidad que aborden aspectos de interfaz e interacción.",
-        "AUD30001": "Proyecto III: Conocimiento, aplicación y comprensión de la metodología del diseño, con énfasis en sus especialidades. Integración de los conceptos de contexto y usuario, problema o necesidad, requerimientos, atributos y restricciones para el planteamiento de propuestas de diseño.",
-        "AUD40001": "Proyecto IV: Profundización en herramientas e instrumentos propios de la metodología del diseño, con énfasis en sus especialidades. Desarrollo de propuestas de complejidad media, que consideren contextos multiescalares e integren restricciones y variables productivas básicas.",
-        "AUD10003": "Lenguaje y Significación: Desarrollo del lenguaje en función de la sintaxis, el análisis, el significado y al servicio de la propuesta conceptual y proyectual.",
-        "AUD10004": "Matemáticas Aplicadas al Diseño: Entrega de herramientas específicas para la solución de problemas matemáticos frecuentes en el ejercicio profesional del Diseño (ej. Razones y proporciones, áreas y volúmenes, geometría analítica, álgebra, fundamentos estadísticos).",
-        "AUD10005": "Configuración Visual I: Entrega y práctica de los fundamentos para la configuración en el plano, el estudio de los significados y procesos perceptivos, mediante el uso de la geometría plana, a través de técnicas análogas y uso de software gráfico.",
-        "AUD20003": "Representación Conceptual: Representación de ideas, propuestas, interacciones y relaciones a través de imágenes, mediante técnicas como el sketch, la fotografía, los mapas conceptuales, el video y otras.",
-        "AUD20005": "Configuración Visual II: Entrega y práctica de los fundamentos para la configuración en el espacio, el estudio de los significados y procesos perceptivos, mediante el uso de la geometría tridimensional, a través técnicas análogas y uso de software de modelamiento 3D.",
-        "AUD30002": "Diseño, Estética y Sociedad: Entrega conocimientos generales y capacidades para formular, desarrollar, exponer y debatir posturas fundamentadas en torno a intervenciones disciplinares en contextos sociales, tecnológicos, económicos y culturales.",
-        "AUD30003": "Comunicación del Proyecto de Diseño: Integración de técnicas gráficas, multimediales, conceptuales y discursivas para la comunicación de ideas, propuestas y soluciones finales de modo apropiado a diferentes contextos profesionales y disciplinares.",
-        "AUD30004": "Ergonomía y Factores Humanos: Conocer los criterios ergonómicos, antropométricos, biomecánicos y humanos que inciden en la interacción entre las personas y sus contextos. Capacitar en el uso de herramientas e instrumentos específicos de la ergonomía para la evaluación y optimización de propuestas de diseño.",
-        "AUD30005": "Procesos y Prototipos I: Introducción al prototipo como parte de la metodología del Diseño. Conocimiento teórico y práctico de procesos productivos de baja complejidad para la comunicación y validación de propuestas de diseño a través de prototipos.",
-        "AUD40005": "Procesos y Prototipos II: Integración del proceso de elaboración de prototipos en los procesos de producción. Conocimiento teórico y práctico de procesos productivos semi-industriales e industriales y para la verificación e integración de propuestas de diseño de diferente naturaleza.",
-        "AUD40004": "Herramientas Computacionales: Conocer los fundamentos teóricos de la computación gráfica, su relación con el diseño y su integración a las diversas etapas del proyecto. Iniciarse en el dominio de herramientas para la representación técnica bidimensional bajo normativa y el modelamiento tridimensional de superficies con fines de representación y productivos."
+        "all": "Al finalizar el primer ciclo de formación, el (la) estudiante reconocerá problemas esenciales, modelará y formalizará posibles soluciones mediante metodologías y herramientas propias de la disciplina, y habrá adquirido las competencias básicas para conceptualizar, representar y comunicar sus propuestas de Diseño (art.5 del reglamento de carrera).",
+        "AUD10001": "Proyecto I – Desarrollo de la observación, definición y conceptualización de relaciones presentes en el entorno a través de los procesos de conceptualización y las herramientas de representación propias del Diseño.",
+        "AUD20001": "Proyecto II – Profundizar en la observación y problematización del contexto, entregar herramientas para la conceptualización de propuestas de diseño a través de proyectos de baja complejidad que aborden aspectos de interfaz e interacción.",
+        "AUD30001": "Proyecto III – Conocimiento, aplicación y comprensión de la metodología del diseño, con énfasis en sus especialidades. Integración de los conceptos de contexto y usuario, problema o necesidad, requerimientos, atributos y restricciones para el planteamiento de propuestas de diseño.",
+        "AUD40001": "Proyecto IV – Profundización en herramientas e instrumentos propios de la metodología del diseño, con énfasis en sus especialidades. Desarrollo de propuestas de complejidad media, que consideren contextos multiescalares e integren restricciones y variables productivas básicas.",
+        "AUD10003": "Lenguaje y Significación – Comunicación, primer semestre – Desarrollo del lenguaje en función de la sintaxis, el análisis, el significado y al servicio de la propuesta conceptual y proyectual.",
+        "AUD10004": "Matemáticas Aplicadas al Diseño – Tecnología, primer semestre – Entrega de herramientas específicas para la solución de problemas matemáticos frecuentes en el ejercicio profesional del Diseño (ej. Razones y proporciones, áreas y volúmenes, geometría analítica, álgebra, fundamentos estadísticos).",
+        "AUD10005": "Configuración Visual I – Morfología, primer semestre – Entrega y práctica de los fundamentos para la configuración en el plano, el estudio de los significados y procesos perceptivos, mediante el uso de la geometría plana, a través de técnicas análogas y uso de software gráfico.",
+        "AUD20003": "Representación Conceptual – Comunicación, segundo semestre – Representación de ideas, propuestas, interacciones y relaciones a través de imágenes, mediante técnicas como el sketch, la fotografía, los mapas conceptuales, el video y otras.",
+        "AUD20005": "Configuración Visual II – Morfología, segundo semestre – Entrega y práctica de los fundamentos para la configuración en el espacio, el estudio de los significados y procesos perceptivos, mediante el uso de la geometría tridimensional, a través técnicas análogas y uso de software de modelamiento 3D.",
+        "AUD30002": "Diseño, Estética y Sociedad – Teoría, tercer semestre – Entrega conocimientos generales y capacidades para formular, desarrollar, exponer y debatir posturas fundamentadas en torno a intervenciones disciplinares en contextos sociales, tecnológicos, económicos y culturales.",
+        "AUD30003": "Comunicación del Proyecto de Diseño – Comunicación, tercer semestre – Integración de técnicas gráficas, multimediales, conceptuales y discursivas para la comunicación de ideas, propuestas y soluciones finales de modo apropiado a diferentes contextos profesionales y disciplinares.",
+        "AUD30004": "Ergonomía y Factores Humanos – Tecnología, tercer semestre – Conocer los criterios ergonómicos, antropométricos, biomecánicos y humanos que inciden en la interacción entre las personas y sus contextos. Capacitar en el uso de herramientas e instrumentos específicos de la ergonomía para la evaluación y optimización de propuestas de diseño.",
+        "AUD30005": "Procesos y Prototipos I – Morfología, tercer semestre – Introducción al prototipo como parte de la metodología del Diseño. Conocimiento teórico y práctico de procesos productivos de baja complejidad para la comunicación y validación de propuestas de diseño a través de prototipos.",
+        "AUD40005": "Procesos y Prototipos II  – Morfología, cuarto semestre – Integración del proceso de elaboración de prototipos en los procesos de producción. Conocimiento teórico y práctico de procesos productivos semi-industriales e industriales y para la verificación e integración de propuestas de diseño de diferente naturaleza.",
+        "AUD40004": "Herramientas Computacionales  – Tecnología, cuarto semestre – Conocer los fundamentos teóricos de la computación gráfica, su relación con el diseño y su integración a las diversas etapas del proyecto. Iniciarse en el dominio de herramientas para la representación técnica bidimensional bajo normativa y el modelamiento tridimensional de superficies con fines de representación y productivos."
       };
       
       const descriptorElement = document.getElementById('descriptor');
