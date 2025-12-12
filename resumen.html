@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -259,12 +258,36 @@
     let allProjects = [];
     let currentFilter = 'all';
 
+    // Función para obtener parámetros de la URL
+    function getUrlParameter(name) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(name);
+    }
+
+    // Función para actualizar la URL sin recargar la página
+    function updateUrl(code) {
+      const url = new URL(window.location);
+      if (code === 'all') {
+        url.searchParams.delete('code');
+      } else {
+        url.searchParams.set('code', code);
+      }
+      window.history.pushState({}, '', url);
+    }
+
     async function loadProjects() {
       try {
         const response = await fetch(API_URL);
         if (!response.ok) throw new Error('Error al cargar los datos');
         
         allProjects = await response.json();
+        
+        // Obtener código de la URL si existe
+        const urlCode = getUrlParameter('code');
+        if (urlCode) {
+          currentFilter = urlCode;
+        }
+        
         populateFilters();
         renderGrid();
       } catch (error) {
@@ -287,8 +310,13 @@
         select.appendChild(option);
       });
       
+      // Establecer el valor del select según el filtro actual
+      select.value = currentFilter;
+      updateDescriptor(currentFilter);
+      
       select.addEventListener('change', (e) => {
         currentFilter = e.target.value;
+        updateUrl(currentFilter);
         updateDescriptor(currentFilter);
         renderGrid();
       });
@@ -365,6 +393,15 @@
       if (e.key === 'Escape') {
         closeModal();
       }
+    });
+
+    // Manejar navegación del navegador (botones atrás/adelante)
+    window.addEventListener('popstate', function() {
+      const urlCode = getUrlParameter('code');
+      currentFilter = urlCode || 'all';
+      document.getElementById('courseFilter').value = currentFilter;
+      updateDescriptor(currentFilter);
+      renderGrid();
     });
 
     loadProjects();
